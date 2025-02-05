@@ -1,0 +1,66 @@
+#------------------------------------------------------------------------------------------------------------------------------------
+#Tilman 21/11/2024
+#------------------------------------------------------------------------------------------------------------------------------------
+
+#------------------------------------------------------------------------------------------------------------------------------------
+#HOUSEHOLDING
+#------------------------------------------------------------------------------------------------------------------------------------
+
+#Clean out all user defined data
+rm(list = ls())
+
+#------------------------------------------------------------------------------------------------------------------------------------
+#PACKAGES
+#------------------------------------------------------------------------------------------------------------------------------------
+
+library('Hmisc')
+library('dplyr')
+library('stringr')
+#library('sf')
+library('tidyverse')
+library('data.table')
+library('DescTools')
+library('parallel')
+
+setwd("/Users/tilmanjacobs/Documents/ifo/census_cleaning")
+
+#set this to either '/IPUMS_' or '/dta_' depending on the data you are working with
+ipums_or_census <- '/IPUMS_'
+
+year <- 1950
+
+cleaning_input <- list.files(paste0("input/", year)) %>% 
+  str_remove("IPUMS_") %>%
+  str_remove(".csv")
+
+
+#hanover_data <- read.csv('input/1950/IPUMS_New Hanover_NC.csv')
+
+input_dir <- paste0("input/", year)
+output_dir <- paste0("output/", year)
+
+clean_1950_file <- function(county){
+  # Read the data and convert all column names to lowercase
+  county_data <- fread(paste0(input_dir,ipums_or_census, county , ".csv"), stringsAsFactors = FALSE, na.strings= c("NA","nan","")) %>%  
+                as.data.frame() %>%
+                setnames(tolower(names(.)))  # Convert all column names to lowercase
+  
+  # Update the grep pattern to lowercase since we're now matching lowercase column names
+  county_data <- county_data[,!grepl("^q", names(county_data))]
+
+  # Make sure these variable names are lowercase to match the new column names
+  drop <- c("rectype", "rectypep", "datanump", "slwtreg",    
+            "momrule_hist", "poprule_hist",
+            "sprule_hist", "perwt", "datanum", "pageno", "perwtreg", "imageied",
+            "momloc", "poploc", "stepmom", "steppop", "bplstr", "mbplstr", "fbpstr", "occstr", "mtongstr", "mcit5str", "indstr", "fbplstr",
+            "relstr")
+  county_data <- county_data[, !(names(county_data) %in% drop)]
+
+  return(county_data)
+}
+
+# Assign the function output to a variable
+hanover_data <- clean_1950_file('New Hanover_NC')
+
+
+
