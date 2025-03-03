@@ -45,5 +45,5 @@ If you see "Permission denied" errors:
 ### Python Environment Issues
 Make sure you have:
 1. Python installed
-2. The virtual environment (`.venv`) set up in the parent directory
+2. The virtual environment (`.venv`) set up in the parent directory (.../TVA)
 3. All required packages installed in the virtual environment 
