@@ -43,6 +43,9 @@ def clean_text(text):
     # Replace underscores with minus signs
     cleaned_text = re.sub(r'_', '-', cleaned_text)
     
+    # Remove spaces between minus signs
+    cleaned_text = re.sub(r'-\s+-', '--', cleaned_text)
+    
     # Remove periods and minus signs at the end of lines
     cleaned_text = re.sub(r'[.-]+(?=\n|$)', '', cleaned_text)
     
@@ -64,7 +67,8 @@ def clean_text(text):
 def pdf_to_text(pdf_path, output_txt):
     # Open the PDF file in read-binary mode
     with open(pdf_path, 'rb') as pdf_file:
-        # Create a PdfReader object instead of PdfFileReader
+        
+        # Create a PdfReader object 
         pdf_reader = PyPDF2.PdfReader(pdf_file)
 
         # Initialize an empty string to store the text
