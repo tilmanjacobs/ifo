@@ -1,8 +1,11 @@
 @echo off
 setlocal
 
-:: Set python path to use .venv from parent directory
-set PYTHON_PATH=%~dp0..\.venv\Scripts\python.exe
+:: Set python path to use .venv from parent directory of TVA
+set PYTHON_PATH=%~dp0..\..\..\.venv\Scripts\python.exe
+
+:: Change to TVA directory where the Python scripts are
+cd %~dp0..\..
 
 :ask
 set /p test_mode="Do you want to run in test mode? (y/n): "
@@ -32,6 +35,13 @@ echo Running pdf_to_txt.py...
 "%PYTHON_PATH%" pdf_to_txt.py
 if errorlevel 1 goto error
 echo Successfully completed pdf_to_txt.py
+
+:run_csv
+echo.
+echo Running txt_to_csv.py...
+"%PYTHON_PATH%" txt_to_csv.py
+if errorlevel 1 goto error
+echo Successfully completed txt_to_csv.py
 goto end
 
 :error
