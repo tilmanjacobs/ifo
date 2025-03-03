@@ -28,23 +28,23 @@ done
 echo
 
 if [ "$test_mode" = true ]; then
-    echo "Running ocr_2.py in test mode..."
-    "$PYTHON_PATH" ocr_2.py --test
+    echo "Running ocr.py in test mode..."
+    "$PYTHON_PATH" python/ocr.py --test
 else
-    echo "Running ocr_2.py..."
-    "$PYTHON_PATH" ocr_2.py
+    echo "Running ocr.py..."
+    "$PYTHON_PATH" python/ocr.py
 fi
 
 if [ $? -ne 0 ]; then
-    echo "Error running ocr_2.py"
+    echo "Error running ocr.py"
     read -p "Press enter to exit"
     exit 1
 fi
 
-echo "Successfully completed ocr_2.py"
+echo "Successfully completed ocr.py"
 echo
 echo "Running pdf_to_txt.py..."
-"$PYTHON_PATH" pdf_to_txt.py
+"$PYTHON_PATH" python/pdf_to_txt.py
 
 if [ $? -ne 0 ]; then
     echo "Error running pdf_to_txt.py"
@@ -55,7 +55,7 @@ fi
 echo "Successfully completed pdf_to_txt.py"
 echo
 echo "Running txt_to_csv.py..."
-"$PYTHON_PATH" txt_to_csv.py
+"$PYTHON_PATH" python/txt_to_csv.py
 
 if [ $? -ne 0 ]; then
     echo "Error running txt_to_csv.py"
