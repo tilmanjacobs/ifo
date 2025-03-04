@@ -1,8 +1,11 @@
 @echo off
 setlocal
 
-:: Set python path to use .venv from parent directory
-set PYTHON_PATH=%~dp0..\.venv\Scripts\python.exe
+:: Set python path to use .venv from parent directory of TVA
+set PYTHON_PATH=%~dp0..\..\..\.venv\Scripts\python.exe
+
+:: Change to TVA directory where the Python scripts are
+cd %~dp0..\..
 
 :ask
 set /p test_mode="Do you want to run in test mode? (y/n): "
@@ -13,25 +16,32 @@ goto ask
 
 :run_test
 echo.
-echo Running ocr_2.py in test mode...
-"%PYTHON_PATH%" ocr_2.py --test
+echo Running ocr.py in test mode...
+"%PYTHON_PATH%" python/ocr.py --test
 if errorlevel 1 goto error
-echo Successfully completed ocr_2.py
+echo Successfully completed ocr.py
 goto run_pdf
 
 :run_normal
 echo.
-echo Running ocr_2.py...
-"%PYTHON_PATH%" ocr_2.py
+echo Running ocr.py...
+"%PYTHON_PATH%" python/ocr.py
 if errorlevel 1 goto error
-echo Successfully completed ocr_2.py
+echo Successfully completed ocr.py
 
 :run_pdf
 echo.
 echo Running pdf_to_txt.py...
-"%PYTHON_PATH%" pdf_to_txt.py
+"%PYTHON_PATH%" python/pdf_to_txt.py
 if errorlevel 1 goto error
 echo Successfully completed pdf_to_txt.py
+
+:run_csv
+echo.
+echo Running txt_to_csv.py...
+"%PYTHON_PATH%" python/txt_to_csv.py
+if errorlevel 1 goto error
+echo Successfully completed txt_to_csv.py
 goto end
 
 :error
