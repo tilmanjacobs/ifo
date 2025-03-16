@@ -3,7 +3,6 @@ pdf/*
 pdf_no_ocr/*
 txt/*
 pdf_ocr/*
-csv/*
 
 
 # Don't ignore .gitkeep files (to maintain folder structure)
@@ -11,4 +10,3 @@ csv/*
 !pdf_no_ocr/.gitkeep
 !txt/.gitkeep 
 !pdf_ocr/.gitkeep   
-!csv/.gitkeep

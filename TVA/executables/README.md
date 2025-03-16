@@ -28,12 +28,11 @@ This folder contains executable scripts for running the OCR processing tools on 
 ## What the Scripts Do
 
 These scripts will:
-1. Ask if you want to run in test mode (only runs for the first page of each pdf to save time)
+1. Ask if you want to run in test mode
 2. Run ocr_2.py with your chosen mode
 3. Run pdf_to_txt.py
-4. Run txt_to_csv.py to create CSV files from the text files
-5. Show progress and any error messages
-6. Wait for you to press Enter before closing
+4. Show progress and any error messages
+5. Wait for you to press Enter before closing
 
 ## Troubleshooting
 
@@ -46,19 +45,5 @@ If you see "Permission denied" errors:
 ### Python Environment Issues
 Make sure you have:
 1. Python installed
-2. The virtual environment (`.venv`) set up in the parent directory of TVA folder
-3. All required packages installed in the virtual environment
-
-### Directory Structure
-Expected structure:
-```
-ifo/
-├── .venv/
-└── TVA/
-    └── executables/
-        ├── mac/
-        │   ├── run_ocr.sh
-        │   └── run_ocr.command
-        └── windows/
-            └── run_ocr.bat
-``` 
+2. The virtual environment (`.venv`) set up in the parent directory (.../TVA)
+3. All required packages installed in the virtual environment 

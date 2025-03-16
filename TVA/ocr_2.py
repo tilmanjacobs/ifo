@@ -14,7 +14,6 @@ import json
 
 # Test mode flag - if True, only processes first page of first PDF
 TEST_MODE = True
-TEST_PAGES = 1  # Default number of pages to process in test mode
 
 # Define the input and output directories
 input_dir = 'pdf'
@@ -109,16 +108,7 @@ if not pdf_files:
     exit(0)
 
 if TEST_MODE:
-    print("Running in TEST MODE")
-    while True:
-        try:
-            TEST_PAGES = int(input("Enter number of pages to process per PDF (default: 1): ") or "1")
-            if TEST_PAGES > 0:
-                break
-            print("Please enter a positive number")
-        except ValueError:
-            print("Please enter a valid number")
-    print(f"Processing first {TEST_PAGES} page(s) of each PDF file")
+    print("Running in TEST MODE - processing first page of each PDF file")
 
 # Get denoising parameters for each PDF
 denoising_params = get_denoising_params(pdf_files)
@@ -132,9 +122,9 @@ for pdf_file in pdf_files:
         # Convert the PDF pages to high-resolution images.
         # A DPI of 300 is generally a good starting point for OCR.
         pages = convert_from_path(input_pdf_path, dpi=300)
-        # In test mode, only process the specified number of pages
+        # In test mode, only process the first page
         if TEST_MODE:
-            pages = pages[:TEST_PAGES]
+            pages = pages[:1]
     except Exception as e:
         print(f'Error converting "{pdf_file}" to images: {e}')
         continue
