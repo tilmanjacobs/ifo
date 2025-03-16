@@ -1,5 +1,5 @@
 # Ignore contents of data folders but keep folders themselves
-pdf/*
+#pdf/*
 pdf_no_ocr/*
 txt/*
 pdf_ocr/*
