@@ -1,0 +1,2 @@
+stenographer               1.620
+size  5621.42
