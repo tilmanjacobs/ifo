@@ -1109,7 +1109,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Thomas E. Cox             | Carpenter             | 1.00  |
 | William H. Cox             | Storekeeper             | 2,300  |
 | William M. Cox             | Supply clerk             | 1,620  |
-| Simson O. Coxs, Jr. | Draftsman             | 1,900  |
+| Simson O. Coxs, Jr. | Dratteman             | 1,900  |
 | Clarence L. Crabtree             | Highway engineer             | 3,200  |
 | Elisabeth Crabtree             | Secretary             | 2,300  |
 | Henry F. Crabtree             | Carpenter             | 1.00  |
@@ -1131,7 +1131,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Richard L. Crawford             | Draftsman             | 2,000  |
 | George I. Croel             | Foreman             | 2,100  |
 | Homer J. Croel             | Engineering aide             | 1,620  |
-| Carlton Crenshaw             | Draftsman             | 2,200  |
+| Carlton Crenshaw             | Dratteman             | 2,300  |
 | Charles H. Crenshaw             | Steelworker             | 1,124  |
 | James M. Criddle             | Auto mechanic             | 1,620  |
 | Clocher D. Crim             | Blacksmith             | 1.00  |
@@ -1918,80 +1918,80 @@ Names, duties, and compensation of directors, officers, and employees earning co
 |--------------------------------------|----------------------------|-------------|
 | Taylor E. Glass                    | Rigger                          | $1.00  |
 | Chesley H. Glass                    | Structural engineer                        | $2.300  |
-| R. H. Giseves                    | Associate engineer                        | $3.000  |
-| Robert M. Glendinning                   | Geologist                          | $3.200  |
-| Billy M. Glenn                   | Photographer                          | $1.600  |
-| Eugene Byron Glenn                   | Medical officer                          | $3.200  |
-| Hugh W. Glenn                   | Draftsman                          | $2.000  |
-| John W. Glenn                   | Cement finisher                          | $1.00  |
-| Mark T. Glenn                   | Engineering draftsman                          | $1.800  |
-| Marvin W. Glenn                   | Painter                          | $1.00  |
-| Arthur S. Gloeter                   | Engineering aide                          | $2.300  |
-| Brite A. Glover                   | Cement finisher                          | $1.00  |
-| Harmon H. Gunse, Jr.                   | Cost estimator                          | $2.000  |
-| E. M. Gober                   | Pump operator                          | $1.800  |
-| George E. Goble                   | Pipe fitter                          | $1.00  |
-| James E. Goddard                   | Assistant engineer                        | $2.900  |
-| H. Norman Godsball                   | Electrician                          | $1.00  |
-| John H. Goff                   | Transportation economist                        | $3.600  |
-| Stanley C. Goidel                   | Foreman machinist                          | $2.300  |
-| James R. Golns                   | Blacksmith                          | $1.00  |
-| Mason M. Golns                   | Pipe-fitter foreman                          | $1.25  |
-| Verne Gungwer                   | Project engineer                        | $7.200  |
-| James W. Gooch                   | Rigger                          | $1.00  |
-| Percy I. Gooch                   | Carpenter                          | $1.00  |
-| Willie T. Gooch                   | Guarddress                          | $1.600  |
-| George W. Good                   | Painter foreman                          | $1.25  |
-| Wade Good                   | Machinist foreman                          | $1.25  |
-| Dewey D. Goode                   | Steam fitter                          | $1.125  |
-| Joe F. Goode                   | Painter                          | $1.00  |
-| Howard W. Goodhite                   | Hydraulic engineer                        | $3.200  |
-| George W. Goodman                   | Labor foreman                          | $1.00  |
-| Florentine D. Goodrich                   | Treasurer                          | $4.500  |
-| Jody L. Goodwin                   | Ironworker                          | $1.125  |
-| Leon Goodwin                   | Dragline operator                          | $1.25  |
-| Ray Goodwin                   | Highway engineer                        | $2.600  |
-| S. A. Goodwin                   | Ironworker                          | $1.125  |
-| Clarence T. Gordon                   | Hydraulic engineer                        | $2.900  |
-| Frank R. Gordon                   | Electrician                          | $1.00  |
-| John F. Gordon                   | Mechanical superintendent                        | $3.600  |
-| Mary Agnes Gordon                   | Staff assistant                          | $2.600  |
-| Hugh E. Gority                   | Inspector materials                          | $2.600  |
-| Willie C. Gorthy                   | Mechanical engineer                        | $2.300  |
-| Robert L. Goss                   | Draftsman                          | $2.300  |
-| Alex L. Gossett                   | Supply clerk                          | $1.600  |
-| James D. Gossett                   | Carpenter                          | $1.00  |
-| Jones E. Goudelock                   | Storekeeper                          | $1.800  |
-| C. L. Gouffon                   | Erosion engineer                        | $2.300  |
-| Herbert F. Gough                   | Information aide                          | $2.600  |
-| Robert E. Gould                   | Ceramic engineer                        | $6.000  |
-| J. J. Goulden                   | Forest development aide                          | $4.000  |
-| Marion T. Gowder                   | Agronomist                          | $2.900  |
-| Ellis K. Gowens                   | Carpenter                          | $1.00  |
-| Conway Graden                   | Shipmaster                          | $3.200  |
-| J. M. Grady                   | Electrician                          | $1.00  |
-| Robert C. Grady                   | Carpenter                          | $1.00  |
-| Charles H. Graham                   | Electrical engineer                        | $2.900  |
-| E. J. Graham                   | Land appraiser                        | $2.900  |
-| E. W. Graham                   | Blacksmith                          | $1.00  |
-| H. A. Graham                   | Concrete finisher                          | $1.00  |
-| Isaac M. Graham                   | Carpenter                          | $1.00  |
-| John Graham                   | Electrician                          | $1.600  |
-| John R. Graham                   | Painter                          | $1.800  |
-| W. H. Graham                   | Marine engineer                        | $1.00  |
-| W. S. Graham                   | Linsman                          | $1.00  |
-| Edgar C. Granling                   | Carpenter                          | $1.00  |
-| Neil B. Granberg                   | Draftsman                          | $2.000  |
-| Robert J. Granberg                   | Employment aide                          | $1.800  |
-| Louis Grandgent                   | Architectural engineer                        | $3.600  |
-| Rodney L. Grandy                   | Accountant                          | $2.600  |
-| Robert N. Grant                   | Carpenter foreman                          | $1.25  |
-| Roy Grant                   | Steelworker                          | $1.125  |
-| Garrett Graves                   | Labor foreman                          | $1.00  |
-| Hersie B. Graves                   | Carpenter-saw filer                          | $1.00  |
-| Osborne H. Graves                   | Architect                          | $3.200  |
-| Quintin B. Graves                   | Hydraulic engineer                        | $2.300  |
-| William P. Graves                   | Electrician                          | $1.00  |
+| R. H. Giseves                    | Associate engineer                        | 3.000  |
+| Robert M. Glendinning                   | Geologist                          | 3.200  |
+| Billy M. Glenn                   | Photographer                          | 1.620  |
+| Eugene Byron Glenn                   | Medical officer                          | 3.200  |
+| Hugh W. Glenn                   | Draftsman                          | 2.000  |
+| John W. Glenn                   | Cement finisher                          | 1.00  |
+| Mark T. Glenn                   | Engineering draftsman                          | 1.800  |
+| Marvin W. Glenn                   | Painter                          | 1.00  |
+| Arthur S. Gloeter                   | Engineering aide                          | 2.300  |
+| Brite A. Glover                   | Cement finisher                          | 1.00  |
+| Harmon H. Gunse, Jr.                   | Cost estimator                          | 2.000  |
+| E. M. Gober                   | Pump operator                          | 1.800  |
+| George E. Goble                   | Pipe fitter                          | 1.00  |
+| James E. Goddard                   | Assistant engineer                        | 2.900  |
+| H. Norman Godsball                   | Electrician                          | 1.00  |
+| John H. Goff                   | Transportation economist                        | 3.600  |
+| Stanley C. Goidel                   | Foreman machinist                          | 2.300  |
+| James R. Golns                   | Blacksmith                          | 1.00  |
+| Mason M. Golns                   | Pipe-fitter foreman                          | 1.25  |
+| Verne Gungwer                   | Project engineer                        | 7.200  |
+| James W. Gooch                   | Rigger                          | 1.00  |
+| Percy I. Gooch                   | Carpenter                          | 1.00  |
+| Willie T. Gooch                   | Guarddress                          | 1.620  |
+| George W. Good                   | Painter foreman                          | 1.25  |
+| Wade Good                   | Machinist foreman                          | 1.25  |
+| Dewey D. Goode                   | Steam fitter                          | 1.12½ |
+| Joe F. Goode                   | Painter                          | 1.00  |
+| Howard W. Goodhite                   | Hydraulic engineer                        | 3.200  |
+| George W. Goodman                   | Labor foreman                          | 1.00  |
+| Florentine D. Goodrich                   | Treasurer                          | 4.500  |
+| Jody L. Goodwin                   | Ironworker                          | 1.12½ |
+| Leon Goodwin                   | Dragline operator                          | 1.25  |
+| Ray Goodwin                   | Highway engineer                        | 2.600  |
+| S. A. Goodwin                   | Ironworker                          | 1.12½ |
+| Clarence T. Gordon                   | Hydraulic engineer                        | 2.900  |
+| Frank R. Gordon                   | Electrician                          | 1.00  |
+| John F. Gordon                   | Mechanical superintendent                        | 3.600  |
+| Mary Agnes Gordon                   | Staff assistant                          | 2.600  |
+| Hugh E. Gority                   | Inspector materials                          | 2.600  |
+| Willie C. Gorthy                   | Mechanical engineer                        | 2.300  |
+| Robert L. Goss                   | Draftsman                          | 2.300  |
+| Alex L. Gossett                   | Supply clerk                          | 1.620  |
+| James D. Gossett                   | Carpenter                          | 1.00  |
+| Jones E. Goudelock                   | Storekeeper                          | 1.800  |
+| C. L. Gouffon                   | Erosion engineer                        | 2.300  |
+| Herbert F. Gough                   | Information aide                          | 2.600  |
+| Robert E. Gould                   | Ceramic engineer                        | 6.000  |
+| J. J. Goulden                   | Forest development aide                          | 4.000  |
+| Marion T. Gowder                   | Agronomist                          | 2.900  |
+| Ellis K. Gowens                   | Carpenter                          | 1.00  |
+| Conway Graden                   | Shipmaster                          | 3.200  |
+| J. M. Grady                   | Electrician                          | 1.00  |
+| Robert C. Grady                   | Carpenter                          | 1.00  |
+| Charles H. Graham                   | Electrical engineer                        | 2.900  |
+| E. J. Graham                   | Land appraiser                        | 2.900  |
+| E. W. Graham                   | Blacksmith                          | 1.00  |
+| H. A. Graham                   | Concrete finisher                          | 1.00  |
+| Isaac M. Graham                   | Carpenter                          | 1.00  |
+| John Graham                   | Electrician                          | 1.620  |
+| John R. Graham                   | Painter                          | 1.600  |
+| W. H. Graham                   | Marine engineer                        | 1.00  |
+| W. S. Graham                   | Linsman                          | 1.00  |
+| Edgar C. Granling                   | Carpenter                          | 1.00  |
+| Neil B. Granberg                   | Draftsman                          | 2.000  |
+| Robert J. Granberg                   | Employment aide                          | 1.800  |
+| Louis Grandgent                   | Architectural engineer                        | 3.600  |
+| Rodney L. Grandy                   | Accountant                          | 2.600  |
+| Robert N. Grant                   | Carpenter foreman                          | 1.25  |
+| Roy Grant                   | Steelworker                          | 1.12½ |
+| Garrett Graves                   | Labor foreman                          | 1.00  |
+| Hersie B. Graves                   | Carpenter-saw filer                          | 1.00  |
+| Osborne H. Graves                   | Architect                          | 3.200  |
+| Quintin B. Graves                   | Hydraulic engineer                        | 2.300  |
+| William P. Graves                   | Electrician                          | 1.00  |
 
 Page 25
 ================================================================================
@@ -2347,8 +2347,8 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Andy T. Hendrix             | Agriculture engineer             | 1,000  |
 | Frank Henkle             | Blacksmith             | 1,000  |
 | Maurice Henle             | Information assistant             | 4,000  |
-| William P. Henritse             | Line foreman             | 2,000  |
-| Edward B. Henry             | Electrical engineer             | 2,000  |
+| William P. Henritse             | Line foreman             | 2,250  |
+| Edward B. Henry             | Electrical engineer             | 2,900  |
 | Grace Henry             | Accounting clerk             | 1,800  |
 | Hugh B. Henry             | Draftsman             | 1,800  |
 | James E. Henry             | Carpenter             | 1,000  |
@@ -2378,7 +2378,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | William F. Hickman             | Carpenter             | 1,000  |
 | George H. Hickox             | Hydraulic engineer             | 3,000  |
 | Frederick E. Hicks, Jr. | Chief time clerk             | 2,200  |
-| Dr. Gilliam Swink Hicks | Medical officer             | 2,000  |
+| Dr. Gilliam Swink Hicks | Medical officer             | 2,900  |
 | Harry H. Hicks             | Receiving clerk             | 1,620  |
 | James K. Hicks             | Carpenter             | 1,000  |
 | James R. Hicks             | Steel worker             | 1,000  |
@@ -3148,7 +3148,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | George E. Lewis                      | Engineering aide                          | 1,800  |
 | Hazel Lewis                      | Supervisor                          | 1,800  |
 | Helen K. Lewis                      | Secretary                          | 2,300  |
-| Herschel R. Lewis                      | Carpenter                          | 1.00  |
+| Herschel B. Lewis                      | Carpenter                          | 1.00  |
 | James S. Lewis                      | Switchboard operator                          | 2,100  |
 | James S. Lewis Jr                      | Superintendent                          | 4,500  |
 | Jesse M. Lewis                      | Carpenter                          | 1.00  |
@@ -3207,11 +3207,11 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Howell G. Long                   | Unit foreman             | 1.50  |
 | Jas. M. Langley                   | Junior inspector             | 1.50  |
 | Cecil Longmire                   | Electrician             | 1.00  |
-| Emory C. Longmire                   | Storekeeper                | 2.00  |
+| Emory C. Longmire                   | Storekeeper             | 2.00  |
 | James R. Longmire                   | Accounting clerk             | 1.50  |
 | Frank S. Loomis                   | Civil engineer             | 3.20  |
 | Robert E. Looney                   | Labor foreman             | 1.00  |
-| William E. Loose                   | Draftsman             | 1.50  |
+| William E. Loose                   | Draftsman             | 1.00  |
 | James N. Loupe                   | Engineering aide             | 2.00  |
 | Boyce W. Love                   | Carpenter                | 1.00  |
 | M. T. Love                   | Electrician             | 1.00  |
@@ -3225,15 +3225,15 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Mildred Lowe                   | Clerk-stenographer             | 1.50  |
 | Jack B. Lowery                   | Carpenter                | 1.00  |
 | James E. Lowry                   | Electrician             | 1.00  |
-| John R. Lowry                   | Abstractor                | 1.00  |
+| John R. Lowry                   | Abstractor             | 1.00  |
 | Robert E. Lowry                   | Research aide             | 2.00  |
 | William F. Luckey                   | Carpenter                | 1.00  |
-| William F. Luckie                   | Storekeeper                | 2.50  |
+| William F. Luckie                   | Storekeeper             | 2.50  |
 | Walter A. Ludeman                   | Accounting clerk             | 2.00  |
 | Walter Wilcox Ludwig                   | Cost estimator             | 2.00  |
 | Nelson E. Lukmire                   | Statistician             | 2.00  |
 | Albert D. Lull                   | Draftsman             | 1.50  |
-| Clifford D. Lumpkin                   | Ironworker                | 1.12½ |
+| Clifford D. Lumpkin                   | Ironworker             | 1.12½ |
 | Edgar Eric Lundell                   | Inspector, construction     | 1.50  |
 | Reinhard R. Lunspe                | Structural engineer             | 2.00  |
 | Hubert B. Lunsford                   | Steam fitter             | 1.12½ |
@@ -3247,7 +3247,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Fred D. Lyle                   | Carpenter                | 1.00  |
 | A. D. Lyles                   | do                | 1.00  |
 | Benjamin J. Lyles                   | Painter                | 1.00  |
-| James E. Lynch                   | Machinist                | 1.00  |
+| James E. Lynch                   | Machinist             | 1.00  |
 | A. V. Lynn                   | Civil engineer             | 3.20  |
 | Dorothy Lynn                   | Clerk-stenographer             | 1.50  |
 | Thomas F. Lynn                   | Carpenter                | 1.00  |
@@ -3786,26 +3786,26 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Charles G. Mynatt                   | Accountant clerk | 2,000  |
 | H. L. Mynatt                   | Title examiner                   | 3,000  |
 | W. F. Mynatt                   | Carpenter                   | 1,800  |
-| William A. Nabors                    | Do.                   | 1.00  |
+| William A. Nabors                   | do                   | 1.00  |
 | W. Stanton Nail                   | Public safety aide | 1,800  |
 | George W. Nail                   | General eers-drill foreman | 3,600  |
 | Clara Olive Nais                   | Training supervisor | 3,300  |
-| Henry C. Nais                   | Brickmasch.                   | 1.12½ |
-| Boyd B. Nail                   | Coresdrill foreman | 1.25  |
+| Henry C. Nais                   | Brickmason                   | 1.12½ |
+| Boyd B. Nail                   | Cores-drill foreman | 1.25  |
 | C. H. Nanos                   | Mechanic                   | 1.00  |
 | Boyd Nankivelis                   | Storekeeper                   | 1,800  |
 | Lawrence B. Nanney                   | Carpenter                   | 1.00  |
-| Cleveland W. Narmors                   | Do.                   | 1.00  |
+| Cleveland W. Narmors                   | do                   | 1.00  |
 | Henry Narmors                   | Crane operator                   | 1.50  |
 | John W. Narmors                   | Rigger                   | 1.00  |
-| Leonard N. Narmors                   | Coresdrill operator | 1.00  |
+| Leonard N. Narmors                   | Cores-drill operator | 1.00  |
 | Elizabeth Etobe Nash                   | Stenographer                   | 1,620  |
 | Rupert Nash                   | Concrete finisher | 1.00  |
 | Earl C. Nave                   | Pay-roll clerk | 1,620  |
 | Horace Oresley Nave                   | Engineering aide | 1,800  |
-| J. O. Neal                   | Do.                   | 1,620  |
-| John Malbon Neal                   | Do.                   | 2,000  |
-| John N. Neal                   | Do.                   | 2,300  |
+| J. O. Neal                   | do                   | 1,620  |
+| John Malbon Neal                   | do                   | 2,000  |
+| John N. Neal                   | do                   | 2,300  |
 | Luther T. Neal                   | Carpenter                   | 1.00  |
 | Fred E. Neely                   | Shop machinist | 1.00  |
 | John L. Neely, Jr.                   | Manager Muscle Shoals | 5,200  |
@@ -3827,7 +3827,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Lloyd F. Nelson                   | Electrician                   | 1.00  |
 | Everett E. Neiskom                   | Photographer                   | 2,300  |
 | Donald W. Neville                   | Engineering aide | 1,800  |
-| James A. Neville                   | Steel foreman | 1,37½ |
+| James A. Neville                   | Steel foreman | 1.37½ |
 | Albert New                   | Engineering aide | 1,620  |
 | William R. New                   | Relocation worker | 1,800  |
 | Frank E. Newbern                   | Carpenter                   | 1.00  |
@@ -3836,8 +3836,8 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Carl B. Newman                   | Electrician                   | 1.00  |
 | Cory Newman                   | Carpenter                   | 1.00  |
 | Ernest M. Newman                   | Draftsman                   | 1,800  |
-| Ervin Francis Newman                   | Do.                   | 1,800  |
-| James H. Newman                   | Walder                   | 1.00  |
+| Ervin Francis Newman                   | do                   | 1,800  |
+| James H. Newman                   | Welder                   | 1.00  |
 
 Page 47
 ================================================================================
@@ -3868,7 +3868,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | John R. Nipper           | Pipe fitter             | 1,000  |
 | Ira L. Nis           | Steelworker             | 1,000  |
 | Eimo F. Nison           | Rod placer             | 1,000  |
-| William Nixon            | Inspector, materials             | 1,620  |
+| William Nixon           | Inspector, materials             | 1,620  |
 | Lindsley H. Noble           | Accountant             | 3,000  |
 | James A. Noblett           | Welder             | 1,125  |
 | Dalton Noblit           | Shovel operator             | 1,500  |
@@ -3895,7 +3895,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | William H. Oakes           | Carpenter             | 1,000  |
 | Margaret C. Oakey           | Secretary             | 1,800  |
 | David L. Oakley           | Clerk             | 1,620  |
-| Roscoe H. O'Bannon     | Foreman-auto mechanic             | 2,000  |
+| Roscoe H. O'Bannon           | Foreman-auto mechanic             | 2,000  |
 | Milton E. Ober           | Administrative assistant             | 2,600  |
 | A. O. Oberson           | General carpenter foreman             | 2,800  |
 | Simusi C. O'Briant           | Cost estimator             | 2,600  |
@@ -4515,7 +4515,7 @@ Page 55
 ================================================================================
 
 | Name                        | Title                        | Compensation |
-|--------------------------------|---------------|---------|
+|--------------------------------|---------------|--------|
 | Clyde H. Russell                    | Lineman                        | $1.00 |
 | James W. Russell                    | Interviewer                          | $1,600 |
 | Joseph A. Russell                    | Plumber                          | 1,800 |
@@ -4550,14 +4550,14 @@ Page 55
 | Wilford B. Sanders                    | Rigger                          | 1.00 |
 | William Charles Sanderson                    | Engineering aide                          | 1,800 |
 | Sam L. Sandidge                    | Carpenter                          | 1.00 |
-| W. E. Sanford                    | Chairman appraisal committee                          | 4,800 |
+| W. E. Sanford                    | Chairman appraisal committee         | 4,800 |
 | William J. Sanford                    | Junior supervisor                          | 2,300 |
 | Edward Reed Sanner                    | Junior engineer                          | 2,000 |
 | Wade W. Sappington                    | Carpenter                          | 1.00 |
 | G. F. Sargent                    | Electrical engineer                          | 2,600 |
 | Henry A. Sargent                    | Cost estimator                          | 3,600 |
 | Robert V. Sass                    | General excavation foreman                          | 3,600 |
-| Lenore E. Sater                    | Electrification specialist                          | 3,200 |
+| Lenore E. Sater                    | Electrification specialist         | 3,200 |
 | M. H. Satterfield                    | Research assistant                          | 2,600 |
 | Charles William Saunders                    | Engineering aide                          | 1,620 |
 | Louis W. Saunders                    | Brickmasch                          | 1.12½ |
@@ -4565,7 +4565,7 @@ Page 55
 | Neil S. Savage                    | Forester                          | 3,600 |
 | William O. Saville                    | Structural engineer                          | 2,000 |
 | Ray G. Sawyer                    | Supervisor job training                          | 3,200 |
-| Neil H. Sayford                    | Director engineering service                          | 6,800 |
+| Neil H. Sayford                    | Director engineering service         | 6,800 |
 | Fred T. Saywell, Jr.                    | Engineering aide                          | 1,800 |
 | William A. Scanlan                    | Transportation supervisor                          | 2,900 |
 | Frank L. Scarborough                    | Electrical engineer                          | 2,600 |
@@ -4582,16 +4582,16 @@ Page 55
 | Clair E. Schiding                    | Draftsman                          | 2,000 |
 | Wallace Schilling                    | Dragline operator                          | 1.50 |
 | Herbert C. Schimmel                    | Line foreman                          | 1.50 |
-| F. C. Schlemmer                    | Construction superintendent                          | 6,400 |
+| F. C. Schlemmer                    | Construction superintendent         | 6,400 |
 | George E. Schmidt                    | Draftsman                          | 2,300 |
 | Joe Schmidt                    | Rigger foreman                          | 1.25 |
 | John J. Schmidt                    | Cableway operator                          | 1.50 |
-| Lewis Adelbert Schmidt, Jr. | Construction engineer                          | 3,600 |
+| Lewis Adelbert Schmidt, Jr. | Construction engineer         | 3,600 |
 | Bertram L. Schneider                    | Mechanical engineer                          | 2,600 |
 | Herman Schnur                    | Mechanical foreman                          | 1.25 |
 | John W. Schoen                    | Draftsman                          | 2,300 |
-| Lee Roy Schoenmann                    | Supervisor land classification                          | 5,600 |
-| Ernst J. Schreiner                    | Forestry specialist                          | 3,200 |
+| Lee Roy Schoenmann                    | Supervisor land classification         | 5,600 |
+| Ernst J. Schreiner                    | Forestry specialist         | 3,200 |
 
 Page 56
 ================================================================================
@@ -4602,7 +4602,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 |--------------------------------------|----------------------------|-------------|
 | Earnest M. Schultz                | Carpenter                      | $1.00  |
 | A. J. Schuppert                | Brickmason                      | 1.12½ |
-| Karl Schuster                | Forsster                      | $2.00  |
+| Karl Schuster                | Forsster                      | $2.000  |
 | Delcy Schwartzman                | Supply clerk                      | 1.620  |
 | Arthur Schweier                | Hydroxilic engineer                      | 4.500  |
 | George Schweppe                | Information representative, Muscle Shoals | 3.600  |
@@ -4653,7 +4653,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Clarence F. Shallbo                | Civil engineer                      | 2.900  |
 | Henry B. Shannon                | Member appraisal committee                      | 4.500  |
 | Jasper Berry Shannon                | Administrative aide                      | 3.200  |
-| William A. Shapard, Jr. | Hydraulic engineer                      | 3.200  |
+| William A. Shapard, Jr. | Hydroxilic engineer                      | 3.200  |
 | Earl L. Sharp                | Forestry aide                      | 2.600  |
 | Hillery A. Sharp                | Carpenter                      | 1.00  |
 | J. Othis Sharp                | Abstractor                      | 2.000  |
@@ -5735,7 +5735,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Roscoe Word                    | Title attorney                          | 3,800  |
 | Josiah Work                    | Raw materials supervisor                          | 2,600  |
 | Charles H. Worley                    | Carpenter                          | 1.00  |
-| Sidney A. Worley                    | Masonry foreman                          | 1.57½ |
+| Sidney A. Worley                    | Masonry foreman                          | 1.37½ |
 | Alva L. Worsham                    | Derrick operator                          | 1.50  |
 | Carl L. Worsham                    | Electrian                          | 1.00  |
 | Harry G. Worsham                    | Accountant                          | 2,600  |

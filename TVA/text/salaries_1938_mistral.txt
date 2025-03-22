@@ -765,7 +765,7 @@ Table III.—Names, titles, and salaries of annual employees receiving more than
 | Chalkley, William A.           | Senior engineering draftsman. | 2.300 |
 | Challis, T. Fred.           | Junior cost engineer. | 2.000 |
 | Chambers, Julian B.           | Associate attorney.            | 3.800 |
-| Chambers, Oscar L., Jr.           | Sanitary inspector.            | 2.600 |
+| Chambers, Oscar L., Jr.            | Sanitary inspector.            | 2.600 |
 | Chambers, Luther S., Jr.           | Assistant fiscal accounting clerk. | 1.800 |
 | Chambers, Ray Z.           | Junior clerk-typist. | 1.620 |
 | Chambers, Samuel B.           | Lineman foreman.            | 2.300 |
@@ -1612,13 +1612,13 @@ Table III.—Names, titles, and salaries of annual employees receiving more than
 |--------------------------------------|--------------------------------------|-----------------------------|
 | Gillespie, Willie C.                   | Assistant clerk-stenographer.                   | $1,800  |
 | Gillett, Logan A.                   | Junior hydraulic engineer.                   | 2,000  |
-| Gilliam, Wilard C.                   | Assistant agricultural engineer.                   | 2,900  |
+| Gillham, Wilard C.                   | Assistant agricultural engineer.                   | 2,900  |
 | Gilliam, Howard W.                   | Junior timechecker.                   | 1,620  |
 | Gilliam, William H.                   | Machinist.                   | 2,000  |
 | Gilliland, Alvin D.                   | Furnace operator.                   | 1,620  |
 | Gilliland, Edwin A., Jr.                   | Assistant file clerk.                   | 1,620  |
 | Gilliland, Thomas G.                   | Junior medical aide.                   | 1,620  |
-| Gillingham, George O.                   | Head information representative.                   | 4,600  |
+| Gillingham, George G.                   | Head information representative.                   | 4,600  |
 | Gilmer, Nelson W.                   | Junior engineering aide.                   | 1,620  |
 | Giohhi, Joe.                   | Junior electrical engineer.                   | 2,000  |
 | Gist, Charles W.                   | Machinist.                   | 2,000  |
@@ -1643,8 +1643,8 @@ Table III.—Names, titles, and salaries of annual employees receiving more than
 | Goff, Homer B.                   | Assistant land approach.                   | 2,000  |
 | Goff, John H.                   | Senior industrial economist.                   | 5,000  |
 | Goldel, Stanley G.                   | Senior machinist foreman.                   | 2,300  |
-| Goldset, Ben Hale                   | Assistant file clerk.                   | 1,620  |
-| Goldman, Walter R.                   | Senior assistant in Negro training and personal relations. | 1,800  |
+| Goldset, Ben Hale.                   | Assistant file clerk.                   | 1,620  |
+| Goldston, Walter R.                   | Senior assistant in Negro training and personal relations. | 1,800  |
 | Golston, Layton P.                   | Junior engineering aide.                   | 1,620  |
 | Gongwer, Verne.                   | Project engineer.                   | 8,500  |
 | Gooch, Willie T.                   | Firefighter.                   | 1,620  |
@@ -2676,7 +2676,7 @@ Table III.—Names, titles, and salaries of annual employees receiving more than
 | Lockmeyer, Elsie M.                       | Assistant elementary school teacher             | $1,800 |
 | Lockwyks, Ludwik C.                       | Mechanical engineer             | $3,800 |
 | Loft, Henry T.                       | Office engineer             | $4,200 |
-| Loigren Ous A.                       | Associate field engineer             | $3,500 |
+| Loigren Ona A.                       | Associate field engineer             | $3,500 |
 | Logan, S. T.                       | Engineering aide             | $1,800 |
 | Logie, Leslie C.                       | Assistant electrical engineer             | $2,500 |
 | Longa, John F.                       | Assistant plumbing engineer             | $3,200 |
@@ -2920,8 +2920,8 @@ Table III. Names, titles, and salaries of annual employees receiving more than $
 | McKean, Harry F.            | Senior civil engineer.            | 5,200  |
 | McKee, Jack Edward.            | Engineering aide.            | 1,800  |
 | McKee, Malcolm.            | Assistant storekeeper.            | 1,600  |
-| McKee, Malcolm,             | Junior file clerk.            | 1,620  |
-| McKensis, Alex F.            | General electrical foreman.            | 4,200  |
+| McKee, Malcolm, R.       | Junior file clerk.            | 1,620  |
+| McKensie, Alan F.            | General electrical foreman.            | 4,200  |
 | McKenzie, Heden James.            | Junior medical aide.            | 1,620  |
 | McKenzie, Neville F.            | Assistant engineering draftsman.            | 1,800  |
 | McKinney, James R.            | Engineering aide.            | 1,800  |
@@ -2932,11 +2932,11 @@ Table III. Names, titles, and salaries of annual employees receiving more than $
 | McLemore, Oliver C.            | Unit foreman.            | 2,300  |
 | McLeod, John D., Jr.            | Principal engineering aide.            | 2,300  |
 | McMaban, I. Bernard.            | Machinist.            | 2,000  |
-| McMaban, Warren.            | Assistant electrical engineer.            | 2,600  |
+| McMahan, Warren.            | Assistant electrical engineer.            | 2,600  |
 | McManis, Lester W.            | Senior interviewer.            | 2,000  |
 | McMath, Claude E.            | Assistant valuation engineer.            | 2,600  |
 | McMeans, Merrill A.            | Carpenter.            | 2,000  |
-| McMillin, J. Paul            | Assistant engineering draftsman.            | 1,620  |
+| McMillin, J. Paul.            | Assistant engineering draftsman.            | 1,620  |
 | McMurcly, Donald F.            | Chief, safety division.            | 5,000  |
 | McMurray, Lynn L.            | Junior mining engineer.            | 2,000  |
 | McMurry, Lawrence W.            | Firefighter.            | 1,620  |
@@ -2946,7 +2946,7 @@ Table III. Names, titles, and salaries of annual employees receiving more than $
 | McNeill, Moulton C.            | Clerk.            | 1,980  |
 | McNorney, Adelbert M.            | Associate electrical engineer.            | 3,500  |
 | McPaul, Ray A.            | Junior timechecker.            | 1,620  |
-| McPhail, Cecilia F.            | Assistant clerk-stenographer.            | 1,800  |
+| McPhail, Cecilla F.            | Assistant clerk-stenographer.            | 1,800  |
 | McPherson, J. Curtis.            | Senior law clerk.            | 2,300  |
 | McPherson, Joel M.            | Assistant substation operator.            | 1,800  |
 
@@ -3467,81 +3467,81 @@ Page 42
 
 | Name                        | Title                        | Salary per annum |
 |--------------------------------|----------------------------|--------------------------|
-| Potts, Wilmer H.                    | Junior highway engineer.            | $2,500  |
-| Pou, James Francis.                    | Assistant engineering side.            | 1,520 |
-| Pounders, Theodore H.                    | Police officer.            | 1,520 |
-| Powell, Boone.                    | Principal park attendant.            | 2,000 |
-| Powell, Virgil G.                    | Assistant hydraulic engineer.            | 5,200 |
-| Powell, William E.                    | Administrative assistant.            | 2,000 |
-| Power, Georgia.                    | Assistant personnel clerk.            | 1,800 |
-| Powers, Fawney D.                    | Junior purchasing agent.            | 2,600 |
-| Powers, H. A.                    | Chief, text demonstration division.            | 4,000 |
-| Powers, Maurice L.                    | Machinist.            | 2,000 |
-| Powers, Sampson A.                    | Chief engineering side.            | 2,000 |
-| Prahin, Edward J.                    | Engineering draftsman.            | 1,800 |
-| Prater, J. T.                    | Senior water plant operator.            | 2,000 |
-| Pratt, James R.                    | Project chief clerk.            | 2,000 |
-| Pratt, Lawrence F.                    | Junior hydraulic engineer.            | 2,300 |
-| Prestribes, Clarence.                    | Assistant switchboard operator.            | 2,000 |
-| Preston, Albert S.                    | Junior electrical engineer.            | 2,300 |
-| Preston, Karl C.                    | Senior gas mechanic foreman.            | 2,000 |
-| Price, Charles B.                    | Police officer.            | 1,520 |
-| Price, Charles J.                    | Associate civil engineer.            | 2,500 |
-| Price, Don C.                    | Hydraulic foreman.            | 2,300 |
-| Price, John Cary.                    | Associate civil engineer.            | 2,500 |
-| Price, Mark C.                    | Doz mechanic.            | 2,000 |
-| Price, Raymond C.                    | Junior clerk.            | 1,620 |
-| Price, William B.                    | Governor tender.            | 2,000 |
-| Price, William D.                    | Chief engineering draftsman.            | 2,600 |
-| Price, William D.                    | Instructor (blasting).            | 1,600 |
-| Price, Wright M.                    | Assistant cost engineer.            | 2,600 |
-| Prickett, Olga J.                    | Junior dictating machine transcriber.            | 1,620 |
-| Prieve, Otto J.                    | Assistant landscape architect.            | 2,000 |
-| Pritchard, John J.                    | Governor tender.            | 2,000 |
-| Pritchett, Charles H.                    | Associate in public administration.            | 3,200 |
-| Pritchett, Harold O.                    | Fiscal accounting clerk.            | 1,880 |
-| Pritchett, Marguerite.                    | Junior clerk-stenographer.            | 2,000 |
-| Pritchett, Will M.                    | File clerk.            | 1,800 |
-| Proctor, Robert C.                    | Junior timber cruiser clerk.            | 1,620 |
-| Proctor, Thomas W.                    | Assistant civil engineer.            | 2,500 |
-| Proffit, Archer H.                    | Senior engineering side.            | 2,300 |
-| Prokon, Eugene A.                    | Acting construction engineer.            | 6,500 |
-| Proebe, Herman G.                    | Assistant civil engineer.            | 1,620 |
-| Prosser, Hubert T.                    | Chief medical technician.            | 2,000 |
-| Prugh, John C.                    | Junior storekeeper.            | 2,300 |
-| Pruitte, Arthur E.                    | Office appliance repairman.            | 1,620 |
-| Prumer, John W.                    | Associate accountant.            | 2,000 |
-| Prunak, Adam Jasper                    | Junior clerk-typist.            | 1,620 |
-| Puckett, Tommie E.                    | Senior clerk-stenographer.            | 2,300 |
-| Pugh, Tigman C.                    | Assistant superintendent of construction.            | 3,500 |
-| Purcell, Ruth Lucille.                    | Assistant clerk-stenographer.            | 1,800 |
-| Purifoy, James F.                    | Senior administrative assistant.            | 3,200 |
-| Purnell, Woodruff H.                    | Junior mechanical engineer.            | 2,300 |
-| Pursell, Clark A.                    | Physical science side.            | 1,980 |
-| Furser, Catherine J.                    | Clerk.             | 1,980 |
-| Purvis, John William                    | Commissary manager.            | 3,200 |
-| Puryear, William M.                    | Assistant fiscal accounting clerk.            | 1,620 |
-| Qualle, Isaac Ed.                    | Marine pilot.            | 1,800 |
-| Quattlebaum, Alexander.                    | Engineering side.             | 1,800 |
-| Quesner, Robert D.                    | Junior pay roll clerk.            | 1,620 |
-| Quigley, George O.                    | Senior accountant.            | 3,800 |
-| Quicley, Robert.                    | Painter.             | 2,000 |
-| Quinley, James O.                    | Assistant fiscal accounting clerk.            | 1,620 |
-| Quinn, Alfred.                    | Engineering draftsman.            | 1,800 |
-| Quinn, Charles E.                    | Associate structural engineer.            | 3,200 |
-| Quinn, Lottie.                    | Junior clerk-stenographer.            | 1,620 |
-| Raab, Carl F.                    | Engineering side.             | 1,800 |
-| Raffalerich, Evan.                    | Assistant time clerk.            | 1,620 |
-| Ragan, Connor A.                    | Junior engineering side.            | 1,620 |
-| Ragan, Mattis G.                    | Junior property and supply clerk.            | 1,620 |
-| Ragland, Rosalie.                    | Associate elementary school teacher.            | 1,980 |
-| Ragadale, Lee M.                    | Administrative officer.            | 4,200 |
-| Ralos, Oliver H.                    | Engineering draftsman.            | 1,800 |
-| Ralos, Virgle.                    | Unit foreman.            | 2,300 |
-| Ramsay, David B.                    | Senior engineering draftsman.            | 2,300 |
-| Ramsey, Olson N.                    | Engineering side (construction).            | 1,800 |
-| Rand, Malcolm J.                    | Administrative assistant.            | 1,620 |
-| Randall, Charles B.                    | Police officer.            | 2,900 |
+| Potts, Wilmer H.            | Junior highway engineer.            | $2,500  |
+| Pou, James Francis.            | Assistant engineering side.            | 1,520 |
+| Pounders, Theodore H.            | Police officer.            | 1,520 |
+| Powell, Boone.            | Principal park attendant.            | 2,000 |
+| Powell, Vigil G.            | Assistant hydraulic engineer.            | 5,200 |
+| Powell, William E.            | Administrative assistant.            | 2,000 |
+| Power, Georgia.            | Assistant personnel clerk.            | 1,800 |
+| Powers, Fawney D.            | Junior purchasing agent.            | 2,600 |
+| Powers, H. A.            | Chief, text demonstration division.            | 4,000 |
+| Powers, Maurice L.            | Machinist.            | 2,000 |
+| Powers, Sampson A.            | Chief engineering side.            | 2,000 |
+| Prahin, Edward J.            | Engineering draftsman.            | 1,800 |
+| Prater, J. T.            | Senior water plant operator.            | 2,000 |
+| Pratt, James R.            | Project chief clerk.            | 2,000 |
+| Pratt, Lawrence F.            | Junior hydraulic engineer.            | 2,300 |
+| Prestriдро, Clarence.            | Assistant switchboard operator.            | 2,000 |
+| Preston, Albert S.            | Junior electrical engineer.            | 2,300 |
+| Preston, Karl C.            | Senior gas mechanic foreman.            | 2,000 |
+| Price, Charles B.            | Police officer.            | 1,520 |
+| Price, Charles J.            | Associate civil engineer.            | 2,500 |
+| Price, Don C.            | Hydraulic foreman.            | 2,300 |
+| Price, John Cary.            | Associate civil engineer.            | 2,500 |
+| Price, Mark C.            | Govt. Govt.             | 1,000 |
+| Price, Raymond C.            | Junior clerk.            | 1,020 |
+| Price, William B.            | Governor tender.            | 2,000 |
+| Price, William D.            | Chief engineering draftsman.            | 2,600 |
+| Price, William D.            | Instructor (blasting).            | 1,800 |
+| Price, Wright M.            | Assistant cost engineer.            | 2,600 |
+| Prickett, Olga J.            | Junior dictating machine transcriber.            | 1,620 |
+| Prieve, Otto J.            | Assistant landscape architect.            | 2,000 |
+| Pritchard, John J.            | Governor tender.            | 2,000 |
+| Pritchett, Charles H.            | Associate in public administration.            | 3,200 |
+| Pritchett, Harold O.            | Fiscal accounting clerk.            | 1,880 |
+| Pritchett, Marguerite.            | Junior clerk-stenographer.            | 2,000 |
+| Pritchett, Will M.            | File clerk.            | 1,800 |
+| Proctor, Robert C.            | Junior timber cruiser clerk.            | 1,620 |
+| Proctor, Thomas W.            | Assistant civil engineer.            | 3,500 |
+| Proffit, Archer H.            | Senior engineering side.            | 2,300 |
+| Prokon, Eugene A.            | Acting construction engineer.            | 6,500 |
+| Proebe, Herman G.            | Assistant civil engineer.            | 1,620 |
+| Prosser, Hubert T.            | Assistant land appraiser.            | 3,200 |
+| Prugh, John C.            | Junior storekeeper.            | 2,300 |
+| Pruitte, Arthur E.            | Office appliance repairman.            | 1,620 |
+| Prumer, John W.            | Associate accountant.            | 2,000 |
+| Prunak, Adam Jasper.            | Junior clerk-typist.            | 1,620 |
+| Puckett, Tommie E.            | Senior clerk-stenographer.            | 2,300 |
+| Pugh, Tigman C.            | Assistant superintendent of construction.            | 3,500 |
+| Purcell, Ruth Lucille.            | Assistant clerk-stenographer.            | 1,800 |
+| Purifoy, James F.            | Senior administrative assistant.            | 3,200 |
+| Purnell, Woodruff H.            | Junior mechanical engineer.            | 2,300 |
+| Pursell, Clark A.            | Physical science side.            | 1,980 |
+| Purser, Catherine J.            | Clerk.             | 1,980 |
+| Purvis, John William.            | Commissary manager.            | 3,200 |
+| Puryear, William M.            | Assistant fiscal accounting clerk.            | 1,620 |
+| Qualle, Isaac Ed.            | Marine pilot.            | 1,800 |
+| Quattlebaum, Alexander.            | Engineering side.            | 1,800 |
+| Quesner, Robert D.            | Junior pay roll clerk.            | 1,620 |
+| Quigley, George O.            | Senior accountant.            | 3,800 |
+| Quicley, Robert.            | Painter.             | 2,000 |
+| Quinley, James O.            | Assistant fiscal accounting clerk.            | 1,620 |
+| Quinn, Alfred.            | Engineering draftsman.            | 1,800 |
+| Quinn, Charles E.            | Associate structural engineer.            | 3,200 |
+| Quinn, Lottie.            | Junior clerk-stenographer.            | 1,620 |
+| Raab, Carl F.            | Engineering side.            | 1,800 |
+| Raffalerich, Evan.            | Assistant time clerk.            | 1,620 |
+| Ragan, Connor A.            | Junior engineering side.            | 1,620 |
+| Ragan, Mattis G.            | Junior property and supply clerk.            | 1,620 |
+| Ragland, Rosalie.            | Associate elementary school teacher.            | 1,980 |
+| Ragadale, Lee M.            | Administrative officer.            | 4,200 |
+| Ralos, Oliver H.            | Engineering draftsman.            | 1,800 |
+| Ralos, Virgle.            | Unit foreman.            | 2,300 |
+| Ramsay, David B.            | Senior engineering draftsman.            | 2,300 |
+| Ramsey, Olson N.            | Engineering side (construction).            | 1,800 |
+| Rand, Malcolm J.            | Administrative assistant.            | 1,620 |
+| Randall, Charles B.            | Police officer.            | 2,900 |
 
 Page 43
 ================================================================================
@@ -3612,8 +3612,8 @@ Page 43
 | Reynolds, Virgil H.         | Electrician subforeman                          | 2,100  |
 | Reynolds, William M.         | Assistant clerk-interviewer                          | 1,800  |
 | Rease, George A.         | Inspector of construction                          | 2,300  |
-| Rhodes, Rocer F.         | Associate zoologist                          | 3,500  |
-| Rhodes, Cecil E.         | Eretheman                          | 1,800  |
+| Rhodes, Rocer F.         | Associate geologist                          | 3,500  |
+| Rhodes, Cecil E.         | Eartheman                          | 1,800  |
 | Rhodes, Louis F.         | Junior electrical engineer                          | 2,000  |
 | Rhodes, Roy W.         | Governor tender                          | 2,000  |
 | Rice, Clifford L.         | Junior hydraulic engineer                          | 2,000  |
@@ -3927,14 +3927,14 @@ Page 47
 | Slepel, Melvin H.                      | Principal attorney.                | 5,600  |
 | Siekielski, George S.                      | Junior erosion engineer.                | 2,600  |
 | Slenknecht, Emil C.                      | Senior photographer.                | 2,000  |
-| Sikes, Rex.                      | Engineering aide.                | 1,980  |
-| Silberman, Edward.                      | ...do.                | 1,800  |
+| Sikes, Rex                      | Engineering aide.                | 1,980  |
+| Silberman, Edward                    | do.                | 1,800  |
 | Silvia, Glenn W.                      | Traffic clerk.                | 1,800  |
 | Silvey, Richard D.                      | Senior engineering aide.                | 2,300  |
 | Simcox, Burton B.                      | Junior chemical engineering aide.                | 1,620  |
 | Simmons, Alfred J.                      | Assistant medical aide.                | 1,620  |
 | Simma, Benjamin R.                      | Associate sanitary engineer.                | 3,200  |
-| Simms, William Lawrence.                      | Lineman.                | 3,000  |
+| Simms, William Lawrence                      | Lineman.                | 3,000  |
 | Simons, Leroy F.                      | Land buyer (chief).                | 4,200  |
 | Simpson, Carl W.                      | Assistant structural engineer.                | 2,900  |
 | Simpson, John G., Jr.                      | Property and supply clerk.                | 1,980  |
@@ -3945,7 +3945,7 @@ Page 47
 | Sims, Hugh D.                      | Associate chemical engineer.                | 3,200  |
 | Sinacori, Mariano N.                      | Junior hydraulic engineer.                | 2,000  |
 | Singer, Milo                      | Assistant materials engineer.                | 2,000  |
-| Sinyuefield, C. Asa.                      | Assistant engineering aide.                | 1,620  |
+| Sinyuefield, C. Asa                   | Assistant engineering aide.                | 1,620  |
 | Sisk, Carl M.                      | Police officer.                | 1,620  |
 | Sisk, Evan H.                      | Assistant purchasing clerk.                | 1,620  |
 | Sisk, Neal H.                      | Senior purchasing agent.                | 3,800  |
@@ -3960,7 +3960,7 @@ Page 47
 | Slaughter, Marvin J.                      | Senior engineering draftsman.                | 2,300  |
 | Slayden, William M.                      | Chief social case worker.                | 2,900  |
 | Sloan, Robert F., Jr.                      | Camp manager.                | 3,800  |
-| Slaver, George                        | Chief, employment division.                | 5,200  |
+| Slaver, George                      | Chief, employment division.                | 5,200  |
 | Sluss, Edward W.                      | Inspector of construction.                | 2,000  |
 | Small, Frank T.                      | Engineering aide.                | 1,980  |
 | Small, Lois M.                      | Assistant clerk-stenographer.                | 1,620  |
@@ -4147,7 +4147,7 @@ Page 50
 |--------------------------------------|--------------------------------|------|
 | Stout, Edgar J.            | Chemical aide.                   | $1,800  |
 | Stoutenburg, William J.            | Senior accountant.                   | 3,500  |
-| Stovall, Flurnay R.            | Painter.                   | 2,000  |
+| Stovall, Flurnoy R.            | Painter.                   | 2,000  |
 | Stover, Kyle E.            | Junior fiscal accounting clerk. | 1,620  |
 | Strain, Fred.            | Chief of division.                   | 5,000  |
 | Strain, James T.            | Unit foreman.                   | 2,300  |
@@ -4316,7 +4316,7 @@ Table III.—Names, titles, and salaries of annual employees receiving more than
 
 | Name                        | Title                        | Salary per annum |
 |--------------------------------------|--------------------------------------|-----------------------------|
-| Tiedeken, T. Walton                        | Engineering draftsman                          | $1,500  |
+| Tiedeken, T. Walton                          | Engineering draftsman                          | $1,500  |
 | Tiencken, Wilfred F.                          | Assistant structural engineer                          | 2,000 |
 | Tietje, Grace E.                          | Associate elementary school                          | 1,980 |
 | Tiller, Arnold                          | Senior police officer                          | 1,620 |

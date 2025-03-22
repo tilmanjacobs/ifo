@@ -912,7 +912,7 @@
   Childress, Jesse M., Jr.               Personnel officer               3,200               
   Childs, Margaret A.               Junior clerk stenographer               1,620               
   Chiles, Ira N.               Principal education officer               4,200               
-  Chilton, J. Alton.               Substation operator               2,000               
+  Chilton, J. Alton               Substation operator               2,000               
   Chisam, William A.               Assistant substation operator               1,800               
   Chittenden, Robert B.               Master mechanic               4,200               
   Chrisman, Francis W.               Assistant structural engineer               2,600               
@@ -1085,7 +1085,7 @@
   Corden, Henry F.               Senior administrative officer               5,000               
   Cordes, Herman D.               Electrician               2,200               
   Corlew, William A.               Assistant pulverized fuel boiler operator               1,800               
-  Cornelius, Fletcher O.               Junior electrical engineer               2,700               
+  Cornelius, Fletcher G.               Junior electrical engineer               2,700               
   Cornelius, Walter J.               Lineman               2,200               
   Corrigan, Philip A.               Chemical aide               1,800               
   Corry, Ormond C.               Junior economist               2,600               
@@ -1098,7 +1098,7 @@
   Cotter, Ashby M.               Truck operator line maintenance               1,620               
   Couch, Raymond H.               Restaurant manager               2,900               
   Couch, William H.               Lineman foreman               2,500               
-  Coulting, Mary S.               Associate elementary school teacher               1,980               
+  Caulling, Mary S.               Associate elementary school teacher               1,980               
   Counties, Joseph R.               Carpenter foreman               2,400               
   Counties, William L.               Locomotive operator 20 tons               2,100               
   Counts, John M.               General foreman               4,200               
@@ -1999,7 +1999,7 @@
   Grout, Ruth E.               Senior supervisor of health education               3,800               
   Groves, David M.               Associate accountant               3,200               
   Gruener, Mounod J.               Senior operator hydro               2,500               
-  Gachevitch, Theodore A.               .do               2,500               
+  Gachwind, Theodore A.               .do               2,500               
   Guffes, William F.               Painter               2,000               
   Guffey, Alves.               Junior timechecker               1,620               
   Gurnes, S. Harrison.               Associate architect               3,800               
@@ -2139,13 +2139,13 @@
   Barmer, Don O.               Principal rate clerk               2,000               
   Barmon, Ralph E.               Payroll clerk               1,000               
   Barned, Jay W.               Assistant property and supply clerk               1,000               
-  Barber, Edward M.               Engineering aide               1,000               
-  Barber, George W.               Millwright               2,000               
-  Barber, Margaret A.               Junior stenographer               1,000               
+  Barper, Edward M.               Engineering aide               1,000               
+  Barper, George W.               Millwright               2,000               
+  Barper, Margaret A.               Junior stenographer               1,000               
   Harper, William G.               Master mechanic               4,000               
   Harper, William J.               Assistant engineering draftsman               1,000               
-  Hartefield, Marvin F.               Junior inspector of construction               1,000               
-  Harvill, Cecile C.               Junior clerk stenographer               1,000               
+  Harisfield, Marvin F.               Junior inspector of construction               1,000               
+  Harrill, Cecile C.               Junior clerk stenographer               1,000               
   Harrill, Charles S.               Associate electrical engineer               2,000               
   Harrington, Isom C.               Senior abstracter               2,000               
   Harrington, William M.               Substation operator               2,000               
@@ -2160,7 +2160,7 @@
   Harris, R. Sylvester               Assistant accounting clerk               1,000               
   Harris, Roy M.               Condenser operator               1,000               
   Harris, William O., Jr.               Associate field engineer               3,000               
-  Harris, William Thomas.               District operating superintendent               2,000               
+  Harris, William Thomas               District operating superintendent               2,000               
   Harrison, Eugene M.               Turbine operator hydro               2,000               
   Harrison, James C.               Assistant engineering aide               2,000               
   Harrison, Joseph L.               Division engineer               3,000               
@@ -2175,25 +2175,25 @@
   Hartman, Edwin H.               Associate field engineer               3,000               
   Hartsells, James L.               Assistant property and supply clerk               1,000               
   Hartsock, John B., Jr.               Assistant clerk               1,000               
-  Harvey, Abner Brown.               Associate land appraiser               2,000               
+  Harvey, Abner Brown               Associate land appraiser               2,000               
   Harvey, Irving W.               Assistant chemist               2,000               
   Harvey, Stewart A.               Nitrate supervisor               3,000               
   Hartwell, Albert E.               Construction superintendent               4,000               
-  Hash, Robert Taylor.               Switchboard operator hydro               2,000               
+  Hash, Robert Taylor               Switchboard operator hydro               2,000               
   Haskin, Bertice M.               Assistant classification officer               2,000               
   Hassey, Edward W.               General foreman               4,000               
   Hastines, Garland M.               Inspector of construction               2,000               
   Haston, David R.               Junior accountant               2,000               
   Haswell, John T.               Assistant accounting clerk               1,000               
   Haswell, Lou Nolle K.               File clerk               1,000               
-  Hatch, Loranne Pendleton.               Associate industrial hygienist               3,000               
+  Hatch, Loranne Pendleton               Associate industrial hygienist               3,000               
   Hatcher, Bruce W.               Junior chemist               2,000               
   Hatcher, Nolan S.               Associate structural engineer               3,000               
   Hathoote, J. Raiford               Assistant clerk               1,000               
   Hatter, Norman W.               Junior electrical engineer               2,000               
   Hatmaker, Kutel O.               Inspector of construction               2,000               
   Hauer, Edward H.               System load dispatcher               2,000               
-  Haueyves, Moebel Lee.               Student generating plant operator               1,000               
+  Haueyves, Moebel Lee               Student generating plant operator               1,000               
   Haugen, Einar               General steamfitter foreman               3,000               
   Haun, Roland C.               Lineman               2,000               
   Hawkins, Charlie A.               Assistant turbine operator               1,000               
@@ -2337,10 +2337,10 @@
   Hittson, Frank G.               Lineman               2.200               
   Hixon, Herschel Lee               Junior physical science aide               1.620               
   Hixon, Langdon R.               Navigation engineering aide               1.800               
-  Hixson, Lewis W.               Junior civil engineer               2.200               
+  Hixson, Lewis W.               Junior civil engineer               2.300               
   Hixson, Richard H.               Accounting clerk               1.900               
   Hoaglund, Robert G.               Junior electrical engineer               2.300               
-  Babbs, Lee D.               General foreman               2.000               
+  Babbs, Lee D.               General foreman               2.300               
   Hochmedel, Edwin F.               Accounting clerk               1.800               
   Hodge, James Ellis               Assistant general carpenter foreman               2.500               
   Hodges, Daniel Lewis               Building mechanic               2.200               
@@ -2351,7 +2351,7 @@
   Hoeman, Erwin C.               Junior chemical engineer               2.300               
   Hoenie, Helen               Clerk stenographer               1.980               
   Hoffarth, Lucille L.               Personnel clerk               1.800               
-  Hoffman, John P.               Associate field engineer               2.200               
+  Hoffmann, John P.               Associate field engineer               2.200               
   Hoffman, Robert F.               Junior hydraulic engineer               2.300               
   Hogan, Josephine               Associate elementary school teacher               1.980               
   Hogan, Mary Frances               Junior stenographer               1.620               
@@ -2668,7 +2668,7 @@
   Jones, Barton               Assistant materials engineer               2,600  
   Jones, Barton M.               Consulting design engineer               8,150  
   Jones, Charles               Junior administrative assistant               2,600  
-  Jones, Charles R.               Junior storekeeper               1,620  
+  Jones, Charles K.               Junior storekeeper               1,620  
   Jones, Claude Oren               Lineman foreman               2,500  
   Jones, Clyde W.               Assistant clerk               1,800  
   Jones, Dan W.               Lineman foreman               2,500  
@@ -2951,7 +2951,7 @@
   Lawson, William R.               Principal storekeeper               2,300               
   Lawson, James R.               Shift engineer               2,500               
   Lawrence, Myri E.               Senior clerk               2,300               
-  Lawa, Joseph P.               Office engineer               4,200               
+  Law, Joseph P.               Office engineer               4,200               
   Lawson, Cucher Wayne               Switchboard operator hydro               2,300               
   Lawson, Gifford H.               Associate accountant               3,200               
   Lawson, Glenn J.               Statistical draftsman               1,800               
@@ -2966,7 +2966,7 @@
   Lea, Tim H.               System load dispatcher               2,900               
   Leach, J. Felton               Senior firefighter               1,800               
   Leach, Marion F.               Junior electrical engineer               2,600               
-  Leach, Victor M.               Assistant cost engineer               3,460               
+  Leach, Victor M.               Assistant coat engineer               3,460               
   Lebby, Thomas D.               Division superintendent, construction and maintenance               7,000               
   Lebow, George R.               Assistant file clerk               1,800               
   Ledbetter, Frank Ernest               Water tender               1,620               
@@ -3317,14 +3317,14 @@
   Marks, Ellis C.               Junior chemical engineer               2,000  
   Marks, Louis B.               Administrative assistant               3,000  
   Marlin, Homer T.               Engineering aide               1,000  
-  Marlowe, Alton B.               Truck operator line maintenance               1,000  
+  Marlowe, Alton B.               Truck operator line maintenance               1,020  
   Marquis, Robert B.               Senior attorney               4,000  
   Marsh, Malcolm L.               Inspector of construction               2,000  
   Marsh, Wordis H.               Unit foreman               2,000  
   Marshall, Edward W.               Reservoir clearance superintendent               4,000  
   Marshall, Eunice A.               Accounting clerk               1,000  
-  Marshall, Evelyn S.               Junior stenographer               1,000  
-  Marshall, James Wynn.               Assistant engineering draftsman               1,000  
+  Marshall, Evelyn S.               Junior stenographer               1,020  
+  Marshall, James Wynn.               Assistant engineering draftsman               1,020  
   Marshall, John T., Jr.               Engineering aide               1,000  
   Marshall, Neil P.               File clerk               1,000  
   Marston, Bonnie O.               Senior accountant               3,000  
@@ -3335,7 +3335,7 @@
   Martin, David Stone.               Assistant exhibits artist               3,000  
   Martin, Elmer J.               Chief of public safety service               3,000  
   Martin, Everett L.               Junior electrical engineer               2,000  
-  Martin, Henry E.               Truck operator line maintenance               1,000  
+  Martin, Henry E.               Truck operator line maintenance               1,020  
   Martin, Joseph E.               Machinist               2,000  
   Martin, Lyle               Senior engineering aide               2,000  
   Martin, Paul W.               Substation operator               2,000  
@@ -3347,45 +3347,45 @@
   Mason, Arthur O.               Blacksmith               2,000  
   Mason, Eulah Clyde.               File clerk               1,000  
   Mason, Giles O.               General electrical foreman               5,000  
-  Mason, Harry H.               Junior multillith operator               1,000  
+  Mason, Harry H.               Junior multillith operator               1,020  
   Mason, Homer R.               Switchboard operator               2,000  
-  Mason, Kathryn Little.               Junior clerk stenographer               1,000  
+  Mason, Kathryn Little.               Junior clerk stenographer               1,020  
   Mason, Ray Lewis.               Substation operator               2,000  
   Massa, William S.               Principal engineering aide               2,000  
-  Massengill, Lawrence E.               Assistant engineering aide               1,000  
+  Massengill, Lawrence E.               Assistant engineering aide               1,020  
   Massey, John E.               Personnel officer               3,000  
   Masters, Earl Hoyt.               Lineman               2,000  
-  Mathes, Harrell J.               Junior clerk               1,000  
-  Matheson, Frances J.               Assistant clerk typist               1,000  
+  Mathes, Harrell J.               Junior clerk               1,020  
+  Matheson, Frances J.               Assistant clerk typist               1,020  
   Mathews, Richard I.               do               1,000  
   Mathews, Walter Roy.               Mechanical engineer               3,000  
-  Mathis, Neile J.               Junior clerk typist               1,000  
+  Mathis, Neile J.               Junior clerk typist               1,020  
   Matlock, Clarence R.               Assistant plant records engineer               2,000  
   Mattern, Donald H.               Hydraulic engineer               3,000  
-  Matthews, Bernice W.               Meat cutter               1,000  
+  Matthews, Bernice W.               Meat cutter               1,020  
   Matthews, Clayton Lamar.               Senior engineering draftsman               2,000  
   Matthews, Hadley B.               Associate accountant               3,000  
   Matthews, Leonard T.               Principal inspector of materials               3,000  
-  Matthews, Richard Hunt.               Junior clerk               1,000  
+  Matthews, Richard Hunt.               Junior clerk               1,020  
   Matthews, William E.               Associate title examiner               3,000  
   Matthews, Willie P.               Manager, Norris rural lands               3,000  
-  Mattingly, John M.               Assistant architect               3,100  
-  Mattraw, Harold C.               Junior chemist               2,000  
+  Mattingly, John M.               Assistant architect               3,120  
+  Matthew, Harold O.               Junior chemist               2,000  
   Maxwell, George H., Jr.               Assistant field engineer               2,000  
   Maxwell, Luther H.               Senior engineering aide               2,000  
   May, Robert I.               Clerk               1,000  
   Mayer, Gilbert R.               Senior accounting clerk               2,000  
-  Mayfield, Minnie J.               Junior bookkeeping machine operator               1,000  
-  Maynard, Ray S.               Junior storekeeper               1,000  
+  Mayfield, Minnie J.               Junior bookkeeping machine operator               1,020  
+  Maynard, Ray S.               Junior storekeeper               1,020  
   Maye, Katherine B.               Assistant traffic clerk               1,000  
   Mead, Charles M.               Assistant storekeeper               1,000  
   Mead, William J., Jr.               Senior traffic clerk               2,000  
-  Mealing, Esther M.               Junior clerk stenographer               1,000  
+  Mealing, Esther M.               Junior clerk stenographer               1,020  
   Mealing, John P., Jr.               Substation operator               2,000  
-  Meare, Hillman R.               Water tender               1,000  
-  Mee, James C.               Junior engineering aide               1,000  
-  Meees, Henry C.               Assistant engineering aide               1,000  
-  Mehlborn, Eva Marie.               Assistant clerk stenographer               1,000  
+  Meare, Hillman R.               Water tender               1,020  
+  Mee, James C.               Junior engineering aide               1,020  
+  Meees, Henry C.               Assistant engineering aide               1,020  
+  Mehlborn, Eva Marie.               Assistant clerk stenographer               1,020  
   Meiss, Henry C.               Assistant general substation maintenance foreman               2,000  
   Melton, Hubert F.               Turbine operator hydro               2,000  
   Memory, Duncan T.               Associate civil engineer               3,500               
@@ -5114,7 +5114,7 @@
   Walker, Leonard A.               Assistant clerk.               1,800               
   Walker, Oscar C.               Truck operator line maintenance.               1,620               
   Walker, Otis H.               Senior engineering draftsman.               2,000               
-  Walker, Owen I. V.               Tapping floor operator.               1,800               
+  Walker, Owen L. V.               Tapping floor operator.               1,800               
   Walker, Roxie Blackburn.               Junior clerk stenographer.               1,620               
   Walker, William G.               Storekeeper.               1,980               
   Walker, William Henry.               Population readjustment worker.               1,800               
@@ -5411,7 +5411,7 @@
   Wolfe, John E.               Assistant treasurer.               3,800               
   Wolfe, Joseph M.               Assistant civil engineer.               3,480               
   Wolfe, Thurber D.               Junior file clerk.               1,620               
-  Wallenson, Sidney J.               Engineering aide.               1,800               
+  Wallesson, Sidney J.               Engineering aide.               1,800               
   Wolff, Charles R., Jr.               Junior civil engineer.               2,000               
   Wolff, George E.               Engineering draftsman.               1,800               
   Woltr, Robert C.               Plant superintendent.               3,300               

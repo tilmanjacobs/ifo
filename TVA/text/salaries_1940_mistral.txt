@@ -957,7 +957,7 @@ Page 12
 | Conners, John J.           | Assistant safety officer | 2,900  |
 | Conover, Herbert S.           | Assistant landscape architect | 2,900  |
 | Conway, John E.           | Placement officer | 3,500  |
-| Conway, Willie P.           | Water tender | 1,600  |
+| Conway, Willis P.           | Water tender | 1,600  |
 | Cook, Edward H.           | Engineering aide | 1,800  |
 | Cook, James A.           | Acid operator | 1,600  |
 | Cook, Lester M.           | Assistant file clerk | 1,800  |
@@ -1084,7 +1084,7 @@ Page 14
 ================================================================================
 
 | Name                        | Title                        | Salary per annum |
-|--------------------------------|--------------------------------------|--------|
+|--------------------------------|--------------------------------------|------|
 | Cummings, Guilford D., Jr. | Senior inspector of materials. | $2,900 |
 | Cunningham, Earl H. | Senior accounting clerk. | 2,300 |
 | Cunningham, Levi F. | Police officer. | 1,630 |
@@ -1407,7 +1407,7 @@ Page 17
 | Emmons, Walter F., Jr.            | Associate structural engineer         | 3,500  |
 | Endebrock, Frank Louis.            | Associate civil engineer         | 3,200  |
 | England, Herbert Paul.            | Assistant field engineer         | 2,600  |
-| Engle, Ward W.            | Engineering draftsman                   | 1,980  |
+| Engle, Ward W.            | Engineering draftsman         | 1,980  |
 | English, Charles R.            | Gas mechanic                   | 2,000  |
 | Engstrom, Le Roy.            | Associate hydraulic engineer         | 3,500  |
 
@@ -1665,83 +1665,83 @@ Page 21
 
 | Name                        | Title                        | Salary per annum |
 |--------------------------------|----------------------------|--------------------------|
-| Gargle, Parker                          | Process steam operator             | $1,620  |
-| Garity, Charles H.                          | Director of materials             | 8,500  |
-| Garland, Hardy Douglas                          | Associate safety engineer             | 3,500  |
-| Garnett, Maerase Maureen                          | Junior stenographer             | 1,620  |
-| Garner, Frank                          | Electrician             | 2,000  |
-| Garner, Robert L.                          | Baker             | 1,620  |
-| Garrett, Carlstan T.                          | Junior highway engineer             | 2,000  |
-| Garrett, Clarence P.                          | Associate title examiner             | 3,500  |
-| Garrett, J. Duson                          | Junior administrative assistant             | 2,900  |
-| Garrett, Orvy Kyle                          | Substation operator             | 2,000  |
-| Garrett, William Thomas                          | Junior turbine operator—hydro             | 2,000  |
-| Garrison, James D.                          | Substation operator             | 2,000  |
-| Gartner, Nolan P.                          | Assistant engineering aide             | 1,620  |
-| Garton, James Lawrence                          | Assistant accounting clerk             | 1,620  |
-| Gartrell, Francis E.                          | Assistant sanitary engineer             | 2,900  |
-| Gass, Dennis W.                          | Police officer             | 1,620  |
-| Gass, Horace V.                          | Unit foreman             | 2,600  |
-| Gass, John Paul                          | Gas mechanic foreman             | 2,400  |
-| Gaston, Don L.                          | Carpenter             | 2,000  |
-| Gaston, Lamar D.                          | Engineering aide             | 1,800  |
-| Gates, Forrest M.                          | Principal engineering aide             | 2,600  |
-| Gatley, Thomas C.                          | Assistant structural engineer             | 3,200  |
-| Gattis, Joe L.                          | Lineman             | 2,000  |
-| Gaughan, John H.                          | Assistant materials engineer             | 3,200  |
-| Gaumt, James G.                          | Architectural engineer             | 4,200  |
-| Gay, Robert Walter                          | Hydraulic engineer             | 4,200  |
-| Gaadik, Oiga S.                          | Junior stenographer             | 1,620  |
-| Gehres, Hillard D.                          | Junior hydraulic engineer             | 2,300  |
-| Gehrke, Randall F.                          | Principal engineering aide             | 2,300  |
-| Geiser, Mary B.                          | Senior clerk-stenographer             | 2,600  |
-| Gendron, Roland Arthur                          | Engineering draftsman             | 1,980  |
-| Gentry, Samuel J.                          | Assistant substantial operator             | 1,800  |
-| Gentry, William C.                          | Junior timechecker             | 1,620  |
-| George, Charles Homer                          | Associate civil engineer             | 3,800  |
-| George, Kenneth R.                          | Senior switchboard operator             | 2,300  |
-| George, Robert B.                          | Electrical engineer             | 3,800  |
-| Gerein, Orlando                          | Lineman             | 2,000  |
-| Germaine, Mildred                          | Junior clerk-stenographer             | 1,620  |
-| German, Lawrence J.                          | Switchboard operator             | 2,200  |
-| Gernes, Donald C.                          | Assistant chemical engineer             | 2,600  |
-| Gersmann, Silas                          | Senior inspecter of materials             | 3,200  |
-| Gass, John T.                          | Principal engineering aide             | 2,600  |
-| Gbolson, Elizabeth M.                          | Assistant clerk-stenographer             | 1,620  |
-| Ghormiey, Mary M.                          | Junior clerk-stenographer             | 1,620  |
-| Gibb, Cecil H.                          | Senior clerk             | 2,000  |
-| Gibbs, James T.                          | Assistant engineering aide             | 1,620  |
-| Gibbs, Luther K.                          | Police officer             | 1,620  |
-| Gibney, Laurence V.                          | Engineering draftsman             | 1,800  |
-| Gibson, Charles E.                          | Associate mechanical engineer             | 3,500  |
-| Gibson, Charles W.                          | Locomotive operator—20 tons             | 2,000  |
-| Gibson, Denmark L.                          | Storekeeper             | 1,600  |
-| Gibson, Howard S.                          | Police officer             | 1,620  |
-| Gibson, James F.                          | Condenser operator             | 1,800  |
-| Gibson, John S.                          | Junior inspecter of construction             | 1,800  |
-| Gibson, Robert Ewing                          | Assistant civil engineer             | 2,600  |
-| Gibson, Virgil L.                          | Senior switchboard operator             | 2,500  |
-| Gibson, Walter P.                          | Junior plant records engineer             | 2,300  |
-| Gibson, William Thomas                          | Switchboard operator             | 2,200  |
-| Giffin, Ted                          | Senior accounting clerk             | 2,000  |
-| Gilbert, Boyd William                          | senior switchboard operator             | 2,500  |
-| Gilbert, John E.                          | -do             | 2,500  |
-| Gilbert, John R.                          | Associate land appraiser             | 2,900  |
-| Gilchrist, James J.                          | Senior construction aide             | 2,000  |
-| Gildersleeve, Benjamin                          | Associate geologist             | 3,200  |
-| Gilkeson, William R.                          | Assistant electrical engineer             | 2,600  |
-| Gill, Harry G.                          | -do             | 2,900  |
-| Gillen, Hugh C.                          | Inspector of construction             | 2,000  |
-| Gillespie, Marvin                          | Assistant erosion engineer             | 2,600  |
-| Gillespie, Willie C.                          | Assistant clerk-stenographer             | 1,800  |
-| Gillett, Logan A.                          | Assistant hydraulic engineer             | 2,600  |
-| Gillham, Willard C.                          | Assistant agricultural engineer             | 2,900  |
-| Gilliam, Howard W.                          | Junior timechecker             | 1,620  |
-| Gilliam, Willie H.                          | Machinist             | 3,000  |
-| Gilliland, Alvin D.                          | Furnace operator             | 1,620  |
-| Gilliland, Edwin A., Jr.                          | Assistant file clerk             | 1,800  |
-| Gilliland, Thomas O.                          | Assistant medical aide             | 1,620  |
-| Gilmer, Nelson W.                          | Assistant civil engineer             | 2,000  |
+| Gargis, Parker                    | Process steam operator             | $1,620  |
+| Garity, Charles H.                    | Director of materials             | 8,500  |
+| Garland, Hardy Douglas                    | Associate safety engineer             | 3,500  |
+| Garnett, Maerase Maureen                    | Junior stenographer             | 1,620  |
+| Garner, Frank                    | Electrician             | 2,000  |
+| Garner, Robert L.                    | Baker             | 1,620  |
+| Garrett, Carlstan T.                    | Junior highway engineer             | 2,000  |
+| Garrett, Clarence P.                    | Associate title examiner             | 3,500  |
+| Garrett, J. Duson                    | Junior administrative assistant             | 2,900  |
+| Garrett, Orry Kyle                    | Substation operator             | 2,000  |
+| Garrett, William Thomas                    | Junior turbine operator—hydro             | 2,000  |
+| Garrison, James D.                    | Substation operator             | 2,000  |
+| Gartner, Nolan P.                    | Assistant engineering aide             | 1,620  |
+| Garton, James Lawrence                    | Assistant accounting clerk             | 1,620  |
+| Gartrell, Francis E.                    | Assistant sanitary engineer             | 2,900  |
+| Gass, Dennis W.                    | Police officer             | 1,620  |
+| Gass, Horace V.                    | Unit foreman             | 2,600  |
+| Gass, John Paul                    | Gas mechanic foreman             | 2,400  |
+| Gaston, Don L.                    | Carpenter             | 2,000  |
+| Gaston, Lamar D.                    | Engineering aide             | 1,800  |
+| Gates, Forrest M.                    | Principal engineering aide             | 2,600  |
+| Gatley, Thomas C.                    | Assistant structural engineer             | 3,200  |
+| Gattis, Joe L.                    | Lineman             | 2,000  |
+| Gaughan, John H.                    | Assistant materials engineer             | 3,200  |
+| Gaumt, James G.                    | Architectural engineer             | 4,200  |
+| Gay, Robert Walter                    | Hydraulic engineer             | 4,200  |
+| Gaadik, Oiga S.                    | Junior stenographer             | 1,620  |
+| Gehres, Hillard D.                    | Junior hydraulic engineer             | 2,300  |
+| Gehrke, Randall F.                    | Principal engineering aide             | 2,300  |
+| Geiser, Mary B.                    | Senior clerk-stenographer             | 2,600  |
+| Gendron, Roland Arthur                    | Engineering draftsman             | 1,980  |
+| Gentry, Samuel J.                    | Assistant substantial operator             | 1,800  |
+| Gentry, William C.                    | Junior timechecker             | 1,620  |
+| George, Charles Homer                    | Associate civil engineer             | 3,800  |
+| George, Kenneth R.                    | Senior switchboard operator             | 2,300  |
+| George, Robert B.                    | Electrical engineer             | 3,800  |
+| Gerein, Orlando                    | Lineman             | 2,000  |
+| Germaine, Mildred                    | Junior clerk-stenographer             | 1,620  |
+| German, Lawrence J.                    | Switchboard operator             | 2,200  |
+| Gernes, Donald C.                    | Assistant chemical engineer             | 2,600  |
+| Gersmann, Silas                    | Senior inspector of materials             | 3,200  |
+| Gass, John T.                    | Principal engineering aide             | 2,600  |
+| Gbolson, Elizabeth M.                    | Assistant clerk-stenographer             | 1,620  |
+| Ghormiey, Mary M.                    | Junior clerk-stenographer             | 1,620  |
+| Gibb, Cecil H.                    | Senior clerk             | 2,000  |
+| Gibbs, James T.                    | Assistant engineering aide             | 1,620  |
+| Gibbs, Luther K.                    | Police officer             | 1,620  |
+| Gibney, Laurence V.                    | Engineering draftsman             | 1,800  |
+| Gibson, Charles E.                    | Associate mechanical engineer             | 3,500  |
+| Gibson, Charles W.                    | Locomotive operator—20 tons             | 2,000  |
+| Gibson, Denmark L.                    | Storekeeper             | 1,600  |
+| Gibson, Howard S.                    | Police officer             | 1,620  |
+| Gibson, James F.                    | Condenser operator             | 1,800  |
+| Gibson, John S.                    | Junior inspector of construction             | 1,800  |
+| Gibson, Robert Ewing                    | Assistant civil engineer             | 2,600  |
+| Gibson, Virgil L.                    | Senior switchboard operator             | 2,500  |
+| Gibson, Walter P.                    | Junior plant records engineer             | 2,300  |
+| Gibson, William Thomas                    | Switchboard operator             | 2,200  |
+| Giffin, Ted                    | Senior accounting clerk             | 2,000  |
+| Gilbert, Boyd William                    | senior switchboard operator             | 2,500  |
+| Gilbert, John E.                    | -do                | 2,500  |
+| Gilbert, John R.                    | Associate land appraiser             | 2,900  |
+| Gilchrist, James J.                    | Senior construction aide             | 2,000  |
+| Gildersleeve, Benjamin                    | Associate geologist             | 3,200  |
+| Gilkeson, William R.                    | Assistant electrical engineer             | 2,600  |
+| Gill, Harry G.                    | -do                | 2,900  |
+| Gillen, Hugh C.                    | Inspector of construction             | 2,000  |
+| Gillespie, Marvin                    | Assistant erosion engineer             | 2,600  |
+| Gillespie, Willie C.                    | Assistant clerk-stenographer             | 1,800  |
+| Gillett, Logan A.                    | Assistant hydraulic engineer             | 2,600  |
+| Gillham, Willard C.                    | Assistant agricultural engineer             | 2,900  |
+| Gilliam, Howard W.                    | Junior timechecker             | 1,620  |
+| Gilliam, Willie H.                    | Machinist             | 3,000  |
+| Gilliland, Alvin D.                    | Furnace operator             | 1,620  |
+| Gilliland, Edwin A., Jr.                    | Assistant file clerk             | 1,800  |
+| Gilliland, Thomas O.                    | Assistant medical aide             | 1,620  |
+| Gilmer, Nelson W.                    | Assistant civil engineer             | 2,000  |
 
 Page 22
 ================================================================================
@@ -2330,37 +2330,37 @@ Page 29
 |--------------------------------|--------------------------------------|----------|
 | Hunter, Stephen S.            | Associate civil engineer.         | $3,500  |
 | Huntington, Lloyd L.            | Principal personnel relations officer.         | 4,200  |
-| Hurd, Clarence J.            | Chief of division.         | 5,600  |
+| Hurd, Clarence J.            | Chief of division         | 5,600  |
 | Hurd, Herbert S.            | Junior entomologist.         | 2,300  |
-| Hurley, Ivan             | Electrician.         | 2,000  |
+| Hurley, Ivan             | Electrician         | 2,000  |
 | Hurt, Cecil A.            | Junior hydraulic engineer.         | 2,300  |
 | Hurt, Milton C.            | Building maintenance mechanic.         | 2,000  |
-| Huskisson, Clonelle P.           | Junior clerk.         | 1,620  |
+| Huskisson, Clonelle P.           | Junior clerk         | 1,620  |
 | Hutcheraft, Herman W.           | Junior electrical engineer.         | 2,000  |
-| Hutebens, C. Pate, Jr.           | Accounting clerk.         | 1,800  |
+| Hutebens, C. Pate, Jr.           | Accounting clerk         | 1,800  |
 | Hutebens, Marie O.           | Clerk-stenographer.         | 1,980  |
 | Hutcheson, Charles Pat.           | Junior highway engineer.         | 2,300  |
 | Hutchinson, Homer B.           | Inspector of construction.         | 2,000  |
 | Hutson, Avery R.           | Assistant engineering aide.         | 1,800  |
 | Hutto, Walter Clyde.            | Assistant structural engineer.         | 2,200  |
 | Hyatt, James H.            | Malaria control foreman.         | 1,620  |
-| Hyder, John B., Jr.           | Accounting clerk.         | 1,800  |
+| Hyder, John B., Jr.           | Accounting clerk         | 1,800  |
 | Hysinger, Wayne K.           | Junior electrical engineer.         | 2,300  |
 | Iakisch, Marshall R.           | Assistant hydraulic engineer.         | 2,000  |
 | Igou, Clyde R.           | Material foreman.         | 2,600  |
-| Igou, Hubert L.           | Principal clerk.         | 2,600  |
+| Igou, Hubert L.           | Principal clerk         | 2,600  |
 | Ikard, Curtis F.           | Furnace operator.         | 1,620  |
-| Ikard, Percy H.           | Yard conductor.         | 2,000  |
+| Ikard, Percy H.           | Yard conductor         | 2,000  |
 | Ingerson, Harry C.           | Junior civil engineer.         | 2,300  |
 | Ingram, Frances C.           | Assistant clerk-stenographer.         | 1,800  |
 | Ingram, George Mason           | Junior budget officer.         | 2,300  |
 | Ingram, Harrison A.           | Assistant electrical engineer.         | 2,600  |
 | Ingram, Haskell D.           | Assistant accounting clerk.         | 1,620  |
-| Ingram, John P.           | Electrician.         | 2,000  |
+| Ingram, John P.           | Electrician         | 2,000  |
 | Ingram, L. Jane           | Assistant accounting clerk.         | 1,620  |
 | Ingram, Thomas N.           | General electrical foreman.         | 2,900  |
-| Ingram, Tillman B.           | Machinist soldier.         | 2,000  |
-| Inman, Lucile           | Assistant clerk.         | 1,620  |
+| Ingram, Tillman B.           | Machinist soldier         | 2,000  |
+| Inman, Lucile           | Assistant clerk         | 1,620  |
 | Irish, George H.           | Chief, transportation division.         | 4,200  |
 | Irvin, Harrison D.           | Master mechanic.         | 5,000  |
 | Irwin, Carlos L.           | Assistant accounting clerk.         | 1,800  |
@@ -2395,7 +2395,7 @@ Page 29
 | Jandacek, Emil J.           | Assistant erosion engineer.         | 2,600  |
 | Jandrey, Arthur S.           | Director of personnel.         | 7,250  |
 | Jarrett, James McKinney.           | Substation operator.         | 2,000  |
-| Jasper, Cletus L.           | Assistant mechanical engineer.         | 2,000  |
+| Jasper, Cletus L.           | Assistant mechanical engineer.         | 2,600  |
 | Jaudon, Walter R.           | Limeman foreman.         | 2,400  |
 | Jeans, Robert L.           | Administrative assistant.         | 3,200  |
 | Jeffries, Otis F.           | Malaria control foreman.         | 1,620  |
@@ -2460,11 +2460,11 @@ Page 30
 | Johnston, John M.            | Junior highway engineer | 2,300  |
 | Johnston, Lester H.            | Stoker boiler operator      | 2,200  |
 | Johnston, Lois Jane           | Clerk-stenographer                   | 1,980  |
-| Johnston, Lucille Woods            | Junior clerk-stenographer | 1,620  |
+| Johnston, Lucille Woods           | Junior clerk-stenographer | 1,620  |
 | Johnston, Sherwood L.            | Senior engineering aide      | 2,000  |
 | Johnston, Weldon K.            | General labor foreman      | 3,800  |
 | Johnston, William D.            | Plant records engineer | 4,200  |
-| Jamer, James B.            | Junior clerk-stenographer | 1,620  |
+| James, James B.            | Junior clerk-stenographer | 1,620  |
 | Jolliffe, John S.            | Senior police officer                   | 1,620  |
 | Jolly, William W.            | Associate forester                   | 3,600  |
 | Jones, Aldon M.            | Junior aquatic biologist | 2,000  |
@@ -2824,7 +2824,7 @@ Page 35
 ================================================================================
 
 | Name                        | Title                        | Salary per annum |
-|--------------------------------|--------------------------------------|----------|
+|--------------------------------|----------------------------|--------------------------|
 | Lewis, Jesse M.                         | General foreman                        | 33, 000 |
 | Lewis, Joe B.                         | Police officer                          | 1, 000 |
 | Lewis, Johneta                         | Senior accounting clerk                          | 2, 000 |
@@ -3571,7 +3571,7 @@ Page 44
 ================================================================================
 
 | Name                        | Title                  | Salary per annum |
-|--------------------------------|----------------------------|--------------------------|------------------|
+|--------------------------------|----------------------------|--------------------------|
 | Pearson, Gertrude R.            | Assistant clerk-stenographer             | $1,800  |
 | Pearson, Harrell B.            | Assistant plant records engineer | 2,600  |
 | Pearson, Mildred N.            | Clerk-stenographer             | 1,980  |
@@ -3901,7 +3901,7 @@ Page 47
 Page 48
 ================================================================================
 
-| Name                        | Title                  | Salary per annum |
+| Name                        | Title                        | Salary per annum |
 |--------------------------------|----------------------------|--------------------------|
 | Roberson, Lewis S.            | Assistant engineering draftsman | $1,620  |
 | Roberts, Alvis S.            | Drug store manager | 2,300  |
@@ -3927,7 +3927,7 @@ Page 48
 | Robinson, Katherine            | Assistant clerk-stenographer | 1,800  |
 | Robinson, Vaud D. L.            | Information service representative | 4,200  |
 | Robinson, Willard F., Jr.            | Junior inspector of construction | 1,800  |
-| Robnott, Vernon F.            | Junior plant records engineer | 2,300  |
+| Robnett, Vernon F.            | Junior plant records engineer | 2,300  |
 | Roby, Detlev H.            | Master mechanic | 5,000  |
 | Rochelle, Roy S.            | Senior guard | 1,620  |
 | Rockwell, Louis B.            | Principal traffic officer | 5,800  |
@@ -3998,69 +3998,69 @@ Page 49
 | Ruffner, B. Winfred         | Junior accountant | 2,300  |
 | Rugg, Philip J.            | Associate electrical engineer | 3,500  |
 | Ruggles, Charles R.            | Painter                        | 2,000  |
-| Ruhl, Eleanor S.            | Editorial clerk                          | 1,800  |
+| Ruhl, Eleanor S.            | Editorial clerk                   | 1,800  |
 | Ruhl, Imogene Louise            | Assistant clerk-stenographer | 1,800  |
 | Ruka, Louis W.            | Junior inspector of construction | 1,880  |
 | Runyan, L. Raymond            | Assistant statistical clerk | 1,800  |
 | Rush, Alger E.            | Associate highway engineer | 3,500  |
-| Rushton, Eugene R.            | Junior chemist                        | 2,600  |
+| Rushton, Eugene R.            | Junior chemist                    | 2,600  |
 | Russell, Claude J.            | Machinist apprentice | 1,620  |
 | Russell, Clyde H.            | Electrician                        | 2,000  |
-| Russell, Glasgow R.            | Substation operator                        | 2,000  |
+| Russell, Glasgow R.            | Substation operator                   | 2,000  |
 | Russell, James W.            | Junior personnel representative | 2,600  |
-| Russell, Jere G.            | Senior clerk                          | 2,300  |
+| Russell, Jere G.            | Senior clerk                    | 2,300  |
 | Russell, Luther A.            | Shift engineer                        | 2,500  |
 | Russell, R. Franklin           | Pulverized fuel boiler operator | 2,200  |
 | Russell, Robert Lee           | Assistant plant superintendent | 2,900  |
 | Rust, Henry Preston           | Senior mechanical engineer | 5,000  |
 | Rutherford, Lewis M.            | Junior inspector of materials | 1,980  |
-| Rutland, James M.            | Kiln operator                        | 1,620  |
-| Rutledge, Charles Buford           | Senior placement clerk                          | 2,000  |
+| Rutland, James M.            | Kiln operator                   | 1,620  |
+| Rutledge, Charles Buford           | Senior placement clerk | 2,000  |
 | Rutter, Edward J.            | Senior hydraulic engineer | 2,000  |
 | Ryan, Alfred Joseph           | Assistant structural engineer | 2,900  |
 | Ryan, Philip L.            | Junior inspector of construction | 1,800  |
 | Rymer, Clyde C.            | System load dispatcher | 2,600  |
-| Rymer, Jesse E.            | Assistant clerk                          | 1,620  |
-| Sadler, Harry H.            | Accounting clerk                          | 1,800  |
+| Rymer, Jesse E.            | Assistant clerk                    | 1,620  |
+| Sadler, Harry H.            | Accounting clerk                   | 1,800  |
 | St. Clair, Harry           | Assistant electrical engineer | 2,000  |
 | Salley, Grady S.            | Senior engineering aide | 2,300  |
 | Salmon, Frank J.            | Senior engineering draftsman | 3,300  |
 | Salmon, Gordon W.            | Associate structural engineer | 2,200  |
-| Salmond, Henry C.            | Account clerk                          | 1,620  |
+| Salmond, Henry C.            | Account clerk                   | 1,620  |
 | Salter, L. Carlton           | Chief, cooperative research and experiment division | 6,000  |
 | Sample, Harel M.            | Associate high school teacher | 1,980  |
-| Sample, Mary Lee           | Clerk                          | 1,980  |
-| Sandberg, Elroy L.            | Head accountant                          | 2,000  |
+| Sample, Mary Lee           | Clerk                    | 1,980  |
+| Sandberg, Elroy L.            | Head accountant                   | 2,000  |
 | Sanderford, Ralph H.            | District operating superintendent | 2,900  |
 | Sanders, Clarence W.            | Assistant substantial operator | 1,800  |
 | Sanders, Francis           | Assistant property and supply officer | 2,400  |
-| Sanders, Robert R.           | Junior storekeeper                          | 1,620  |
-| Sanderson, Frank           | Senior pay-roll clerk                          | 2,000  |
-| Sanderson, Marshall A.            | Police officer                          | 1,620  |
+| Sanders, Robert R.           | Junior storekeeper                   | 1,620  |
+| Sanderson, Frank           | Senior pay-roll clerk                   | 2,000  |
+| Sanderson, Marshall A.            | Police officer                        | 1,620  |
 | Sanderson, William C.            | Principal engineering aide | 2,600  |
 | Sandford, William J., Jr.            | Assistant supervisor of recreation | 2,600  |
 | Sandifor, Lizette N.            | Junior clerk-stenographer | 1,620  |
-| Sands, Mary Agnes           | Graduate nurse                          | 1,800  |
+| Sands, Mary Agnes           | Graduate nurse                   | 1,800  |
 | Sanford, W. Edward           | Member, board of appraisal and review | 1,000  |
 | Sanner, Edward Reed           | Junior office engineer | 2,300  |
 | Santa Cruz, Edgar W.            | Assistant medical aide | 1,800  |
 | Sargent, Gustavus F.            | Associate electrical engineer | 3,800  |
-| Sass, Robert V.            | General foreman                          | 3,000  |
+| Sass, Robert V.            | General foreman                   | 3,000  |
 | Satterfield, M. Harry           | Associate social science analyst | 3,300  |
-| Savage, Neil S.           | Associate forester                          | 3,800  |
-| Savage, William Burt           | Junior engineering aide                          | 2,600  |
+| Savage, Neil S.           | Associate forester                    | 3,800  |
+| Savage, William Burt           | Junior engineering aide | 2,600  |
 | Saville, William G.            | Associate structural engineer | 3,200  |
-| Sawyer, Ray G.            | Training officer                          | 3,500  |
-| Sawyer, Frank T.            | Engineering aide                          | 1,980  |
-| Sayford, Ned H.            | Head elril engineer                          | 2,000  |
+| Sawyer, Ray G.            | Training officer                        | 3,500  |
+| Sawyer, Frank T.            | Engineering aide                   | 1,980  |
+| Sayford, Ned H.            | Head elril engineer | 2,000  |
 | Saylors, Lemey E.            | Locomotive crane operator | 2,000  |
-| Sayre, William Clarke           | Associate title examiner                          | 3,200  |
-| Saywell, Fred T., Jr.            | Engineering aide                          | 1,980  |
-| Scallions, Shelton G.            | Assistant clerk typist                          | 1,800  |
+| Sayre, William Clarke           | Associate title examiner | 3,200  |
+| Saywell, Fred T., Jr.            | Engineering aide                   | 1,980  |
+| Scallions, Shelton G.            | Assistant clerk-typist                   | 1,800  |
 | Scanlan, William A.            | Senior field transportation supervisor | 3,500  |
 | Scarborough, Frank L.            | Associate electrical engineer | 3,200  |
 | Scales, Paul W.            | Assistant mechanical engineer | 2,600  |
-| Seattergood, E. Robert           | Junior electrical engineer                          | 2,300  |
+| Seattergood, E. Robert           | Junior electrical engineer | 2,300  |
 | Schalli, Harold A.            | Assistant hydraulic engineer | 2,000  |
 | Schaller, John A.            | Assistant agricultural engineer | 3,200  |
 
@@ -4250,7 +4250,7 @@ Page 52
 | Smith, Geraldine E.                    | Principal personnel clerk                | 2,300  |
 | Smith, Glenn F.                    | Assistant comptroller                   | 6,500  |
 | Smith, Gordon E.                    | Assistant biologist                   | 2,900  |
-| Smith, Hal                    | Assistant clerk                   | 1,620  |
+| Smith, Hal                  | Assistant clerk                   | 1,620  |
 | Smith, Harper D.                    | Accounting clerk                   | 1,980  |
 | Smith, J. Aubrey                    | Assistant photographer                   | 1,620  |
 | Smith, James C.                    | Assistant engineering aide                | 1,620  |
@@ -4409,11 +4409,11 @@ Page 54
 | Stevenson, Joe W.            | Assistant electrical engineer             | 2,900  |
 | Stevenson, Winston G.            | Assistant field engineer             | 2,600  |
 | Stewart, Clarence K.            | Junior plant records engineer             | 2,300  |
-| Stewart, Edward O.            | Police officer             | 1,620  |
+| Stewart, Edward O.            | Police officer                | 1,620  |
 | Stewart, Ernest L.            | Machinist foreman             | 2,400  |
 | Stewart, Harry A.            | Senior forestry aide             | 2,300  |
 | Stewart, Howard L.            | Junior electrical engineer             | 2,000  |
-| Stewart, John Lee.            | Storskeeper                | 1,980  |
+| Stewart, John Lee            | Storskeeper                | 1,980  |
 | Stewart, Marcus G.            | Junior plant records engineer             | 2,300  |
 | Stewart, Robert S.            | Associate civil engineer             | 3,500  |
 | Stewart, Warren R.            | Bollermaker wolder             | 2,000  |
@@ -4540,7 +4540,7 @@ Page 55
 | Tays, Alton H.                      | Assistant turbine operator—hydro             | 1,800  |
 | Tays, Floyd                      | Marine pilot—50 tons             | 1,800  |
 | Tease, J. Albert                      | Student generating plant operator | 1,800  |
-| Teasley, Gladstone I.                      | Assistant material engineer | 3,200  |
+| Teasley, Gladstone I.                      | Assistant materials engineer | 3,200  |
 | Teasley, Romine                      | Senior abstracter             | 2,000  |
 | Tedder, Charles C.                      | Lineman foreman             | 2,400  |
 | Tedford, John H.                      | Assistant storekeeper             | 1,620  |

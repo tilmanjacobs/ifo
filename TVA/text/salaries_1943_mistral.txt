@@ -637,7 +637,7 @@ Page 8
 | Bell, Harry A.                | Senior payroll clerk             | 2,798.33  |
 | Bell, Helen F.                | Assistant nitric acid tower operator             | 1,500.00  |
 | Bell, Hugh H.                | Senior engineering aide             | 2,443.33  |
-| Bell, J. Edward                | Driver fireman             | 1,600.00  |
+| Bell, J. Edward                | Driver fireman             | 1,680.00  |
 | Bell, Malcolm A.                | Junior st-orkeeper             | 1,752.00  |
 | Bell, Martha Ann.                | Under clerk-typist             | 1,620.00  |
 | Bell, Robert T.                | Carpenter             | 2,200.00  |
@@ -660,25 +660,25 @@ Page 8
 | Bennett, Hilton A., Jr.                | Associate chemical engineer             | 2,828.33  |
 | Bennett, Jane Evans.                | Senior stemographer             | 2,190.00  |
 | Bennett, Lord C.                | Assistant file clerk             | 1,971.00  |
-| Bennett, Marion L.                | Senior engineering aide             | 2,443.33  |
+| Bennett, Marion L.                | Senior engineering aide             | 2,433.33  |
 | Bennett, Manole E.                | Junior clerk-typist             | 1,971.00  |
 | Bennett, Roy J.                | Public safety officer             | 1,971.00  |
 | Bennett, Thomas L.                | Substation operator             | 2,200.00  |
 | Bennett, Thomas L.                | Associate civil engineer             | 4,128.33  |
 | Bennett, Warren D.                | Junior civil engineer             | 2,798.33  |
-| Bennington, Robert Frank            | Assistant electrical engineer             | 2,798.33  |
-| Benoit, Fay Gilbert                | Assistant clerk-stemographer             | 1,971.00  |
+| Bennett, Robert Frank.                | Assistant electrical engineer             | 2,798.33  |
+| Benoit, Fay Gilbert.                | Assistant clerk-stemographer             | 1,971.00  |
 | Benson, Forrest M.                | Principal personnel officer             | 4,428.33  |
 | Benson, Frederick R.                | Assistant turfonist engineer             | 3,528.33  |
 | Benson, Oscar J.                | General tunnel fireman             | 4,828.33  |
-| Benson, Thomas                | Officer engineer             | 4,428.33  |
+| Benson, Thomas                  | Office engineer             | 4,428.33  |
 | Benson, Vern A.                | Junior clerk-typist             | 1,752.00  |
 | Bentley, Elza N.                | Phosphate shift supervisor             | 3,828.33  |
 | Benton, Nadine A.                | Assistant accounting clerk             | 1,971.00  |
 | Bergman, William E.                | Assistant element             | 3,163.33  |
 | Bernauer, Louis H.                | Exalted-ward operator             | 2,400.00  |
 | Bernhardt, William O.                | Relief operator             | 1,900.00  |
-| Berzang, Hartridge J.                | Inspector of materials             | 2,443.33  |
+| Berzang, Hartridge J.                | Inspector of materials             | 2,433.33  |
 | Berry, Carlton A.                | Service man             | 2,400.00  |
 | Berry, Eva I.                | Senior clerk             | 2,798.33  |
 | Berry, Gertrude                | Junior clerk-typist             | 1,971.00  |
@@ -856,10 +856,10 @@ Page 10
 | Blough, William 1 | Associate title examiner | 4,128.33 |
 | Blouin, Glenn 1 | Junior chemical engineer | 2,433.33 |
 | Bloun, William 1 | Junior civil engineer | 2,433.33 |
-| Blunn, William 1 | Junior chemical engineer | 2,700.33 |
-| Blute, Elmer 3 | Blackman | 2,400.00 |
+| Blunn, William 1 | Junior chemical engineer | 2,708.33 |
+| Blysthe, Elmer 3 | Machinist | 2,400.00 |
 | Boardman, Douglas 8 | Junior for-ster | 2,433.33 |
-| Boatman, Cornelius 1 | Strain fitter | 2,400.00 |
+| Boardman, Cornelius 1 | Licensed for-man | 2,400.00 |
 | Bobbitt, William Raymond | Assistant clerk | 2,190.00 |
 | Bobo, Charles 1 | Junior correspondence clerk | 1,971.00 |
 | Bobo, Paul 1 | Electrician | 2,400.00 |
@@ -868,7 +868,7 @@ Page 10
 | Bodenheimer, Dickinson 1 | Assistant photographer | 2,190.00 |
 | Bodenheimer, Evelyn 1 | Telephone operator | 1,620.00 |
 | Bogress, Guy 1 | Junior time-checker | 1,752.00 |
-| Boggs, Elmo 1 | Assistant civil engineer | 3,103.33 |
+| Boggs, Elmo 8 | Assistant civil engineer | 3,103.33 |
 
 Page 11
 ================================================================================
@@ -926,9 +926,9 @@ Page 11
 | Bowditch, Mary Lee           | Under clerk                          | 1,620.00 |
 | Bow, Edwin Watson           | Principal population readjustment representative                        | 3,828.33 |
 | Bowtle, Mark M.           | Chief engineering draftsman                        | 3,828.33 |
-| Bowen, Edgar C.           | General fireman                        | 4,828.33 |
+| Bowen, Edgar C.           | General foreman                        | 4,828.33 |
 | Bowen, Harland W.           | Electrical engineer                        | 4,828.33 |
-| Bower, George S.           | Junior forestry                        | 2,437.33 |
+| Bower, George S.           | Junior forester                        | 2,437.33 |
 | Bower, James C.           | Accounting clerk                          | 2,190.00 |
 | Bower, M. Allene           | Junior clerk -tyrist                        | 1,752.00 |
 | Bowers, Barbara M.           | Public safety officer -trainee                        | 1,752.00 |
@@ -1213,7 +1213,7 @@ Page 14
 | Brown, Virgil W.            | Public safety officer             | 1,971.00  |
 | Brown, W. Mike.            | General foreman             | 4,128.33  |
 | Brown, Walter F.            | Public safety officer-trainee             | 1,752.00  |
- Brown|, William C.            | Public safety officer             | 1,971.00  |
+| Brown, William C.            | Public safety officer             | 1,971.00  |
 | Brown, William K.            | Switelboard operator—small hydro plant             | 2,500.00  |
 | Brown, William M.            | Under mail clerk             | 1,620.00  |
 | Brown, William R.            | Senior condenser operator             | 2,200.00  |
@@ -1408,7 +1408,7 @@ Page 17
 | Name                        | Title                        | Salary per annum |
 |--------------------------------------|--------------------------------------|---------------------|
 | Butler, John P.            | Senior accounting clerk                       | $2.700  |
-| Butler, Max F.            | Junior clerk                       | 1.750  |
+| Butler, Max E.            | Junior clerk                       | 1.750  |
 | Butler, Oakley W.            | Industrial yard conductor                       | 2.100  |
 | Butler, V. Loraine            | Assistant nitric acid tower operator                       | 1.700  |
 | Butler, William L.            | Public safety officer                       | 2.100  |
@@ -1423,7 +1423,7 @@ Page 17
 | Byerly, Richard A.            | Junior rate engineer                       | 2.700  |
 | Byers, John P.            | Junior clerk-stemographer                       | 1.750  |
 | Byers, Lillian R.            | Assistant clerk-typist                       | 1.650  |
-| Byers, Roy F.            | Under engineering aide                       | 1.650  |
+| Byers, Roy E.            | Under engineering aide                       | 1.650  |
 | Byrum, George W., Jr.            | Lieutenant, public safety service                       | 2.450  |
 | Byrum, John W.            | Student generating plant operator—tih period | 2.000 |
 | Byrum, Mason, Jr.            | Public safety officer                       | 1.975  |
@@ -1851,12 +1851,12 @@ Page 22
 | Clark, W. Martin                   | Office engineer                   | 4.828.33  |
 | Clark, William H.                   | Sub-tation operator                   | 2.200.00  |
 | Clark, William L.                   | Junior civil engineer                   | 3.103.33  |
-| Clark, William P.                   | Associate by-traffic engineer | 4.128.33  |
+| Clark, William P.                   | Associate by-fraudle engineer | 4.128.33  |
 | Clark, William R.                   | Associate civil engineer                   | 4.128.33  |
 | Clark, Y. J.                   | Lieutenant, public safety service | 2.443.33  |
 | Clarke, John W.                   | Assistant securtrition engineer | 6.628.33  |
 | Clarke, Marion Martin                   | Assistant clerk-typist                   | 1.971.00  |
-| Clarke, Ralph N.                   | Under in-trial aide                   | 1.620.00  |
+| Clarke, Ralph N.                   | Under in-ileal aide                   | 1.620.00  |
 | Clarkson, William D.                   | Junior civil engineer                   | 3.163.33  |
 | Clason, Richard                   | Assistant electrical engineer | 3.328.33  |
 | Clauss, Alfred                   | Assistant chief, graphic arts service staff | 4.428.33  |
@@ -1867,7 +1867,7 @@ Page 22
 | Claxton, G. Glenn                   | Junior payer clerkirk | 1.752.00  |
 | Claxton, Judd W.                   | Junior chemical engineer | 2.443.33  |
 | Claxton, Mosley B.                   | Associate electrical engineer | 4.328.33  |
-| Claxton, Sam W.                   | Junior store keeper                   | 1.971.00  |
+| Claxton, Sam W.                   | Junior storekeeper                   | 1.971.00  |
 | Claxton, William R.                   | Public safety officer                   | 1.971.00  |
 | Claxton, Morris D.                   | Meandister                   | 2.400.00  |
 | Cleere, Bunyan                   | Janitor                   | 1.820.00  |
@@ -1892,19 +1892,18 @@ Page 22
 | Clenn, Charles N.                   | Sub-tation operator                   | 2.200.00  |
 | Cleveland, Frederick R.                   | Junior storekeeper                   | 1.752.00  |
 | Cleveland, Robert G.                   | Labor foreman                   | 1.800.00  |
-| Clever, Russell K.                   | Inspector of construction | 2.788.33  |
+| Clever, Russell K.                   | Inspector of construction | 2.708.33  |
 | Clift, Mary Louise                   | Junior engineering draftsman | 1.752.00  |
-| Clift, Oather L.                   | Junior laboratory helper                   | 1.752.00  |
-| Clifton, Elizabeth                   | Senior accounting clerk | 2.433.33  |
-| Clifton, Loyd J.                   | Engineering aide                   | 2.400.00  |
-| Cline, James E.                   | Associate chemical                   | 3.828.33  |
-| Cline, Roy                  | Under mail clerk                   | 1.620.00  |
+| Clift, Oather L.                   | Junior accounting clerk | 2.443.33  |
+| Clifton, Elizabeth                   | Engineering aide                   | 2.400.00  |
+| Clifton, Loyd J.                   | Associate chemical                   | 3.828.33  |
+| Cline, James E.                   | Under mail clerk                   | 1.620.00  |
 | Plines, Mayme S.                   | Property and supply clerk | 2.100.00  |
 | Cleer, Evelyn M.                   | Telephone operator                   | 1.620.00  |
 | Cloud, George T.                   | Senior operator—hydro                | 2.700.00  |
 | Cloud, George T.                   | Plant superintendent                   | 4.428.33  |
-| Cloud, Martha L.                   | Engineering aide                   | 2.100.00  |
-| Cloud, William L.                   | Senior engineering aide | 2.433.33  |
+| Cloud, William L.                   | Engineering aide                   | 2.100.00  |
+| Cloud, William L.                   | Senior engineering aide | 2.443.33  |
 | Cloud, William T.                   | Assistant forester                   | 3.163.33  |
 | Flower, Leverne H.                   | Principal sanitary engineer | 5.228.33  |
 | Flower, Norma L.                   | Assistant administrative officer | 3.163.33  |
@@ -1917,7 +1916,7 @@ Page 22
 | Cobb, Edmund M.                   | Has and I used methane foreman | 2.700.00  |
 | Cobb, G. Morzan                   | Junior electrical engineer | 2.708.33  |
 | Cobb, Hyrse E.                   | Public safety officer                   | 1.971.00  |
-| Cobb, John Paul                   | do                   | 1.971.00  |
+| Cobb, John Paul                   | -do                   | 1.971.00  |
 | Cobb, Malcolm                   | Junior accountant                   | 2.708.33  |
 | Cobb, William G.                   | Assistant mechanical engineer | 3.328.33  |
 | Cobb, James Lewis                   | Associate field engineer | 4.128.33  |
@@ -2392,10 +2391,10 @@ Page 28
 | Dalton, Wilma Garber            | Current general foreman                       | 4,428.33 |
 | Daly, Edmund S.            | Current general foreman                       | 2,100.00 |
 | Dameswell, Gerald K.            | Assistant by-traffic engineer                       | 3,528.33 |
-| Damon, Neil R.            | Assistant electrical engineer                       | 2,828.33 |
+| Damon, Neil R.            | Assistant electrical engineer                       | 3,828.33 |
 | Dampier, Amos M., Jr.            | Assistant structural engineer                       | 3,103.33 |
-| Damron, Frank D.            | Associate timber appraiser                       | 2,828.33 |
-| Dana, Benton P.            | Assistant mechanical engineer                       | 2,528.33 |
+| Damron, Frank D.            | Associate timber appraiser                       | 3,828.33 |
+| Dana, Benton P.            | Assistant mechanical engineer                       | 3,528.33 |
 | Danee, Mary Jane            | Under file clerk                       | 1,620.00 |
 | Daniel, Geneva F.            | Under engineering draftsman                       | 1,620.00 |
 | Dani, George W.            | Midwife control foreman                       | 1,620.00 |
@@ -2580,7 +2579,7 @@ Page 30
 | Dember, Ferguson                      | Junior civil engineer                      | 2,433.33 |
 | DeMerit, Merrill                      | Chief power engineer                      | 10,000.00 |
 | DeMontreville, Walter                      | Junior accounting                      | 2,798.33 |
-| Deadly, Jack S.                      | Juniorquintic biologist                      | 2,433.33 |
+| Deadly, Jack S.                      | Juniorquintic biotecist                      | 2,433.33 |
 | Denman, James                      | Allotracter                      | 2,400.00 |
 | Denney, Benjamin F.                      | Public safety officer                      | 1,971.00 |
 | Dennis, Mary L.                      | Junior typist                      | 1,620.00 |
@@ -2590,7 +2589,7 @@ Page 30
 | Denton, Jack S.                      | Under medical aide                      | 1,620.00 |
 | Denton, Robert J.                      | Junior storekeeper                      | 1,971.00 |
 | Denton, William Barto                      | Public safety officer                      | 1,971.00 |
-| DePriest, Charles F.                      | do                      | 1,671.00 |
+| DePriest, Charles F.                      | do                      | 1,971.00 |
 | Derby, Frank H.                      | Associate structural engineer                      | 4,128.33 |
 | DeRieux, William L.                      | Junior engineering aide                      | 1,752.00 |
 | DeRoux, William L. Jr.                      | Assistant environmental draftsman                      | 1,971.00 |
@@ -2599,7 +2598,7 @@ Page 30
 | Deschamps, Leon F.                      | Assistant environmental aide                      | 1,971.00 |
 | Deshebes, Emile W.                      | Tuttone operator—steam                      | 2,400.00 |
 | Desmond, Ethel M.                      | Senior clerk                      | 2,798.33 |
-| Dee, Richard O.                      | Junior civil engineer                      | 3,163.33 |
+| Dee, Richard C.                      | Junior civil engineer                      | 3,163.33 |
 | Deysheim, William L.                      | Libeman                      | 2,400.00 |
 | Deversius, Clarence W.                      | Land buyer                      | 4,128.33 |
 | DeVoe, Maxwell A.                      | Minister of properties                      | 6,228.33 |
@@ -2612,7 +2611,7 @@ Page 30
 | Dick, Harry W.                      | Senior inspector of materials                      | 3,828.33 |
 | Dickeson, Lowell W.                      | Assistant in -tention engineer                      | 3,328.33 |
 | Dickeson, James M.                      | Public safety officer                      | 1,971.00 |
-| Dickerson, Morris L.                      | Junior hydrantic engineer                      | 2,433.33 |
+| Dickerson, Morris L.                      | Junior hydraulic engineer                      | 2,433.33 |
 | Dickey, Frank H.                      | Under clerk                      | 1,752.00 |
 | Dickey, Helen M.                      | Junior edenfaring machine operator                      | 1,752.00 |
 | Dickins, Webb C.                      | Inspector of construction                      | 2,798.33 |
@@ -3036,10 +3035,10 @@ Page 35
 | Evans, Fidel M.            | Junior typist             | 1.00  |
 | Evans, Henry A.            | Assistant hydraulic engineer             | 3.10  |
 | Evans, Jack S.            | Assistant electrical engineer             | 3.10  |
-| Evans, Llewellyn           | Chief consulting electrical engineer             | 1.00  |
-| Evans, Mosley C.            | Under file clerk             | 1.00  |
+| Evans, Llewellyn           | Chief consulting electrical engineer | 1.00  |
+| Evans, Mosko C.            | Under file clerk             | 1.00  |
 | Evans, Marcel Laeile            | Junior engineering draftsman             | 1.32  |
-| Evans, Mactha Farr           | Under clerk             | 1.00  |
+| Evans, Martha Farr           | Under clerk             | 1.00  |
 | Evans, Mary Louise            | Assistant clerk typist             | 1.00  |
 | Evans, Mary rue             | Assistant clerk             | 1.00  |
 | Evans, Max H.            | Under engineering aide             | 1.00  |
@@ -3058,7 +3057,7 @@ Page 35
 | Evans, William S.            | Assistant hydraulic engineer             | 3.10  |
 | Evatt, M. Frances           | Junior engineering draftsman             | 1.32  |
 | Evcatt, Elvin L.            | Assistant hydraulic engineer             | 3.10  |
-| Everhart, John R.            | Assistant general structural steel foreman             | 6.00  |
+| Everhart, John R.            | Assistant general structural steel foreman | 6.00  |
 | 1 On loan to War Production Board. | |   |   |
 
 Page 36
@@ -3074,25 +3073,25 @@ Page 36
 | Ewing, A. Jane                | Assistant clerk                | 1,971.00  |
 | Erell, George B.            | Assistant general terminal foreman                | 3,163.33  |
 | Erell, Harrison B.            | Enumering aide                   | 2,190.00  |
-| Erell, Robert M.            | Ad useritor                | 1,900.00  |
+| Erell, Robert M.            | Admateritor                | 1,900.00  |
 | Erell, William A.            | Grammar room operator                | 1,500.00  |
 | Errell, Marqret P.            | Clerk stemographer                | 2,190.00  |
 | Eren, Nick J.            | Public safety officer                | 2,190.00  |
 | Fabry, Paul F.            | Chief accountant                | 7,926.33  |
 | Faidley, William F.            | Junior civil engineer                | 2,796.33  |
-| Fall, Mellan C.            | Engineering aide                | 2,190.00  |
+| Fall, Mothun C.            | Enumering in fe                | 2,190.00  |
 | Fain, Ilirum B.            | Assistant file clerk                | 1,971.00  |
 | Fair, Alta M.            | Unier clerk                | 1,620.00  |
-| Fair, Hollis C.            | Assistant clerk                | 1,971.00  |
+| Fair, Hulla C.            | Assistant clerk                | 1,971.00  |
 | Fair, James E.            | Assistant civil engineer                | 3,526.33  |
 | Fair, Wade F.            | Public safety officer                | 1,971.00  |
 | Fairchild, Gene P.            | Unier clerk                | 1,620.00  |
 | Fairchild, Grady G.            | Junior park attendant                | 1,752.00  |
 | Fairchild, Roy D.            | Electrician                | 2,400.00  |
 | Fairter, Charles D.            | Associate sanitary engineer                | 4,126.33  |
-| Fairfax, Tall M.            | Prof.le safety officer                | 1,971.00  |
+| Fairfax, Tall M.            | Prof. to salary officer                | 1,971.00  |
 | Foley, Thomas E.            | Assistant structural engineer                | 3,826.33  |
-| Falkovich, Obe C.            | Medical end engineer                | 4,826.33  |
+| Falkovich, Obe C.            | Medical engineer                | 4,826.33  |
 | Falls, Elmer H.            | Grammar room operator                | 1,900.00  |
 | Falckel, Gunnar           | Civil engineer                | 4,826.33  |
 | Fankhauser, Gina D.            | Assistant clerk                | 1,971.00  |
@@ -3111,7 +3110,7 @@ Page 36
 | Farrar, Esther           | Clerk stemographer                | 2,400.00  |
 | Farrar, W. Howard           | Public safety officer                | 1,971.00  |
 | Farrar, Wade H.            | Assistant highway engineer                | 3,526.33  |
-| Farrow, Charles W.            | Elementary aide                | 2,400.00  |
+| Farrow, Charles W.            | Enumering able                | 2,400.00  |
 | Farrow, Joe Huff           | Lineman                | 2,400.00  |
 | Forthing, Benjamin W.            | Junior storekeeper                | 1,752.00  |
 | Fundus, Opa G.            | Assistant gas maker                | 1,660.00  |
@@ -3130,14 +3129,14 @@ Page 36
 | Fenley, George H.            | Assistant turbine operator—hydro                | 2,000.00  |
 | Fenley, John H.            | Marketist welder                | 2,400.00  |
 | Fenn, Edward L.            | Proposed steam plant operator                | 2,000.00  |
-| Fenn, Willard L.            | Lead dispatcher                | 3,200.00  |
+| Fenn, William J.            | Lead dispatcher                | 3,200.00  |
 | Fenacho, Charles             | Junior electrical engineer                | 2,796.33  |
-| Fenron, Dorothy C.            | Junior clerk stemographer                | 1,971.00  |
+| Fencon, Dorothy C.            | Junior clerk stemographer                | 1,971.00  |
 | Fencroc, T. Hardeman            | Resuperator operator                | 1,800.00  |
 | Ferguson, Cooper             | Clerk                | 1,752.00  |
 | Feracuson, Douglas J., Jr.            | Chief engineering draftsman                | 3,163.33  |
 | Ferguson, Jean             | Assistant engineering draftsman                | 1,971.00  |
-| Ferguson, Henry T.            | Engineering aide                | 2,190.00  |
+| Ferguson, Henry T.            | Enumering aide                | 2,190.00  |
 | Ferguson, R. Carlyle            | Student generating plant operator—2d period                | 1,620.00  |
 | Ferguson, Robert A.            | Restaurant manuer                | 2,190.00  |
 | Ferguson, W. Len             | Executive crane operator                | 2,190.00  |
@@ -3271,11 +3270,11 @@ Page 38
 | Forsythe, Winnie T. | Junior typist             | 1,620.00  |
 | Fort, Martin Lee | Senior population readjustment worker             | 2,433.33  |
 | Fortune, Mary Evelyn | Assistant clerk stemorapher             | 1,971.00  |
-| Fawtal, Arne F. | Assistant forester             | 3,528.33  |
+| Fawtal, Anne F. | Assistant forester             | 3,528.33  |
 | Foster, Alnne L. | Senior safety officer             | 4,428.33  |
 | Foster, B. Keller | Assistant pulverized fuel boiler operator             | 2,000.00  |
 | Foster, Elizabeth J. | Assistant clerk typist             | 2,100.00  |
-| Foster, Henry C. | S. revent. public safety service             | 2,400.00  |
+| Foster, Henry C. | S-zevant, public safety service             | 2,490.00  |
 | Foster, James L. | Chemical aide             | 2,190.00  |
 | Foster, John | Junior element             | 2,433.33  |
 | Foster, Lownie F. | Junior storekeeper             | 1,971.00  |
@@ -3291,7 +3290,7 @@ Page 38
 | Fowler, Alfred J. | Lineman             | 2,490.00  |
 | Fowler, Azpie K. | Assistant clerk typist             | 1,971.00  |
 | Fowler, Betty B. | Under file clerk             | 1,620.00  |
-| Fowler, Claude W. | Lineman             | 2,400.00  |
+| Fowler, Claude W. | Lineman             | 2,490.00  |
 | Fowler, Crypton E. | Grumner room operator             | 1,500.00  |
 | Fowler, Elliott P. | General carpenter foreman             | 6,628.33  |
 | Fowler, Jackie C. | Under file clerk             | 1,620.00  |
@@ -3563,7 +3562,7 @@ Page 41
 | Gibbs, Mary Catherine            | Junior clerk-typist             | 1.97.0 |
 | Gibbs, Wilfrid H.            | Junior             | 1.82.0 |
 | Gibney, Laurence V.            | Assistant architect             | 3.16.3 |
-| Gibson, Charles E.            | Associate mechanical engineer             | 4.42.3 |
+| Gibson, Charles F.            | Associate mechanical engineer             | 4.42.3 |
 | Gibson, Charles W.            | Low-the-tive operator—20 tons             | 2.10.0 |
 | Gibson, Leonard L.            | Property and supply officer             | 3.82.3 |
 | Gibson, Folly n G.            | Setceant, public safety service             | 2.40.0 |
@@ -3861,8 +3860,8 @@ Page 45
 | Name                        | Title                        | Salary per annum |
 |--------------------------------------|--------------------------------------|-----------------------------|
 | Greene, Defores W.            | Junior typist                        | $1.62.8 |
-| Greene, Leroy Fe.            | Junior structural engineer                        | 3.16.1 |
-| Greenfield, Scott.            | Public safety officer                        | 2.99.6 |
+| Greene, Leroy Fe.            | Junior structural engineer                        | 3.16.3 |
+| Greenfield, Scott.            | Public safety officer                        | 2.99.9 |
 | Greenman, Harry F.            | Associate electrical engineer                        | 4.12.3 |
 | Greenup, Carmon E.            | Junior storekeeper                        | 1.22.6 |
 | Greenway, M. Kenneth           | Junior administrative officer                        | 2.79.2 |
@@ -3872,21 +3871,21 @@ Page 45
 | Greer, Verlie E.            | Under storekeeper                        | 1.62.0 |
 | Grege, Florence C.            | Clerk-stomercapler                          | 2.40.9 |
 | Grece, Ralph C.            | Assistant electrical engineer                        | 3.52.3 |
-| Grece, Robert C.            | Junior electrical engineer                        | 2.29.4 |
+| Grece, Robert C.            | Junior electrical engineer                        | 2.29.3 |
 | Gregory, Benjamin F.            | File clerk                          | 2.19.0 |
 | Gregory, Chester O.            | Pilot plant operator                          | 1.90.0 |
-| Gregory, Hale                          | Junioren                          | 1.49.0 |
+| Gregory, Hale                          | Junior                          | 1.42.0 |
 | Gregory, George B.            | Public safety officer                        | 1.97.0 |
-| Gregory, Houston H.            | Senior clerk                          | 2.43.2 |
+| Gregory, Houston H.            | Senior clerk                          | 2.43.3 |
 | Gregory, John B.            | Locomotive operator—20 tons                          | 2.19.0 |
 | Gregory, Joseph E.            | Public safety officer                        | 1.97.0 |
 | Gregory, Keith E.            | Junior storekeeper                        | 1.75.0 |
 | Gregory, Lawton T.            | Unit foreman                          | 3.52.3 |
 | Gregory, T. Marshall           | Assistant clerk                          | 1.97.0 |
 | Gregory, William Burley           | Trunk operator—power system maintenance                          | 1.60.0 |
-| Gresham, Elvis J.            | Junior laboratory helper                          | 1.22.0 |
-| Gresham, Fern E.            | Junior storekeeper                        | 1.22.0 |
-| Gretz, Paul J.            | Junior engineering aide                          | 1.22.0 |
+| Gresham, Elvis J.            | Junior laboratory helper                          | 1.23.0 |
+| Gresham, Fern E.            | Junior storekeeper                        | 1.23.0 |
+| Gretz, Paul J.            | Junior engineering aide                          | 1.23.0 |
 | Grey, John C.            | Assistant sanitary engineer                        | 3.10.3 |
 | Gribble, Ralph B.            | Chief junior                          | 1.97.0 |
 | Griffin, Lee E.            | Carpenter                          | 2.20.0 |
@@ -3894,7 +3893,7 @@ Page 45
 | Griffin, Thomas J.            | Assistant neuer/1 counsel                          | 5.12.3 |
 | Griffin, William A.            | Days of blood mechanic                          | 2.40.0 |
 | Griffin, William E.            | Assistant field engineer                        | 3.10.3 |
-| Griffith, Harry L.            | Junior payroll clerk                          | 1.22.0 |
+| Griffith, Harry L.            | Junior payroll clerk                          | 1.23.0 |
 | Griffith, Lamar W.            | Associate safety officer                        | 3.52.3 |
 | Griffith, William M.            | Associate land appraiser                          | 3.22.3 |
 | Gricen, Harvard B.           | Assistant materials foreman                          | 2.43.3 |
@@ -3902,29 +3901,28 @@ Page 45
 | Grissby, Robert L.            | Junior personnel officer                        | 2.43.3 |
 | Grissby, Van B.            | Malaria control foreman                          | 1.62.0 |
 | Grissby, William Robert           | Ammonium nitrate operator                          | 2.19.0 |
-| Grimes, John           | Assistant turtune operator—hydro                          | 2.00.0 |
+| Grimes, John           | Assistant turbino operator—hydro                          | 2.00.0 |
 | Grimes, William A.           | Assistant construction foreman                          | 3.10.3 |
-| Grimes, William A.           | Personnel clerk                          | 2.19.0 |
 | Grimm, Evelyn Lucille           | Personnel clerk                          | 2.20.0 |
-| Grimm, Harry           | Assistant swiv/10 board operator                          | 2.20.0 |
+| Grimm, Harry             | Assistant swiv/ethanol operator                          | 2.20.0 |
 | Grimmitt, Anne S.            | Junior payroll clerk                          | 1.22.0 |
-| Grimshaw, Herbert R.           | Associate electricity engineer                        | 4.12.3 |
-| Grinsley, Elizabeth H.           | Telephone operator                          | 1.22.0 |
-| Grinsly, Frederick L.           | Outside manbinist                          | 2.40.9 |
+| Grimsby, Herbert R.           | Associate electricity engineer                        | 4.12.3 |
+| Grimsby, Elizabeth H.           | Telephone operator                          | 1.22.0 |
+| Grindle, Frederick L.           | Outside manbinist                          | 2.90.9 |
 | Grisl, All           | Associate civil engineer                        | 4.12.3 |
-| Grisham, Arthur C.           | Principal engineering aide                          | 2.29.3 |
+| Grisham, Arthur C.            | Principal engineering aide                          | 2.29.3 |
 | Grisham, Arnold M.           | Sergeant, public safety service                          | 2.19.0 |
 | Grissom, Sebastian A.           | Ammonium nitrate operator                          | 2.19.0 |
 | Grissom, William B.           | Locomotive crane operator                          | 2.19.0 |
 | Grist, James L., Jr.           | Under commissary clerk                          | 1.52.0 |
-| Growan, Harold L.           | Junior brester                          | 3.10.3 |
+| Gowan, Harold L.            | Junior brester                          | 3.10.3 |
 | Grob, Frank W.           | Senior materials engineer                        | 6.02.3 |
 | Groom, Frank           | Under engineering aide                          | 1.62.0 |
 | Groom, Francis             | Senior typist                        | 1.22.0 |
 | Grose, Blanche F.           | Assistant accounting clerk                          | 1.97.0 |
 | Grosser, Betty           | Enciserine aide                          | 2.19.0 |
-| Grossman, Armin John           | Associate highway engineer                        | 3.52.3 |
-| Grout, John R., Jr.           | Assistant chemical engineer                        | 3.52.3 |
+| Grossman, Armin John           | Associate hidroxy engineer                        | 3.52.3 |
+| Grout, John R. Jr.           | Assistant chemical engineer                        | 3.52.3 |
 | Grubb, Harry W.           | Assistant engineering aide                          | 1.97.0 |
 | Grubbe, E. Colman           | Associate foods processing specialist                          | 3.52.3 |
 | Grubbe, E. Colman           | Senior operator—hydro                          | 2.19.0 |
@@ -3933,7 +3931,7 @@ Page 45
 | Guidi, Joseph C.           | Assistant engineering aide                          | 1.97.0 |
 | Guille, Merian I.           | Junior engineering dualeman                          | 1.22.0 |
 | Guines, William M.           | Under mail clerk                          | 1.62.0 |
-| Guinn, Charlotte           | Junior typist                        | 1.22.0 |
+| Guinn, Charlotte           | Junior typist                          | 1.22.0 |
 | Gullette, Arlee A.           | Substation operator                          | 2.20.0 |
 | Guinn, Pete T.           | Assistant general mechanical foreman                          | 5.02.3 |
 | Guner, Pete T., Jr.           | Junior engineering aide                          | 1.22.0 |
@@ -4664,74 +4662,72 @@ Page 54
 | Holland, Coy W.            | Public safety officer                        | 1,971.00  |
 | Holland, George P.            | Assisted civil engineer                        | 4,326.33  |
 | Holland, Gerald W.            | Synthesis shift foreman                        | 2,400.00  |
-| Holland, Gustav                | Associate electrical engineer                        | 4,426.33  |
-| Holland, J. Burnerl.            | Junior purchasing agent                        | 4,426.33  |
+| Holland, Gustav             | Assiокае civil engineer                        | 4,426.33  |
+| Holland, J. Burnerl.            | Junior safety officer                        | 1,971.00  |
+| Holland, J. Rufus            | Senior processing agent                        | 4,426.33  |
 | Holland, James F.            | Junior storekeeper                        | 1,971.00  |
-| Holland, Peter L.            | Junior remunerator aide                        | 1,732.00  |
+| Holland, Peter L.            | Junior co-insurance aide                        | 1,732.00  |
 | Holland, Ralph E.            | Assistant engineering aide                        | 2,400.00  |
 | Holland, R. Eph G.            | Junior civil engineer                        | 2,433.33  |
 | Holland, Rex L.            | Public safety officer                        | 1,971.00  |
-| Holland, W. Dean            | Pay roll clerk                        | 2,400.00  |
-| H. Beway, Chumn C.            | Junior engineering aide                        | 1,732.00  |
-| H. Bevau, Sallie F.            | Junior file clerk                        | 1,971.00  |
-| H. Bevau, John D.            | Assistant cost engineer                        | 3,400.33  |
-| H. Bely, James M.            | Just 1 file clerk                        | 1,732.00  |
-| H. Bely, Robert F.            | Civil engineer                        | 4,426.33  |
-| H. Bimson, F. Murgnerite | Assistant clerk—bunerapher                        | 1,971.00  |
-| H. Bimchand, Holt           | Marketist                        | 2,400.00  |
-| H. Bimgesworth, Oland C.            | Juniorip clerk                        | 3,400.33  |
-| H. Bimgesworth, Mary W.            | Assistant chemical enzimering aide                        | 1,971.00  |
-| H. Bimgesworth, Charles, Oland N. | Public safety officer                        | 1,971.00  |
-| H. Bimway, Glenn H.            | Public safety officer—trance                        | 1,732.00  |
-| H. Bimway, Little Mae            | Civil aresiming clerk                        | 2,400.00  |
-| H. Bimway, Maryreel R.            | Assistant pay roll clerk                        | 1,971.00  |
-| H. Bimway, Sam               | Painter                        | 2,200.00  |
-| H. Bim, Alexander A.            | Assistant armetural engineer                        | 3,826.33  |
-| H. Bimyn, Frank L.            | Assistant electrical engineer                        | 3,400.33  |
-| H. Bimau, Homer L.            | Labor subforeman                        | 1,620.00  |
-| H. Bimau, John G.            | Junior civil engineer                        | 2,796.33  |
-| H. Bimau, Roba C.            | Junior bookkeeper—me machine operator                        | 1,732.00  |
-| H. Bimau, Roy J.            | Public safety officer                        | 1,971.00  |
-| H. Bimau, Benjamin O.            | Associate civil engineer                        | 4,426.33  |
-| H. Bimau, K. Marloh             | Senior typist                        | 1,732.00  |
-| H. Bimau, Isabelle B.            | Engineering aide                        | 2,400.00  |
-| H. Bimau, Murearet W.            | Junior file clerk                        | 1,732.00  |
-| H. Bimau, Mary Delle             | Junior clerk—succeapher                        | 1,732.00  |
-| H. Bimau, Parmye C.            | Job                        | 1,971.00  |
-| H. Babolow, James L.            | Senior operator—hydro                        | 2,700.00  |
-| H. Babolow, Thomas L.            | Associate mechanical engineer                        | 4,426.33  |
-| H. Babolow, James L.            | Assistant water plant operator                        | 1,680.00  |
-| H. Babolow, James L.            | Junior chemist                        | 2,796.33  |
-| H. Babolow, James L.            | Under clerk                        | 1,620.00  |
-| H. Babolow, James L.            | Junior storekeeper                        | 1,971.00  |
-| H. Babolow, James L.            | Assistant sublimation operator                        | 2,000.00  |
-| H. Babolow, James L.            | Assistant construction superintendent                        | 4,426.33  |
-| H. Babolow, James L.            | Assistant clerk                        | 1,971.00  |
-| H. Babolow, James L.            | Assistant chemical aide                        | 1,971.00  |
-| H. Babolow, James L.            | Bachelor—professor                        | 2,200.00  |
-| H. Babolow, James L.            | Bachelor—professor                        | 2,700.00  |
-| H. Babolow, James L.            | Bachelor—professor                        | 1,971.00  |
-| H. Babolow, James L.            | Biector—professor                        | 1,971.00  |
-| H. Babolow, James L.            | Junior storekeeper                        | 1,971.00  |
-| H. Babolow, James L.            | Junior storekeeper                        | 2,200.00  |
-| H. Babolow, James L.            | Postdoctoral operator—small hydro plant                        | 2,700.00  |
-| H. Babolow, James L.            | Public safety officer                        | 1,971.00  |
-| H. Babolow, James L.            | Arrestator operator—firnaces                        | 1,500.00  |
-| H. Babolow, James L.            | Assistant hickney engineer                        | 3,400.33  |
-| H. Babolow, James L.            | Engineering aide                        | 2,400.00  |
-| H. Babolow, James L.            | Phonoborn operator                        | 1,680.00  |
-| H. Babolow, James L.            | Shift engineer                        | 2,796.00  |
-| H. Babolow, James L.            | Painter                        | 2,200.00  |
-| H. Babolow, James L.            | Electrician                        | 1,620.00  |
-| H. Babolow, James L.            | Assistant personnel officer                        | 3,400.33  |
-| H. Babolow, James L.            | Assistant cost engineer                        | 3,726.33  |
-| H. Babolow, James L.            | Participant                        | 1,620.00  |
-| H. Babolow, James L.            | Under file clerk                        | 1,620.00  |
-| H. Babolow, James L.            | Public safety officer                        | 1,971.00  |
-| H. Babolow, James L.            | Pay roll clerk                        | 2,400.00  |
-| H. Babolow, James L.            | Office procedure analyst                        | 3,826.33  |
-| H. Babolow, James L.            | Post engineer                        | 4,826.33  |
-| H. Babolow, James L.            | Senior clerk                        | 2,433.33  |
+| Holland, W. Dean            | Day roll clerk                        | 2,400.00  |
+| Helleway, Chumn C.            | Junior engineering aide                        | 1,732.00  |
+| Helleman, Sallie F.            | Junior file clerk                        | 1,971.00  |
+| Helleu, John D.            | Assistant cost engineer                        | 3,403.33  |
+| Helleu, James M.            | Just a file clerk                        | 1,732.00  |
+| Helleu, Robert P.            | Civil engineer                        | 4,426.33  |
+| Helleman, F. Murgnerite     | Assistant clerk—honeycomer                        | 1,971.00  |
+| Hellemeford, Holt           | Marketist                        | 2,400.00  |
+| Hellemeworth, Oland C.            | Junior land clerk                        | 3,403.33  |
+| Hellemeworth, Mary W.            | Assistant chemical enzimering aide                        | 1,971.00  |
+| Helleu, Clifford N.            | Public safety officer                        | 1,971.00  |
+| Helleway, Glenn H.            | Public safety officer-trainee                        | 1,732.00  |
+| Helleway, Little Mae            | Civil amounting clerk                        | 2,400.00  |
+| Helleway, Margaret R.            | Assistant pay roll clerk                        | 1,971.00  |
+| Helleway, Sam             | Painter                        | 2,200.00  |
+| Holm, Alexander A.            | Assistant structural engineer                        | 3,826.33  |
+| Holmyn, Frank L.            | Assistant electrical engineer                        | 3,403.33  |
+| Holmau, Homer L.            | Labor subforeman                        | 1,620.00  |
+| Holmau, John G.            | Junior civil engineer                        | 2,796.33  |
+| Holmau, Roba C.            | Junior bookkeeping machine operator                        | 1,732.00  |
+| Holmau, Roy J.            | Junior electrical engineer                        | 2,433.33  |
+| Holmes, Arthur B.            | Public safety officer                        | 1,971.00  |
+| Holmes, Benjamin O.            | Assiокае civil engineer                        | 4,426.33  |
+| Holmes, K. Marloh            | Senior typsist                        | 1,971.00  |
+| Holmes, Isabelle B.            | Engineering aide                        | 2,400.00  |
+| Holmes, Михаил W.            | Junior file clerk                        | 1,732.00  |
+| Holmes, Mary Helle            | Junior clerk—trainee                        | 1,732.00  |
+| Holmes, Parmys C.            | Job                        | 1,971.00  |
+| Hobelow, James L.            | Senior operator—hydro                        | 2,700.00  |
+| Hobspole, Herman L.            | Associate mechanical engineer                        | 4,426.33  |
+| Holt, Albert W.            | Assistant water plant operator                        | 1,680.00  |
+| Holt, Ben D.            | Junior chemist                        | 2,796.33  |
+| Holt, Beulah M.            | Under clerk                        | 1,620.00  |
+| Holt, Charles W.            | Junior storekeeper                        | 1,971.00  |
+| Holt, Emmett R.            | Assistant subhalation operator                        | 2,000.00  |
+| Holt, Frank H.            | Assistant construction superintendent                        | 4,426.33  |
+| Holt, Joanne L.            | Assistant clerk                        | 1,971.00  |
+| Holt, Louise O.            | Assistant chemical aide                        | 1,971.00  |
+| Holt, Malcolm W.            | Public safety officer                        | 2,200.00  |
+| Holt, Marion O.            | Pacificboard operator—small hydro plant                        | 2,700.00  |
+| Holt, Murray F.            | Public safety officer                        | 1,971.00  |
+| Holt, R. Sue            | Revolution operator—firnaces                        | 1,500.00  |
+| Holt, Ralph C.            | Assistant hickney engineer                        | 3,403.33  |
+| Holt, Walter I.            | Engineering aide                        | 2,400.00  |
+| Hobsford, Joseph B.            | Phosphorus operator                        | 1,680.00  |
+| Hommel, George A.            | Shift engineer                        | 2,796.00  |
+| Hoehler, Jettie B.            | Painter                        | 2,200.00  |
+| Hood, Havel P.            | Electrician                        | 2,400.00  |
+| Hood, Hellig C.            | Technician                        | 1,620.00  |
+| Hood, Lawrence D.            | Assistant personnel officer                        | 3,403.33  |
+| Hood, Love Stewart            | Assistant cost engineer                        | 3,726.33  |
+| Hood, Reuben G.            | Technician                        | 1,620.00  |
+| Hood, S. Kenneth, Jr.            | Under file clerk                        | 1,620.00  |
+| Hood, Thomas H.            | Public safety officer                        | 1,971.00  |
+| Hooe, Herman             | Pay roll clerk                        | 2,400.00  |
+| Hooff, William L., Jr.            | Office procedure analyst                        | 3,826.33  |
+| Hook, Addison E.            | Cost engineer                        | 4,826.33  |
+| Hooker, Arthur Earl            | Senior clerk                        | 2,433.33  |
 
 Page 55
 ================================================================================
@@ -5121,7 +5117,7 @@ Page 59
 | Jettion, Percy             | Junior.            | 1,620.00  |
 | Jewell, Frederick W.            | Junior engineering aide.            | 1,752.00  |
 | Jewell, Odo D.            | Dewatering pump operator.            | 1,680.00  |
-| Johanson, Peter S.            | Assistant electrical engineer.            | 3,626.33  |
+| Johanson, Peter S.            | Assistant electrical engineer.            | 3,826.33  |
 | Johanson, Erik A.            | Electrical engineer.            | 4,826.33  |
 | Johus, Edward Allan            | Assistant structural engineer.            | 3,526.33  |
 | Johus, Lizzie Kate            | Junior clerk-typist.            | 1,752.00  |
@@ -5313,7 +5309,7 @@ Page 61
 | Jones, Van T.                      | Stepmfitter                      | 2,400 00 |
 | Jones, Wayne.                      | Principal clerk                      | 3,520 00 |
 | Jones, W. and D.                      | Circulator operator                      | 1,600 00 |
-| Jones, Wiley R.                      | Property and supply clerk                      | 2,400 00 |
+| Jones, Wiley R.                      | Property and supply clerk | 2,400 00 |
 | Jones, William B., Jr.                      | Under engineering draftsman | 1,620 00 |
 | Jones, William C.                      | Senior storekeeper                      | 2,450 00 |
 | Jones, William G.                      | Junior clerk                      | 1,750 00 |
@@ -5330,7 +5326,7 @@ Page 61
 | Juelin, Karl C.                      | Property and supply clerk                      | 2,400 00 |
 | Journey, Clem P.                      | General foreman                      | 4,820 00 |
 | Joyce, Edward F.                      | Assistant chemist                      | 3,100 00 |
-| Joyce, Niebolas                      | Junior civil engineer | 2,700 00 |
+| Joyce, A. Nicholas                      | Junior civil engineer | 2,700 00 |
 | Joyce, Harry M.                      | Assistant general foreman                      | 4,820 00 |
 | Juillet, Arnold D.                      | Switchboard operator                      | 2,400 00 |
 | Judd, Velma F.                      | Assistant traffic clerk                      | 2,100 00 |
@@ -5587,17 +5583,18 @@ Page 64
 | King, Thomas E.            | Assistant payroll clerk | 1,971.00  |
 | King, Virginia L.            | Assistant clerk             | 1,971.00  |
 | King, Walter D.            | Assistant engineering draftsman | 1,971.00  |
-| King, Isaac M.            | Public safety officer             | 1,971.00  |
+| King, Hal K.            | Public safety officer             | 1,971.00  |
 | King, Oscar M.            | Junior payroll clerk             | 1,752.00  |
-| King, Paul K.            | Construction superintendent | 2,600.00  |
+| King, Paul             | Constructors superintendent | 2,600.00  |
 | King, Paul             | Public safety officer-trainee | 1,752.00  |
 | King, William             | Phosphorus operator             | 1,600.00  |
 | King, William             | Junior barber officer             | 2,798.55  |
 | King, William             | Assistant file clerk             | 1,971.00  |
 | King, Edward E.            | Public safety officer             | 1,971.00  |
-| Kirby, Michael T.            | Junior calculating machine operator | 1,752.00  |
-| Kirby, Owen H.            | Chief description             | 2,828.55  |
-| Kirchner, Herbert F.            | Junior clerk             | 1,752.00  |
+| King, William             | Junior calculating machine operator | 1,752.00  |
+| King, William             | Junior accounting clerk             | 1,752.00  |
+| King, Peter             | Chief"לator             | 2,828.55  |
+| Kitchner, Herbert F.            | Junior clerk             | 1,752.00  |
 | Kirk, David W.            | Assistant engineering slide | 1,971.00  |
 | Kirk, Eelle L. V.            | Under engineering aide             | 1,600.00  |
 | Kirkhurf, Betty L.            | Junior clerk-typist             | 1,752.00  |
@@ -5605,7 +5602,7 @@ Page 64
 | Kirkland, Franklin D.            | Junior storekeeper             | 1,752.00  |
 | Kirkland, Helen T.            | Junior pay roll clerk             | 1,752.00  |
 | Kirkland, John H.            | Assistant general foreman | 2,828.55  |
-| Kirkland, V. Joyce            | Junior typist             | 1,600.00  |
+| Kirkland, V. Joyce            | Junior typist             | 1,800.00  |
 | Kirkpatrick, Ann E.            | Graduate nurse             | 1,971.00  |
 | Kirkpatrick, Carl H.            | Lineman             | 2,400.00  |
 | Kirkpatrick, Ethel Marie.            | Under clerk-typist             | 1,600.00  |
@@ -6526,8 +6523,8 @@ Page 75
 | Maerker, Erwin.            | Senior hydraulic engineer             | 5.620.33  |
 | Maase, Richard E.            | Assistant structural engineer             | 3.520.33  |
 | Maase, Yvenne.            | Junior clerk-stenographer             | 1.971.00  |
-| Mazousson, Buford M.            | Senior operator—hydro             | 2.700.00  |
-| Magruder, Byron B.            | Junior civil engineer             | 2.433.33  |
+| Maznusson, Buford M.            | Senior operator—hydro             | 2.700.00  |
+| Mayruder, Byron B.            | Junior civil engineer             | 2.433.33  |
 | Mahan, George F., Jr.            | Senior accounting clerk             | 2.433.33  |
 | Maher, Frances J.            | Under file clerk             | 1.620.00  |
 | Maher, Helen Catherine.            | Statistician             | 4.820.33  |
@@ -6705,7 +6702,7 @@ Page 77
 | Mathews, Ralph E.            | Switchboard operator                   | 2,400.00 |
 | Mathews, Wallace E.            | Graining room operator                   | 1,300.00 |
 | Mathews, Walter Roy.            | Senior mechanical engineer                   | 5,828.33 |
-| Mathis, Nolie J.            | Junior clerk                   | 1,971.00 |
+| Mathis, Nolte J.            | Junior clerk                   | 1,971.00 |
 | Matlock, Charles L.            | Junior medical aide                   | 1,752.00 |
 | Matlock, Clarence R.            | Assistant plant records engineer | 3,828.33 |
 | Matlock, J. W. Leon            | Junior engineering aide                   | 1,752.00 |
@@ -6812,7 +6809,7 @@ Page 78
 | Merrill, William R.           | Under store keeper                          | 1,752.00 |
 | Merritt, Aubrey W.           | Junior civil engineer                          | 2,433.33 |
 | Merritt, Dudley           | Junior electrical engineer                          | 1,971.00 |
-| Merritt, Kimer A.           | Junior store keeper                          | 1,971.00 |
+| Merritt, Elmer A.           | Junior store keeper                          | 1,971.00 |
 | Merritt, Lois Z.           | do                          | 1,752.00 |
 | Merritt, M. Elizabeth           | Clerk-stenographer                          | 2,400.00 |
 | Merritt, N. Stephans           | Electrical engineer                          | 4,428.33 |
@@ -7119,106 +7116,110 @@ Page 82
 |--------------------------------------|--------------------------------------|-----------------------------|
 | Morris, Z. Roberta                        | Junior stenographer.         | $1,971.00  |
 | Morrow, Richard A.                        | Junior - 1,620.00  |
-| Morrison, Arthur L.                        | General - 33.53.33 |
+| Morrison, Arthur L.                        | General - 33.53  |
 | Morrison, Bert L.                        | Junior - 1,971.00  |
 | Morrison, Janie E.                        | Junior - 1,971.00  |
 | Morrison, Vernon G.                        | Junior - 1,971.00  |
-| Morrison, Charles V.                        | Senior - 2,000.00 |
-| Morrow, Honor F.                        | Junior - 1,752.00  |
-| Morrow, Ruby N.                        | Junior - 1,752.00  |
-| Morton, Carolyn K.                        | Junior - 1,752.00  |
-| Morton, John W.                        | Junior - 1,752.00  |
-| Moses, Paul Crowley.            | Junior - 1,971.00  |
-| Mosher, Donald L.                        | Curtiule - 3.529.53 |
-| Mosley, Herbert R.                        | Chief, phosphate - 33.53.33 |
-| Mosley, Joel J.                        | Principal - 3.529.53 |
-| Moss, Charles D.                        | Plant - 4.429.53 |
-| Mosteller, W. Norton.            | Assistant specialist in public safety service | 5,163.53 |
-| Motsinger, Barry C.                        | Mime - 3.529.53 |
-| Mott, John A.                        | Assistant - 3.529.53 |
-| Moukler, Wilbur Jay.            | Associate - 3.529.53 |
-| Mount, Bonnie H.                        | Junior - 1,752.00  |
-| Mourfield, W. Raymond.            | Under - 1,752.00  |
-| Mowbray, Paul F.                        | Junior - 1,620.00  |
-| Moxley, Frank B.                        | Building - 1,752.00 |
-| Murkenhoe, Charles H.            | Assistant - 1,752.00  |
-| Mudd, Margaret C.                        | Junior - 1,752.00  |
-| Muir, Edward J.                        | Chief, - 1.752.00 |
-| Mulhalland, Myles J.                        | Forestry - 1,752.00 |
-| Mulkey, Jonathan C.                        | Senior - 1,752.00  |
-| Mulkins, Grant.            | Electrician - 1,752.00 |
-| Mull, Horace Hobson.            | Associate field - 1,752.00 |
-| Mullen, Henry E.                        | Junior - 1,752.00  |
-| Mullen, Otis M.                        | Junior - 1,752.00  |
-| Mullen, Thomas T.                        | Junior - 1,752.00  |
-| Mulligan, David B.                        | Camp - 1,752.00 |
-| Mullins, Flwin.                        | Electrician - 1,752.00 |
-| Mullins, Eugene R.                        | Senior - 1,752.00  |
-| Mullins, Vivian L.                        | Junior - 1,752.00  |
-| Munnia, Charles E.                        | Junior - 1,752.00  |
-| Muney, Bernice B.                        | Under - 1,752.00 |
-| Mundal, Harold.                        | Principal - 1,752.00 |
-| Mundy, George L.                        | Junior - 1,752.00  |
-| Mundy, Lorence A.                        | Junior - 1,752.00  |
-| Munier, George D.                        | Chief, electrical development - 3.529.53 |
-| Munz, Mark H.                        | Assistant - 3.529.53 |
-| Munsey, Marjorie G.                        | Junior - 1,752.00  |
-| Mundick, Harriet T.                        | Senior - 1,752.00  |
-| Murdock, Terry M.                        | Curtiule - 3.529.53 |
-| Murphey, George E.                        | Construction - 3.529.53 |
-| Murphyy, Martin L.                        | Assistant - 3.529.53 |
-| Murphyce, Dwight L.                        | Junior - 1,752.00  |
-| Murphy, Bert L.                        | Under - 1,752.00 |
-| Murphy, Daniel J.                        | Engineering - 3.529.53 |
-| Murphy, E. Victor.                        | Junior - 1,752.00  |
-| Murphy, Evan A.                        | Field - 3.529.53 |
-| Murphy, Frank J.                        | Senior - 1,752.00  |
-| Murphy, Harley O.                        | Chief, power construction - 3.529.53 |
-| Murphy, John W.                        | Public - 1,752.00  |
-| Murphy, Julia B.                        | Graduate - 1,752.00  |
-| Murphy, Katherine E.                        | Senior - 1,752.00  |
-| Murphy, Margaret L.                        | Graduate - 1,752.00  |
-| Murphy, Ted                        | Captain, public - 1,752.00  |
-| Murray, Beulah B.                        | Senior - 1,752.00  |
-| Murray, George E.                        | Assistant - 1,752.00  |
-| Murray, Harry L.                        | Assistant - 1,752.00  |
-| Murray, James C.                        | Unit - 3.529.53 |
-| Murray, Jerome P.                        | General mechanical - 3.529.53 |
-| Murray, Leonard B.                        | Assistant - 3.529.53 |
-| Murray, M. Eleanor                        | Junior - 1,752.00  |
-| Murray, Mary Ruth.                        | Junior - 1,752.00  |
-| Murray, Reese C.                        | Junior - 1,752.00  |
-| Murray, Walter C.                        | Junior - 1,752.00  |
-| Murray, William R.                        | Outside - 1,752.00  |
-| Murray, Floyd B.                        | Junior - 1,752.00  |
-| Murray, George B.                        | Junior - 1,752.00  |
-| Murray, James F.                        | General - 3.529.53 |
-| Murray, James G.                        | General mechanical - 3.529.53 |
-| Murray, John J.                        | Junior - 1,752.00  |
-| Murray, Peter H.                        | Junior - 1,752.00  |
-| Murray, Walter C.                        | Junior - 1,752.00  |
-| Murray, William R.                        | Outside - 1,752.00  |
-| Murray, Floyd B.                        | Junior - 1,752.00  |
-| Murray, Thomas K.                        | Junior - 1,752.00  |
-| Murray, James F.                        | Junior - 1,752.00  |
-| Murray, Jerome P.                        | General mechanical - 3.529.53 |
-| Murray, Leonard B.                        | Assistant - 3.529.53 |
-| Murray, M. Eleanor                        | Junior - 1,752.00  |
-| Murray, Mary Ruth.                        | Junior - 1,752.00  |
-| Murray, Reese C.                        | Junior - 1,752.00  |
-| Murray, Walter C.                        | Junior - 1,752.00  |
-| Murray, William R.                        | Outside - 1,752.00  |
-| Murray, William R.                        | Junior - 1,752.00  |
-| Murray, Thomas K.                        | Junior - 1,752.00  |
-| Murray, James F.                        | Junior - 1,752.00  |
-| Murray, Peter H.                        | Junior - 1,752.00  |
-| Murray, William R.                        | 2,000.00 |
-| Murray, William R.                        | Junior - 1,752.00  |
-| Murray, Thomas K.                        | Junior - 1,752.00  |
-| Murray, James F.                        | 3,000.00 |
-| Muzeleman, Charles W.            | Assistant - 3.529.53 |
-| Muzeleman, David C.            | Electrician - 3.529.53 |
-| 275.00 |
+| Morrison, Charles V.                        | Senior - 1,971.00  |
+| Morrison, Honor F.                        | Junior - 1,971.00  |
+| Morrison, Ruby N.                        | Junior - 1,971.00  |
+| Morton, Carolyn K.                        | Junior - 1,971.00  |
+| Morton, John W.                        | Junior - 1,971.00  |
+| Moses, Paul Crowley.            | Public safety officer.         | 1,971.00  |
+| Mosher, Donald L.            | Curtiule - 3.53  |
+| Mosley, Herbert R.            | Chief, phosphate division.         | 5,628.33  |
+| Mosley, Joel J.            | Principal - 3.53  |
+| Moss, Charles D.            | Plant superintendent.         | 4,428.33  |
+| Mosteller, W. Norton.            | Assistant specialist in public safety service.         | 5,163.33  |
+| Motsinger, Barry C.            | Mime - 3.53  |
+| Mott, John A.            | Assistant - 3.53  |
+| Moukler, Wilbur Jay.            | Associate in - 3.53  |
+| Mount, Bonnie H.            | Junior - 1.53  |
+| Moumfield, W. Raymond.            | Under - 1.53  |
+| Mowbray, Paul F.            | Junior - 1,620.00  |
+| Moxley, Frank B.            | Building - 3.53  |
+| Murkenhoe, Charles H.            | Assistant - 3.53  |
+| Mudd, Margaret C.            | Junior - 1.53  |
+| Muir, Edward J.            | Chief, o - 3.53  |
+| Mulhalland, Myles J.            | Forestry - 3.53  |
+| Mulkey, Jonathan C.            | Senior - 1.53  |
+| Mulkins, Grant.            | Electrician.         | 2,600.00  |
+| Mull, Horace Hobson.            | Associate field - 3.53  |
+| Mullen, Henry E.            | Inspector of construction.         | 2,798.33  |
+| Mullen, Otis E.            | Junior - 3.53  |
+| Mullen, Drus E.            | Principal - 3.53  |
+| Mullenns, T. Grady.            | Principal - 3.53  |
+| Mulligan, David B.            | Camp manager.         | 3,828.33  |
+| Mullins, Flwin.            | Electrician - 3.53  |
+| Mullins, Eugene R.            | Senior - 1.53  |
+| Mullins, Vivian L.            | Junior - 1.53  |
+| Mumns, Charles E.            | Junior - 1.53  |
+| Muncy, Bernow B.            | Under - 1.53  |
+| Mundal, Arnold L.            | Principal - 3.53  |
+| Mundy, George L.            | Junior - 1.53  |
+| Mundy, Lorence A.            | Junior - 1.53  |
+| Munzer, George D.            | Chief, electrical development division.         | 5,628.33  |
+| Muns, Matel H.            | Assistant - 3.53  |
+| Munsey, Marjorie G.            | Junior - 1.53  |
+| Murray, Harriet T.            | Senior - 1.53  |
+| Murdock, Terry M.            | Curtiule - 3.53  |
+| Murphy, George E.            | Construction superintendent.         | 8,378.33  |
+| Murphyy, Martin L.            | Assistant - 3.53  |
+| Murphree, Dwight L.            | Junior - 33.53  |
+| Murphy, Bert L.            | Under - 3.53  |
+| Murphy, Daniel J.            | Engineering - 3.53  |
+| Murphy, E. Victor.            | Inspector of construction.         | 2,453.33  |
+| Murphy, Evan A.            | Relief operator.         | 1,680.00  |
+| Murphy, Frank J.            | Senior - 3.53  |
+| Murphy, Harley O.            | Chief, power construction division.         | 7,628.33  |
+| Murphy, John W.            | Public safety officer.         | 1,971.00  |
+| Murphy, Julia B.            | Graduate nurse.         | 1,971.00  |
+| Murphy, Katherine E.            | Senior - 1.53  |
+| Murphy, Margaret L.            | Graduate nurse.         | 2,798.33  |
+| Murphy, Ted           | Capital, public safety service.         | 2,798.33  |
+| Murray, Beulah B.            | Senior - 1.53  |
+| Murray, George E.            | Assistant - 3.53  |
+| Murray, Harry L.            | Assistant - 3.53  |
+| Murray, James C.            | Unit foreman.         | 3,528.33  |
+| Murray, Jerome P.            | General mechanical foreman.         | 5,628.33  |
+| Murray, Leonard B.            | Assistant - 3.53  |
+| Murray, M. Eleanor            | Junior - 1.53  |
+| Murray, Mary Ruth.            | Junior - 1.53  |
+| Murray, Reese C.            | Junior - 1.53  |
+| Murray, Walter C.            | Junior - 1.53  |
+| Murray, William R.            | Outside - 3.53  |
+| Murray, Floyd B.            | Junior - 3.53  |
+| Murray, George E.            | Junior - 3.53  |
+| Murray, James F.            | Assistant - 3.53  |
+| Murray, Jerome P.            | General mechanical foreman.         | 4,128.33  |
+| Murray, Leonard B.            | Assistant - 3.53  |
+| Murray, M. Eleanor            | Junior - 1.53  |
+| Murray, Mary Ruth.            | Junior - 1.53  |
+| Murray, Reese C.            | Junior - 1.53  |
+| Murray, Walter C.            | Junior - 1.53  |
+| Murray, William R.            | Outside - 3.53  |
+| Murray, Flobus K.            | Junior - 3.53  |
+| Murray, Thomas K.            | Junior - 3.53  |
+| Murray, James F.            | Junior - 3.53  |
+| Murray, Jerome P.            | General mechanical foreman.         | 5,628.33  |
+| Murray, Leonard B.            | Assistant - 3.53  |
+| Murray, M. Eleanor            | Junior - 1.53  |
+| Murray, Mary Ruth.            | Junior - 1.53  |
+| Murray, Reese C.            | Junior - 1.53  |
+| Murray, Walter C.            | Junior - 1.53  |
+| Murray, William R.            | Outside - 3.53  |
+| Murray, William R.            | Junior - 3.53  |
+| Murray, Flobus K.            | Junior - 3.53  |
+| Murray, James F.            | Junior - 3.53  |
+| Murray, James F.            | Junior - 3.53  |
+| Murray, William R.            | All - 3.53  |
+| Murray, William R.            | All - 3.53  |
+| Murray, Thomas K.            | Junior - 3.53  |
+| Murray, James F.            | All - 3.53  |
+| Murray, Ezie H.            | All - 3.53  |
+| Muscrove, Lawrence.            | Electrician.         | 2,800.00  |
+| Museleman, Charles W.            | Assistant - 3.53  |
+| Museleman, David C.            | Electrician - 3.53  |
 
 Page 83
 ================================================================================
@@ -8111,7 +8112,7 @@ Page 93
 | Quarles, John C.            | Junior engineering aide             | 1,971.00 |
 | Quave, Marynestre B.            | Junior clerk-stenographer             | 1,971.00 |
 | Queen, Claude A.            | Under storekeeper             | 1,920.00 |
-| Queener, Anwin R.            | Junior pay-roll clerk             | 1,971.00 |
+| Queener, Marvin R.            | Junior pay-roll clerk             | 1,971.00 |
 | Queener, Mildred J.            | Under commissary clerk             | 1,920.00 |
 | Quicley, L. Louise            | Junior typist             | 1,920.00 |
 | Quitles, Amos            | Structural steel worker apprentice         | 1,920.00 |
@@ -8179,7 +8180,7 @@ Page 93
 | Raden, James Edwin            | Assistant structural engineer             | 3,103.33 |
 | Rasech, Marie H.            | Assistant chemical aide             | 1,971.00 |
 | Rose, Carney M.            | Belies operator                | 1,900.00 |
-| Raisch, Carl L.            | Under storekeeper             | 1,920.00 |
+| Raisford, Carl L.            | Under storekeeper             | 1,920.00 |
 | Ratledge, Charles R.            | Cook                | 1,752.00 |
 | Ratledge, George W.            | Substation operator             | 2,200.00 |
 | Raudenbush, Willis H.            | Head accountant             | 3,628.33 |
@@ -8451,88 +8452,88 @@ Page 97
 ================================================================================
 
 | Name                        | Title                        | Salary per annum |
-|--------------------------------|----------------------------|-------------------------|
-| Robinson, Harlan B.                    | Junior clerk                    | 21,732.93  |
-| Robinson, Horace K.                    | Treasurer and head administrative officer                   | 3,628.33  |
-| Robinson, Horace L.                    | Janitor                          | 1,628.00  |
-| Robinson, James T.                    | Junior inspector of construction                   | 2,500.00  |
-| Robinson, Jerome                  | Under storekeeper                   | 1,732.00  |
-| Robinson, Joe J.                    | Engineering aide                   | 2,500.00  |
-| Robinson, John W., Jr.                   | Junior forester                   | 2,433.33  |
-| Robinson, Katherine                  | Assistant clerk-stenographer                   | 2,500.00  |
-| Robinson, Leon D.                    | Circulator operator                   | 1,600.00  |
-| Robinson, Lester                  | Graining room operator                   | 1,500.00  |
-| Robinson, Normal                  | do                      | 1,500.00  |
-| Robinson, Vand D. L.                   | Senior information service representative                   | 5,628.33  |
-| Robinson, William Harris                   | Associate title examiner                   | 4,128.33  |
-| Johnson, H. Palmer                   | Junior timechecker                   | 1,732.00  |
-| Johnson, William M.                   | Stumdither                   | 2,400.00  |
-| Bode, Derley H.                   | General mechanical foreman                   | 6,628.33  |
-| Beckelle, James D.                   | Public safety officer                   | 1,972.00  |
-| Beckelle, Roy S.                   | Assistant employment officer                   | 3,163.33  |
-| Beckholt, Thomas A.                   | Junior storekeeper                   | 1,732.00  |
-| Beckwell, Louis B.                   | Assistant chief, traffic and expediting division                   | 5,228.33  |
-| Beckwell, Mary E.                   | Assistant clerk                   | 2,100.00  |
-| Boddey, Jack E.                   | Electrician                   | 2,400.00  |
-| Boddey, Marvin M.                   | Division engineer                   | 4,428.33  |
-| Boddey, William Fugh.                   | Plant superintendent                   | 3,828.33  |
-| Boddy, Carl H.                   | Assistant clerk                   | 1,972.00  |
-| Boden, Johnnie G.                   | Junior typist                   | 1,620.00  |
-| Boden, M. Alyne                   | do                      | 1,732.00  |
-| Bodzees, Aubra Allen                   | Assistant mechanical engineer                   | 3,163.33  |
-| Bodzees, Charles Louis                   | Assistant civil engineer                   | 3,728.33  |
-| Bodzees, Paul Iwan                   | Assistant agricultural engineer                   | 3,528.33  |
-| Bodzees, R. Urban                   | Junior storekeeper                   | 1,732.00  |
-| Roe, Carl                   | Lineman                   | 2,400.00  |
-| Roehl, Lillian C.                   | Junior calculating machine operator                   | 1,732.00  |
-| Roehl, M. Charlotte                   | Under engineering draftsman                   | 1,620.00  |
-| Roehl, Samuel A.                   | Junior engineering aide                   | 1,732.00  |
-| Roeers, Anibel                   | Junior clerk-typist                   | 1,732.00  |
-| Roeers, Catherine F.                   | Junitress                   | 1,620.00  |
-| Roeers, Cecil A.                   | Student generating plant operator—2d period | 1,620.00  |
-| Roeers, Charles E.                   | Captain, public safety service                   | 2,208.33  |
-| Roeers, Charles H.                   | Assistant chief system load dispatcher                   | 4,128.33  |
-| Roeers, Cloud W.                   | Under engineering aide                   | 1,620.00  |
-| Roeers, Clyde A.                   | Engineering aide                   | 2,400.00  |
-| Roeers, David E.                   | Student generating plant operator—2d period | 1,620.00  |
-| Roeers, David R.                   | Water tender                   | 1,400.00  |
-| Roeers, Earl                | Ammonium nitrate operator                   | 2,100.00  |
-| Roeers, Ernest Houston                   | Locomotive operator                   | 2,100.00  |
-| Roeers, George L.                   | Engineering draftsman                   | 2,100.00  |
-| Roeers, Herbert L.                   | Bindery worker                   | 1,972.00  |
-| Roeers, J. Van                   | Principal commercial field representative                   | 3,163.33  |
-| Roeers, James H.                   | Public safety officer                   | 1,972.00  |
-| Roeers, James L. C.                   | Assistant synthesis operator                   | 1,600.00  |
-| Roeers, James T.                   | Switchboard operator                   | 2,400.00  |
-| Roeers, Jep Nuton                   | Cook                   | 1,732.00  |
-| Roeers, Jesse E.                   | Junior property and supply clerk                   | 1,732.00  |
-| Roeers, John B.                   | Public safety officer                   | 1,972.00  |
-| Roeers, John Edward                   | Machinist                   | 2,400.00  |
-| Roeers, LeRoy                   | Assistant civil engineer                   | 3,228.33  |
-| Roeers, Neva W.                   | Assistant clerk                   | 2,100.00  |
-| Roeers, Norval W.                   | Junior engineering aide                   | 1,732.00  |
-| Roeers, Oliver C.                   | Turbine operator—steam                   | 2,100.00  |
-| Roeers, Samuel S.                   | Water tender                   | 1,900.00  |
-| Roeers, Ailes W.                   | Chief engineering aide                   | 3,163.33  |
-| Roeers, Stephen L.                   | Public safety officer                   | 2,100.00  |
-| Roeers, Walter J.                   | Switishman                   | 1,720.00  |
-| Roeers, William N.                   | Principal personnel officer                   | 4,828.33  |
-| Roe, Edward, Marguerite, | Junior clerk-typist                   | 1,972.00  |
-| Roeberk, Walter R.                   | Assistant structural engineer                   | 3,828.33  |
-| Roëen, Edward E.                   | Assistant accounting clerk     | 1,972.00  |
-| Roëen, Lande H.                   | Principal clerk-stenographer                   | 3,163.33  |
-| Roëler, Emer E.                   | Assistant civil engineer                   | 3,128.33  |
-| Rollins, Charles B., Sr.                   | Cook                   | 1,732.00  |
-| Rollins, Thomas S.                   | Public safety officer-trainee                   | 1,732.00  |
-| Rollins, John Edward                   | Assistant office engineer                   | 3,163.33  |
-| Romans, Calvin C.                   | Public safety officer                   | 1,972.00  |
-| Romans, James R.                   | do                      | 1,972.00  |
-| Romans, John J.                   | Synthesis shift foreman                   | 2,400.00  |
-| Romans, Witte B.                   | Cash accounting clerk     | 2,100.00  |
-| Bommel, George M.                   | Chief, preliminary investigations division                   | 5,628.33  |
-| Bommel, Edward O.                   | Senior photographer                   | 2,400.33  |
-| Bomp, Kathleen Johnson                   | Junior clerk-typist                   | 1,972.00  |
-| Bons, Margaret E.                   | Clerk-stenographer                   | 2,100.00  |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+| Robinson, Harlan B.            | Junior clerk                       | $1,752.91 |
+| Robinson, Horace K.            | Treasurer and head administrative officer                       | 3,628.33 |
+| Robinson, Horace L.            | Junior                          | 1,628.90 |
+| Robinson, James T.            | Junior inspector of construction                       | 2,590.90 |
+| Robinson, Jerome            | Under storekeeper                          | 1,752.90 |
+| Robinson, Joe J.            | Engineering aide                          | 2,590.90 |
+| Robinson, John W., Jr.            | Junior forester                          | 2,433.33 |
+| Robinson, Katherine            | Assistant clerk-stenographer                       | 2,590.90 |
+| Robinson, Leon D.            | Circulator operator                          | 1,600.90 |
+| Robinson, Lester            | Graining room operator                          | 1,500.90 |
+| Robinson, Normal             | do                          | 1,500.90 |
+| Robinson, Vand D. L.            | Senior information service representative                       | 5,628.33 |
+| Robinson, William Harris            | Associate title examiner                       | 4,128.33 |
+| Johnson, H. Palmer            | Junior timechecker                          | 1,752.90 |
+| Johnson, William M.            | Stumultiter                          | 2,400.90 |
+| Bode, Derbes H.            | General mechanical foreman                       | 6,628.33 |
+| Bodefle, James D.            | Public safety officer                          | 1,973.90 |
+| Bodefle, Roy S.            | Assistant employment officer                       | 3,103.33 |
+| Beckholt, Thomas A.            | Junior storekeeper                          | 1,752.90 |
+| Beckwell, Louis B.            | Assistant chief, traffic and expediting division                       | 5,228.33 |
+| Beckwell, Mary E.            | Assistant clerk                          | 2,100.90 |
+| Boddey, Jack E.            | Electrician                          | 2,400.90 |
+| Boddey, Marvin M.            | Division engineer                          | 4,428.33 |
+| Boddey, William Fugh.            | Plant superintendent                       | 3,628.33 |
+| Boddy, Carl H.            | Assistant clerk                          | 1,973.90 |
+| Boden, Johnnie G.            | Junior typist                          | 1,620.90 |
+| Boden, M. Alyne            | do                          | 1,752.90 |
+| Bodzees, Aubra Allen            | Assistant mechanical engineer                       | 3,103.33 |
+| Bodzees, Charles Louis            | Assistant civil engineer                       | 3,728.33 |
+| Bodzees, Paul Iwan            | Assistant agricultural engineer                       | 3,528.33 |
+| Bodzees, R. Urban            | Junior storekeeper                          | 1,752.90 |
+| Roe, Carl            | Lineman                          | 2,400.90 |
+| Roehl, Lillian C.            | Junior calculating machine operator                       | 1,752.90 |
+| Roehl, M. Charlotte           | Under engineering draftsman                       | 1,620.90 |
+| Roehl, Samuel A.            | Junior engineering aide                          | 1,752.90 |
+| Roeers, Anibel           | Junior clerk-typist                          | 1,752.90 |
+| Roeers, Catherine E.           | Junitress                          | 1,620.90 |
+| Roeers, Cecil A.           | Student generating plant operator—2d period                       | 1,620.90 |
+| Roeers, Charles E.           | Captain, public safety service                          | 2,208.33 |
+| Roeers, Charles H.           | Assistant chief system load dispatcher                       | 4,128.33 |
+| Roeers, Cloud W.           | Under engineering aide                          | 1,620.90 |
+| Roeers, Clyde A.           | Engineering aide                          | 2,400.90 |
+| Roeers, David E.           | Student generating plant operator—2d period                       | 1,620.90 |
+| Roeers, David R.           | Water tender                          | 1,400.90 |
+| Roeers, Earl           | Ammonium nitrate operator                       | 2,100.90 |
+| Roeers, Ernest Houston           | Locomotive operator                          | 2,100.90 |
+| Roeers, George L.           | Engineering draftsman                       | 2,100.90 |
+| Roeers, Herbert L.           | Bindery worker                          | 1,973.90 |
+| Roeers, J. Van           | Principal commercial field representative                       | 3,103.33 |
+| Roeers, James H.           | Public safety officer                          | 1,973.90 |
+| Roeers, James L. C.           | Assistant synthesis operator                       | 1,600.90 |
+| Roeers, James T.           | Switchboard operator                          | 2,400.90 |
+| Roeers, Jay Nuton           | Cook                          | 1,752.90 |
+| Roeers, Jesse E.           | Junior property and supply clerk                       | 1,752.90 |
+| Roeers, John B.           | Public safety officer                          | 1,973.90 |
+| Roeers, John Edward           | Machinist                          | 2,400.90 |
+| Roeers, LeRoy           | Assistant civil engineer                       | 3,728.33 |
+| Roeers, Neva W.           | Assistant clerk                          | 2,100.90 |
+| Roeers, Normal W.           | Junior engineering aide                          | 1,752.90 |
+| Roeers, Oliver C.           | Turbine operator—steam                          | 2,100.90 |
+| Roeers, Samuel S.           | Water tender                          | 1,900.90 |
+| Roeers, Ailes W.           | Chief engineering aide                          | 3,103.33 |
+| Roeers, Stephen L.           | Public safety officer                          | 2,100.90 |
+| Roeers, Walter J.           | Switishman                          | 1,720.90 |
+| Roeers, William N.           | Principal personnel officer                       | 4,628.33 |
+| Roe, Edward, Marguerite           | Junior clerk-typist                          | 1,973.90 |
+| Roeberk, Walter R.           | Assistant structural engineer                       | 3,628.33 |
+| Roe, Edward E.           | Assistant accounting clerk                       | 1,973.90 |
+| Roe, Charles H.           | Principal clerk-stenographer                       | 3,103.33 |
+| Roeber, Ernest E.           | Assistant civil engineer                       | 3,728.33 |
+| Rollins, Charles B., Sr.           | Cook                          | 1,752.90 |
+| Rollins, Thomas S.           | Public safety officer-trainee                       | 1,752.90 |
+| Rollins, John Edward           | Assistant office engineer                       | 3,103.33 |
+| Romans, Calvin C.           | Public safety officer                          | 1,973.90 |
+| Romans, James R.           | do                          | 1,973.90 |
+| Romans, John J.           | Synthesis shift foreman                       | 2,400.90 |
+| Romans, Witte B.           | Cash accounting clerk                       | 2,100.90 |
+| Bommel, George M.           | Chief, preliminary investigations division                       | 5,628.33 |
+| Bommel, Edward O.           | Senior photographer                          | 2,400.33 |
+| Bomp, Kathleen Johnson           | Junior clerk-typist                          | 1,973.90 |
+| Bons, Margaret E.           | Clerk-stenographer                       | 2,100.90 |
 
 Page 98
 ================================================================================
@@ -8597,7 +8598,7 @@ Table III.—Names, titles, and salaries of annual employees receiving more than
 | Royal, Homer W.            | Machinist             | 2.400.00 |
 | Royer, Richmond L.            | Outside machinist             | 2.400.00 |
 | Rorewdale, Gerald            | Assistant construction superintendent             | 6.228.33 |
-| Ruckel, Robert K.            | Junior clerk             | 1.752.00 |
+| Ruckel, Robert E.            | Junior clerk             | 1.752.00 |
 | Rucker, Andrew             | Under forestry aide             | 1.752.00 |
 | Rudder, Jack F.            | Unit foreman             | 3.828.33 |
 | Rudwell, Robert             | Senior operator—hydro             | 2.700.00 |
@@ -8743,61 +8744,61 @@ Page 100
 | Baylors, Lemey E.            | Low-motive crane operator                        | 2.10.00  |
 | Baywell, Charles E.            | Marineral                          | 2.44.00  |
 | Baywell, Fred T., Jr.            | Associate leathway engineer                        | 3.72.33  |
-| Baywell, Richard H.            | Turbine operator—hydro                        | 2.44.00  |
-| Baywell, Robert S.            | Electrician apprentice—4th period                        | 2.04.00  |
+| Baywell, Richard H.            | Turbine operator—hydro                        | 2.40.00  |
+| Baywell, Robert S.            | Electrician apprentice—4th period                        | 2.00.00  |
 | Beales, Payton S.            | Senior civil aide                        | 2.10.00  |
 | Beaudlyn, Michael M.            | Junior file clerk                          | 1.72.00  |
-| Beaudun, William A.            | Senior anti-motive transportation supervisor                        | 4.12.33  |
+| Beaudun, William A.            | Senior automotive transportation supervisor                        | 4.12.33  |
 | Bearborough, Frank L.            | Associate electrical engineer                        | 4.12.33  |
 | Bearbrough, Clyde M.            | Assistant education officer                        | 3.10.33  |
 | Bearbrough, Owen T.            | Use and Unself mechanic foreman                        | 2.70.00  |
 | Beates, Paul W.            | Associate mechanical engineer                        | 4.12.33  |
 | Beatterwood, E. Robert            | Assistant electrical engineer                        | 3.52.33  |
-| Behaffler, Oliver A.            | Junior cheetah                        | 2.70.33  |
-| Behafler, John A.            | Associate agricultural engineer                        | 4.12.33  |
-| Behecrer, Fidel A.            | Senior typist                        | 3.97.00  |
-| Beheult, George L.            | Junior civil engineer                        | 3.10.33  |
-| Behenck, Martha E.            | Assistant engineering aide                        | 1.97.00  |
-| Betsing, Clair E.            | Associate mechanical engineer                        | 4.12.33  |
-| Betslemmer, Frederick C.            | Project manager                        | 9.12.33  |
-| Betsmidikeler, Virginia           | Under clerk                          | 1.62.00  |
-| Betsmidt, Earl J., Jr.            | Junior commissary clerk                        | 1.75.00  |
-| Betsmidt, George R.            | Assistant civil engineer                        | 3.82.33  |
-| Betsmidt, Lewis A., Jr.            | Assistant construction engineer                        | 7.02.33  |
-| Betsmoller, Henry B.            | Property and supply clerk                        | 2.40.00  |
-| Betsmoller, John F.            | Senior clerk                          | 3.10.33  |
-| Betsnee, Grace C.            | Under clerk                          | 1.62.00  |
-| Betsowalter, Dorothy J.            | Senior typist                        | 1.97.00  |
-| Betsreiter, Jesse B.            | Senior engineering aide                        | 2.44.33  |
-| Betsweiler, Edward W.            | Electrician                          | 2.44.33  |
-| Betsweiler, Leslie O.            | Junior civil engineer                        | 2.44.33  |
-| Betsroeder, Ruth E.            | Junior clerk-stemographer                        | 1.75.00  |
-| Betsufer, William N.            | Engineering aide                        | 2.40.00  |
-| Betsulken, Roger M., Jr.            | Junior cheetah                        | 2.44.33  |
-| Betsults, Frank A.            | Inspector of construction                        | 2.70.33  |
-| Betsultz, Jack E.            | Assistant general foreman                        | 4.12.33  |
-| Betsults, Nancy M.            | Junior file clerk                          | 1.97.00  |
-| Betsumpert, Thomas O.            | Lineman                          | 2.44.00  |
-| Betswah, Philip A.            | Associate civil engineer                        | 4.42.33  |
-| Betswartzinger, Ruby M.            | Junior bookkeeping machine operator                        | 1.72.00  |
-| Betswartzinger, W. Delay           | Senior clerk                          | 2.44.33  |
-| Betsweppe, George A.            | Associate reports editor                        | 3.82.33  |
-| Betsweppe, Joseph L.            | Junior chemical engineer                        | 2.44.33  |
-| Betswind, Herbert A.            | Gas compressor operator                        | 2.00.00  |
+| Behaeffler, Oliver A.            | Junior cheetah                        | 2.70.33  |
+| Belyiller, John A.            | Associate agricultural engineer                        | 4.12.33  |
+| Belyerter, Fidel A.            | Senior typist                        | 3.97.00  |
+| Belyeid, George L.            | Junior civil engineer                        | 3.10.33  |
+| Belyeuck, Martha E.            | Assistant engineering aide                        | 1.97.00  |
+| Belyiding, Clair E.            | Associate mechanical engineer                        | 4.12.33  |
+| Belylemmer, Frederick C.            | Project manager                        | 9.12.33  |
+| Belymidikeler, Virginia           | Under clerk                          | 1.62.00  |
+| Belymidt, Earl J., Jr.            | Junior commissary clerk                        | 1.75.00  |
+| Belymidt, George R.            | Assistant civil engineer                        | 3.82.33  |
+| Belymidt, Lewis A., Jr.            | Assistant construction engineer                        | 7.02.33  |
+| Belymoller, Henry B.            | Property and supply clerk                        | 2.40.00  |
+| Belymoller, John F.            | Senior clerk                          | 3.10.33  |
+| Belyme, Grace C.            | Under clerk                          | 1.62.00  |
+| Belymoller, Dorothy J.            | Senior typist                        | 1.97.00  |
+| Belymeler, Jesse B.            | Senior engineering aide                        | 2.44.33  |
+| Belymeler, Edward W.            | Electrician                          | 2.40.00  |
+| Belymeler, Leslie O.            | Junior civil engineer                        | 2.44.33  |
+| Belymeler, Ruth E.            | Junior clerk-stemographer                        | 1.75.00  |
+| Belyhler, William N.            | Engineering aide                        | 2.40.00  |
+| Belyulken, Roger M., Jr.            | Junior cheetah                        | 2.44.33  |
+| Belyults, Frank A.            | Inspector of construction                        | 2.70.33  |
+| Belyults, Jack E.            | Assistant general foreman                        | 4.12.33  |
+| Belyults, Nancy M.            | Junior file clerk                          | 1.97.00  |
+| Belyumpert, Thomas O.            | Lineman                          | 2.40.00  |
+| Belywah, Philip A.            | Associate civil engineer                        | 4.42.33  |
+| Belywarizinger, Ruby M.            | Junior bookkeeping machine operator                        | 1.72.00  |
+| Belywarteman, W. Delay           | Senior clerk                          | 2.44.33  |
+| Belyweppe, George A.            | Associate reports editor                        | 3.82.33  |
+| Belyweppe, Joseph L.            | Junior chemical engineer                        | 2.44.33  |
+| Belywind, Herbert A.            | Gas compressor operator                        | 2.00.00  |
 | Beillian, Woodrow W.            | Junior engineering aide                        | 1.72.00  |
-| Beehy, James H.            | Commercial clerk                          | 2.10.00  |
-| Beoezins, Arthur H.            | Electrician                          | 2.40.00  |
-| Beott, Allen G.            | Associate civil engineer                        | 4.12.33  |
-| Beott, Arvil W.            | Dryer fireman                        | 1.60.00  |
-| Beott, Bertye E.            | Ammonium nitrate operator                        | 2.10.00  |
-| Beott, Clinton E.            | Junior accountant                        | 3.10.33  |
-| Beott, Daniel D.            | Principal engineering aide                        | 2.70.33  |
-| Beott, Dorothy L.            | Clerk                          | 2.10.00  |
-| Beott, E. Kathryn.            | Under engineering draftsman                        | 1.62.00  |
-| Beott, Edwin M.            | Assistant personnel officer                        | 3.10.33  |
-| Beott, Este M.            | Junior property and supply clerk                        | 1.72.00  |
-| Beott, Frederic Ward.            | Assistant hydraulic engineer                        | 3.52.33  |
-| Beott, Guy R.            | Senior sanitary engineer                        | 5.02.33  |
+| Beachy, James H.            | Commercial clerk                          | 2.10.00  |
+| Beurgzins, Arthur H.            | Electrician                          | 2.40.00  |
+| Bevitt, Allen G.            | Associate civil engineer                        | 4.12.33  |
+| Bevitt, Arvil W.            | Dryer fireman                        | 1.60.00  |
+| Bevitt, Bertye E.            | Ammonium nitrate operator                        | 2.10.00  |
+| Bevitt, Clinton E.            | Junior accountant                        | 3.10.33  |
+| Bevitt, Daniel D.            | Principal engineering aide                        | 2.70.33  |
+| Bevitt, Dorothy L.            | Clerk                          | 2.10.00  |
+| Bevitt, E. Kathryn.            | Under engineering draftsman                        | 1.62.00  |
+| Bevitt, Edwin M.            | Assistant personnel officer                        | 3.10.33  |
+| Bevitt, freie M.            | Junior property and supply clerk                        | 1.72.00  |
+| Bevitt, Frederic Ward.            | Assistant hydraulic engineer                        | 3.52.33  |
+| Bevitt, Guy R.            | Senior sanitary engineer                        | 5.02.33  |
 
 Page 101
 ================================================================================
@@ -9810,7 +9811,7 @@ Page 113
 | Thompson, Esquire B.            | Unit foreman             | 3.52.33 |
 | Thompson, Francis T.            | Civil engineer             | 4.82.33 |
 | Thompson, Garfield             | Orderly             | 1.62.00 |
-| Thompson, H. L.belly            | Assistant chemical engineer             | 3.16.33 |
+| Thompson, H. LeRoy            | Assistant chemical engineer             | 3.16.33 |
 | Thompson, Henry D.            | Mixing room operator             | 1.60.00 |
 | Thompson, Hubert H.            | Senior inspector of construction             | 3.16.33 |
 | Thompson, Isaac T.            | Janitor             | 1.63.00 |
@@ -9834,13 +9835,13 @@ Page 113
 | Thompson, Margaret A.            | Public safety officer—trainee             | 1.75.00 |
 | Thompson, Roy L.            | ...do             | 1.75.00 |
 | Thompson, Ruth T.            | Assistant engineering aide             | 1.97.00 |
-| Thompson, Sam M.            | Assistant material engineer             | 3.52.33 |
+| Thompson, Sam M.            | Assistant materials engineer             | 3.52.33 |
 | Thompson, Samuel K.            | Switishboard operator             | 2.44.00 |
 | Thompson, Walter Harris            | Assistant engineering draftsman             | 1.97.00 |
 | Thompson, William L.            | Inspector of construction             | 2.43.33 |
 | Thompson, William T.            | Graining room operator             | 1.54.00 |
-| Thompson, William F.            | Assistant chemist             | 2.52.33 |
-| Thompson, William F.            | Electric furnace head tapper             | 1.54.00 |
+| Thompson, William C.            | Assistant chemist             | 2.52.33 |
+| Thompson, William W.            | Electric furnace head tapper             | 1.54.00 |
 | Thompson, Robert W.            | Associate materials engineer             | 4.42.33 |
 | Thoresen, Carl T.            | Assistant director             | 3.52.33 |
 | Thorn, Luther D.            | Burden welcher             | 1.64.00 |
@@ -9863,15 +9864,15 @@ Page 113
 | Thrasher, William N.            | Industrial yard foreman             | 2.20.00 |
 | Throat, Chris E.            | Public safety officer             | 1.97.00 |
 | Throat, J. Ellie           | Malaria control foreman             | 1.63.00 |
-| Threekmerton, Felix E.            | Senior clerk             | 2.44.33 |
-| Threekmerton, G. Ray           | General labor foreman             | 4.42.33 |
+| Threekmorton, Felix E.            | Senior clerk             | 2.44.33 |
+| Threemorton, G. Ray           | General labor foreman             | 4.42.33 |
 | Threep, Emile B.            | Junior bookkeeping machine operator             | 1.75.00 |
 | Throver, H. Kathleen            | Under clerk             | 1.63.00 |
 | Thurman, Eugene H.            | Engineering draftsman             | 2.14.00 |
 | Thurman, Gilbert M.            | Senior property and supply clerk             | 2.78.33 |
 | Thurman, Julia Brake           | Under engineering draftsman             | 1.63.00 |
 | Thurman, Lawrence B.            | Junior storekeeper             | 1.97.00 |
-| Thurman, Mary Waltz            | Under engineering draftsman             | 1.63.00 |
+| Thurman, Mary Waltis            | Under engineering draftsman             | 1.63.00 |
 
 Page 114
 ================================================================================
@@ -10227,89 +10228,97 @@ Page 117
 Page 118
 ================================================================================
 
-Table III.—Names, titles, and solusies of annual employees receiving more than $1,500 a year on June 30, 1953—Continued
+Table III.—Names, titles, and soluties of annual employees receiving more than $1,500 a year on June 30, 1953—Continued
 
-| Name                        | Title                        | Salary per annum |
-|--------------------------------------|--------------------------------------|---------------------|
-| Walker, Joseph E., Jr.            | Precursor side             | $2,190.00 |
-| Walker, John F.            | Senior entioners' side             | 2,190.00 |
-| Walker, Kenneth B.            | Associate civil engineer             | 3,828.00 |
-| Walker, Leonard A.            | Assistant clerk             | 2,190.00 |
-| Walker, Lester E.            | Senior head drag operator             | 1,900.00 |
-| Walker, Lilian O.            | Junior time-keeper             | 1,772.00 |
-| Walker, Lloyd A.            | Junior site ex-griper             | 1,671.00 |
-| Walker, Oscar C.            | Trum operator, power system maintenance         | 1,660.00 |
-| Walker, Olin D.            | Junior time-keeper             | 1,772.00 |
-| Walker, Olin H.            | Senior entionering draftsman             | 2,798.00 |
-| Walker, Robert A.            | Raw materials shift supervisor         | 3,163.00 |
-| Walker, Robert B.            | Junior clerk-stemographer             | 1,772.00 |
-| Walker, William C.            | Junior safety officer             | 1,977.00 |
-| Walker, William G.            | Assistant administrative officer             | 3,328.00 |
-| Walker, William H. Jr.            | Assistant engineering draftsman             | 1,971.00 |
-| Walker, William H. Jr.            | Postdoctoral engineer             | 2,434.00 |
-| Walker, William M.            | Assistant chemist             | 3,328.00 |
-| Walker, William P.            | Carpenter             | 2,200.00 |
-| Walker, Jedra             | Easttrean             | 2,000.00 |
-| Wall, Farin B.            | Division manager             | 1,971.00 |
-| Wall, Daniel S.            | Assistant engineering draftsman             | 1,971.00 |
-| Wall, James D.            | Junior chemical engineer             | 2,434.00 |
-| Wall, Michael N.            | Junior elects typist             | 1,971.00 |
-| Wall, Theodore T.            | Senior inspector of materials             | 3,328.00 |
-| Wallace, Adria E.            | Skateboard operator             | 2,000.00 |
-| Wallace, Anna Lou.            | Public safety officer trainee             | 1,772.00 |
-| Wallace, Blunt E.            | Public safety officer             | 1,971.00 |
-| Wallace, Carl M.            | Assistant engineering side             | 1,971.00 |
-| Wallace, Carolyn.            | Under clerk             | 1,620.00 |
-| Wallace, Clyde      | Retail operator             | 6,390.00 |
-| Wallace, Guy Gene.            | Assistant operator             | 1,660.00 |
-| Wallace, James C.            | Cas and David mechanic             | 2,000.00 |
-| Wallace, Robert C.            | Assistant accountist             | 3,163.00 |
-| Wallace, Mary G.            | Junior clerk-stemographer             | 1,971.00 |
-| Wallace, Ralph E.            | Associate variety officer             | 3,328.00 |
-| Wallace, Robert A.            | Junior time-keeper             | 1,772.00 |
-| Wallace, Robert F.            | Assistant nurse and tower operator             | 1,960.00 |
-| Walling, Robert F.            | Junior pay-roll clerk             | 1,971.00 |
-| Wallace, Tom Alton         | Building guard             | 1,772.00 |
-| Wallace, Walter L.            | Assistant, public safety service             | 2,190.00 |
-| Wallace, Wyeth S.            | Assistant scientist             | 3,328.00 |
-| Wallace, Edna B.            | Univer clerk             | 1,620.00 |
-| Wallace, Rossy E.            | Burnout contract agent             | 3,163.00 |
-| Wallace, S. E. C.            | Junior clerk-typsist             | 1,971.00 |
-| Wallace, V. F.            | Clerk             | 2,190.00 |
-| Wallace, Carl J.            | Principal inspector of materials             | 4,128.00 |
-| Wallace, David   | Junior chemical engineer             | 2,798.00 |
-| Wallace, Sura C.     | Univer clerk             | 1,620.00 |
-| Wallace, Thomas B.            | Storweeper             | 2,190.00 |
-| Wallace, Paul F.            | Junior sizekeeper             | 1,772.00 |
-| Wallace, Catherine Louise.         | Clerk             | 2,190.00 |
-| Wallace, Frank T.            | Assistant supervisor of rural properties             | 3,163.00 |
-| Wallace, R. J. C.     | Assistant construction engineer             | 6,628.00 |
-| Wallace, William M.            | Junior menaverse male             | 1,971.00 |
-| Wallace, Daniel O.            | Junior etement engineer             | 2,798.00 |
-| Wallace, Clifford E.            | Senior accountine clerk             | 2,434.00 |
-| Wallace, H. J. E.            | Junior scientist             | 1,772.00 |
-| Wallace, Henry A., Jr.            | Junior student             | 2,798.00 |
-| Wallace, Howard Patton        | Property and supply clerk             | 2,190.00 |
-| Wallace, Mary Frances        | Junior clerk-stemographer             | 1,971.00 |
-| Wallace, Myra G.            | Junior pay-roll clerk             | 1,772.00 |
-| Wallace, John H.            | Trum operating side             | 6,628.00 |
-| Wallace, A. W.            | Junior store-keeper             | 1,620.00 |
-| Wallace, Richard C.            | Inspector of construction             | 2,798.00 |
-| Wallace, Patrick A.            | Junior clerk-typsist             | 1,772.00 |
-| Wallace, Robert A.            | Head amniont             | 7,628.00 |
-| Wallace, Thomas W.            | Malaria control foreman             | 1,620.00 |
-| Wallace, Victor C.            | Sacteblood operator             | 2,000.00 |
-| Wallace, Frank A.            | Servant, public safety service             | 2,190.00 |
-| Wallace, John F.            | Junior safety officer             | 1,971.00 |
-| Wallace, James A.            | Skateboard operator             | 2,000.00 |
-| Wallace, Bernard A.            | Assistant mail clerk             | 1,971.00 |
-| Wallace, James B.            | Assistant clerk-stemographer             | 1,971.00 |
-| Wallace, James D.            | Geolocist             | 4,828.00 |
-| Wallace, James D.            | Principal pay-roll clerk             | 2,798.00 |
-| Wallace, James J.            | Junior time-keeper             | 1,772.00 |
-| Wallace, Robert J.            | Junior clerk-typsist             | 1,772.00 |
-| Wallace, Robert C.            | Junior pay-roll clerk             | 1,772.00 |
-| Wallace, Robert C.            | Under engineering side             | 1,620.00 |
+| Name | Title | Salary per annum |
+|--------|------|------|
+| Walker, Joseph E., Jr. | Preconceptor side | $2,190.00 |
+| Walker, John F. | Senior entonecting side | 2,160.00 |
+| Walker, Kenneth B. | Associate civil engineer | 3,828.00 |
+| Walker, Leonard A. | Assistant clerk | 2,190.00 |
+| Walker, Lester E. | Senior head drag operator | 1,900.00 |
+| Walker, Lilian O. | Univer. statekeeper | 1,600.00 |
+| Walker, Lloyd A. | Junior time-keeper | 1,722.00 |
+| Walker, Mary E. | Junior site ex-griper | 1,873.00 |
+| Walker, Oscar C. | Trumegentist, power system maintenance | 1,600.00 |
+| Walker, Olin D. | Junior time-keeper | 1,722.00 |
+| Walker, Olin H. | Senior entonecting draftsman | 2,798.00 |
+| Walker, Robert A. | Raw materials shift supervisor | 3,160.00 |
+| Walker, Robert B. | Junior clerk-stemographer | 1,722.00 |
+| Walker, William C. | Junior safety officer | 1,923.00 |
+| Walker, William G. | Assistant administrative officer | 3,328.00 |
+| Walker, William H. Jr. | Assistant engineering draftsman | 1,971.00 |
+| Walker, William Henry | Populations re-elicidment representative | 2,798.00 |
+| Walker, William M. | Assistant chemist | 3,328.00 |
+| Walker, William P. | Carpenter | 2,200.00 |
+| Walker, Jedra | Easttrean | 2,000.00 |
+| Wall, Farin B. | Division manager | 2,228.00 |
+| Wall, Daniel S. | Assistant engineering draftsman | 1,971.00 |
+| Wall, James D. | Junior chemical engineer | 2,433.00 |
+| Wall, Michael N. | Junior elects-typist | 1,971.00 |
+| Wall, Theodore T. | Senior inspector of materials | 3,328.00 |
+| Wallace, Alfred E. | Senior board operator | 2,000.00 |
+| Wallace, Anna Lou. | Public safety officer-trainee | 1,722.00 |
+| Wallace, Blunt E. | Public safety officer | 1,971.00 |
+| Wallace, Carl M. | Assistant engineering side | 1,971.00 |
+| Wallace, Carolyn. | Univer. clerk | 1,620.00 |
+| Wallace, Clyde | Retire operator | 6,300.00 |
+| Wallace, Guy Gene | Assistant operator | 1,600.00 |
+| Wallace, James C. | Cas and David mechanic | 2,000.00 |
+| Wallace, Robert C. | Assistant accountist | 3,160.00 |
+| Wallace, Mary G. | Junior clerk-stemographer | 1,971.00 |
+| Wallace, Ralph E. | Associate variety officer | 3,328.00 |
+| Wallace, Robert A. | Junior time-keeper | 1,722.00 |
+| Wallace, Robert F. | Assistant nurse and tower operator | 1,900.00 |
+| Wallace, Robert F. | Junior pay-roll clerk | 1,971.00 |
+| Wallace, Tom Alton | Building guard | 1,722.00 |
+| Wallace, Walter L. | Assistant, public safety service | 2,190.00 |
+| Wallace, Wyeth S. | Assistant chemist | 3,328.00 |
+| Walker, Edna B. | Univer. clerk | 1,620.00 |
+| Walker, Rossar E. | Burning contract agent | 3,160.00 |
+| Wallace, S. E. | Junior clerk-typist | 1,971.00 |
+| Walker, Vebore B. | Clerk | 2,190.00 |
+| Wallace, Carl J. | Principal inspector of materials | 4,128.00 |
+| Wallman, Harold | Junior chemical engineer | 2,798.00 |
+| Wallace, S. E. | Univer. clerk | 1,620.00 |
+| Wallace, George M. | Steme-keeper | 2,190.00 |
+| Wallace, Paul F. | Junior site-keeper | 1,722.00 |
+| Wallace, Catherine Louise | Clerk | 2,190.00 |
+| Wallace, Frank T. | Assistant supervisor of rural properties | 3,160.00 |
+| Wallace, R. J. Weintl | Assistant construction engineer | 6,628.00 |
+| Wallace, William M. | Junior menovering male | 1,971.00 |
+| Wallace, Daniel O. | Junior etenmeringmaner | 2,798.00 |
+| Wallace, Clifford E. | Senior entonecting clers | 2,433.00 |
+| Wallace, Harsell E. | Junior etc.maner | 1,722.00 |
+| Wallace, Henry A., Jr. | Junior etc.maner | 2,798.00 |
+| Wallace, Howard Patton | Property and supply clerk | 2,100.00 |
+| Wallace, Mary Frances | Junior clerk-stemographer | 1,971.00 |
+| Wallace, Myra G. | Junior pay-roll clerk | 1,722.00 |
+| Wallace, John H. | Trumegentist, power system maintenance | 6,628.00 |
+| Wallace, A. J. | Junior store-keeper | 1,722.00 |
+| Wallace, Richard C. | Junior etenmering male | 1,722.00 |
+| Wallace, Henry A., Jr. | Junior etc.maner | 2,798.00 |
+| Wallace, Howard Patton | Property and supply clerk | 2,100.00 |
+| Wallace, Mary Frances | Junior clerk-stemographer | 1,971.00 |
+| Wallace, Myra G. | Junior pay-roll clerk | 1,722.00 |
+| Wallace, John H. | Trumegentist, power system maintenance | 6,628.00 |
+| Wallace, A. J. | Junior store-keeper | 1,722.00 |
+| Wallace, Thomas A. | Junior etenmering male | 2,798.00 |
+| Wallace, Robert F. | Junior clers-typist | 1,722.00 |
+| Wallace, Thomas A. | Junior clers-typist | 1,722.00 |
+| Wallace, Thomas W. | Junior clers-typist | 1,620.00 |
+| Wallace, Victor C. | Senior board operator | 2,000.00 |
+| Wallace, Frank A. | Account, public safety service | 2,190.00 |
+| Wallace, John F. | Public safety officer | 1,971.00 |
+| Wallace, John A. | Switelblood operator | 2,000.00 |
+| Wallace, Bernard A. | Assistant mail clerk | 1,971.00 |
+| Wallace, Thomas M. | Assistant clerk-stemographer | 1,971.00 |
+| Wallace, James D. | Geolocist | 4,828.00 |
+| Wallace, James D. | Principal pay-roll clerk | 2,798.00 |
+| Wallace, Thomas J. | Junior time-keeper | 1,722.00 |
+| Wallace, Robert J. | Junior clers-typist | 1,722.00 |
+| Wallace, John F. | Junior pay-roll clerk | 1,722.00 |
+| Wallace, Robert C. | Under engineering side | 1,620.00 |
 
 Page 119
 ================================================================================
@@ -10671,14 +10680,14 @@ Page 123
 | Williams, Elizabeth             | Junior clerk-typist                          | 1,620.00  |
 | Williams, Ellen             | Senior waitress                          | 1,971.00  |
 | Williams, Ernest Fred            | Public safety officer                          | 2,300.00  |
-| Williams, Ernest H            | Kiln drive shift foreman                          | 1,752.00  |
+| Williams, Ernest H            | All-in-dryer shift foreman                          | 1,752.00  |
 | Williams, Eugene F.           | Senior typist                          | 2,520.33  |
 | Williams, Forrest H            | Assistant structural engineer                          | 2,100.00  |
 | Williams, Frank B.           | Senior waitress                          | 1,620.00  |
 | Williams, G. Inex           | Senior waitress                          | 3,200.00  |
-| Williams, O. Inex           | Load dispatcher                          | 3,920.33  |
+| Williams, O. Inex           | Lead dispatcher                          | 3,920.33  |
 | Williams, Gordon L.           | Associate structural engineer                          | 2,400.00  |
-| Williams, Gordon N           | Electrician                          | 2,400.00  |
+| Williams, Gordon N.           | Electrician                          | 2,400.00  |
 | Williams, Grady O.           | Junior                          | 1,620.00  |
 | Williams, Hany A.           | Engineering aide                          | 2,100.00  |
 | Williams, Harry B., Jr.           | Junior administrative officer                          | 1,620.00  |
@@ -10696,21 +10705,19 @@ Page 123
 | Williams, James V.           | Chief nurse                          | 2,433.33  |
 | Williams, James V.           | Senior population readjustment worker                          | 1,752.00  |
 | Williams, John G.           | Junior storekeeper                          | 2,400.00  |
-| Williams, John H.           | Senior housing manager                          | 3,790.33  |
+| Williams, John H.           | Machinery                          | 3,790.33  |
 | Williams, John W.           | Junior clerk                          | 1,752.00  |
 | Williams, John W.           | General foreman                          | 3,161.33  |
 | Williams, Joseph W.           | Assistant electrical engineer                          | 3,720.33  |
-| Williams, Joseph W.           | Assistant field engineer                          | 3,200.00  |
 | Williams, Lewis G.           | Junior turbine and switchboard operator—hydro                          | 2,200.00  |
-| Williams, Ian Taylor           | Assistant title examiner                          | 2,520.33  |
+| Williams, Lou Taylor           | Assistant title examiner                          | 2,520.33  |
 | Williams, Lowell           | Public safety officer                          | 1,971.00  |
-| Williams, M. Roy           | General shipping foreman                          | 3,162.33  |
-| Williams, M. Roy           | Graduate nurse                          | 1,971.00  |
-| Williams, Mary Florence           | Assistant clerk-stemographer                          | 1,971.00  |
-| Williams, M. M. M.           | Junior clerk-typist                          | 1,971.00  |
-| Williams, Mildred C.           | Assistant clerk-stemographer                          | 2,100.00  |
-| Williams, Mildred D.           | Clerk-stemographer                          | 1,971.00  |
-| Williams, Michael H.           | Assistant clerk-stemographer                          | 2,200.33  |
+| Williams, M. Roy           | General shipping foreman                          | 3,163.33  |
+| Williams, Mary Florence           | Graduate nurse                          | 1,971.00  |
+| Williams, M. M. Roy           | Assistant clerk-stemographer                          | 1,971.00  |
+| Williams, Michael C.           | Junior clerk-typist                          | 1,971.00  |
+| Williams, Michael Day           | Clerk-stemographer                          | 2,100.00  |
+| Williams, Michael H.           | Assistant clerk-stemographer                          | 2,200.00  |
 | Williams, Norman H.           | Junior hydraulic engineer                          | 2,200.33  |
 | Williams, Orie Lee           | Under clerk-typist                          | 1,752.00  |
 | Williams, Paul C.           | Stoker boiler operator                          | 2,400.00  |
@@ -10718,7 +10725,7 @@ Page 123
 | Williams, Ralph A.           | Assistant accounting clerk                          | 1,971.00  |
 | Williams, Robert A.           | Pulverized fuel boiler operator                          | 2,400.00  |
 | Williams, Robert G.           | Project and supply clerk                          | 2,100.00  |
-| Williams, Robert L.           | Gas and Diesel mechanic foreman                          | 2,200.00  |
+| Williams, Robert L.           | Occupied fireers' medicine foreman                          | 2,200.00  |
 | Williams, Robert L. Jr.           | Under engineering aide                          | 1,620.00  |
 | Williams, Robert B.           | Accistant accounting clerk                          | 2,100.00  |
 | Williams, Ronald D.           | Public safety officer                          | 2,400.00  |
@@ -10726,19 +10733,21 @@ Page 123
 | Williams, Roy W.           | Relief operator                          | 1,971.00  |
 | Williams, Ruth           | Assistant clerk-typist                          | 1,971.00  |
 | Williams, Ruthe R.           | Assistant clerk-stemographer                          | 2,100.00  |
-| Williams, Sara V.           | Senior typist                          | 2,520.33  |
-| Williams, William P.           | Junior economist                          | 3,162.33  |
+| Williams, Sara V.           | Senior typist                          | 2,200.33  |
+| Williams, William P.           | Junior economist                          | 3,163.33  |
 | Williams, Thaine D.           | Assistant highway engineer                          | 2,400.00  |
-| Williams, Thomas L.           | Medicalist                          | 1,752.00  |
+| Williams, Thomas L.           | Municipal," 1st-in-dr.             | 1,752.00  |
 | Williams, William L.           | Junior clerk-typist                          | 1,752.00  |
 | Williams, William T.           | Inspector of construction                          | 2,400.00  |
 | Williams, William T.           | Mencher, appraisal committee                          | 4,420.33  |
 | Williams, Thomas L.           | Associate land buyer                          | 3,520.33  |
 | Williams, Hugh H., Jr.           | Junior civil engineer                          | 2,700.33  |
 | Williams, James W.           | Junior engineering aide                          | 2,100.00  |
-| Williams, James W.           | Assistant operating engine                          | 2,100.00  |
+| Williams, James W.           | Assistant manufacturing clerk                          | 2,100.00  |
 | Williams, John H.           | Senior storekeeper                          | 1,752.00  |
-| Williams, Thomas V.           | Junior typist                          | 4,620.33  |
+| Williams, Thomas W.           | Junior typist                          | 4,620.33  |
+| Williams, Robert F.           | Principal accountant                          | 4,620.33  |
+| Williams, Thomas V.           |  | 1,752.00  |
 | Williams, William L.           | Principal accountant                          | 4,620.33  |
 
 Page 124

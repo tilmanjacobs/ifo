@@ -500,83 +500,83 @@ Page 7
 Names, duties, and compensation of directors, officers, and employees earning com-per-sation at a rate of $1,500 per annum or over, as of June 30, 1937—Con.
 
 | Name                        | Title                        | Compensation |
-|-----------------------------|--------------------------------|---------------------------------|
-| Walter E. Blanton             | Steel foreman                  | $1.10  |
-| William E. Blanton             | Ironworker                  | 1.25  |
-| Thomas W. Blasingame             | Storekeeper                  | $1,680  |
-| Sherman D. Blaylock             | Carpenter                  | 1.10  |
-| Ben F. Bleckley             | do                      | 1.10  |
-| Bernie May Bledsoe             | Clerk stenographer                  | 1,620  |
-| C. E. Blee             | Project engineer                  | 8,000  |
-| Thomas E. Blevins             | Pipe fitter                  | 1.25  |
-| Alfred Blickensderfer             | Hydraulic engineer                  | 2,000  |
-| Robert W. Bliss             | Mechanical engineer                  | 3,200  |
-| Herman Henry Block             | Hydraulic engineer                  | 4,000  |
-| Keith S. Block             | Draftsman                  | 1,800  |
-| R. Seymour Blomfield             | Structural engineer                  | 2,600  |
-| Elbert W. Bloodworth             | Switchboard operator                  | 2,000  |
-| Mack L. Bloomer             | Carpenter                  | 1.10  |
-| Walter R. Bloss             | Machinist                  | 1,800  |
-| Charles J. Boartfield             | Pipe fitter                  | 1.25  |
-| Robert M. Boarts             | Chemical engineer                  | 1,900  |
-| Clarence C. Boar             | Carpenter                  | 1.10  |
-| Charles F. Bobo, Jr.           | Correspondence clerk                  | 1,680  |
-| Paul C. Bobo             | Electrician                  | 1.10  |
-| Arthur H. Bock             | Line foreman                  | 1.35  |
-| Carl A. Bock             | Assistant chief engineer                  | 9,500  |
-| Henry L. Bostfelt             | Construction inspector                  | 2,600  |
-| Lloyd W. Boggs             | Machinist                  | 2,000  |
-| Clarence W. Bohner             | Electrical engineer                  | 3,800  |
-| Ray M. Boley             | Carpenter                  | 1.10  |
-| James B. Bolin             | Clerk                  | 1,800  |
-| Landrum A. Bolling             | Derrick operator                  | 1.50  |
-| Lewis B. Bolt, Jr.           | Attorney                  | 3,200  |
-| Colin E. Bolton             | Carpenter                  | 1.10  |
-| Lloyd T. Bolton             | Steamfitter                  | 1.25  |
-| Floyd L. Bond             | Engineering aide                  | 1,500  |
-| J. Max Bond             | Supervisor, Negro training                  | 3,800  |
-| William J. Bond             | Civil engineer                  | 2,700  |
-| James N. Bonds             | Carpenter                  | 1.10  |
-| Genora W. Bonine             | Clerk                  | 1,620  |
-| William V. Booker             | Line foreman                  | 1.20  |
-| Capress M. Boone             | Rigger                  | 1.25  |
-| Ralph S. Boone             | Carpenter                  | 1.10  |
-| Raymond W. Boone             | Machinist                  | 2,000  |
-| Warren C. Boop             | Structural engineer                  | 3,200  |
-| Bernard Borah             | Research aide                  | 1,800  |
-| Theodore M. Boring             | Carpenter                  | 1.10  |
-| Frank J. Bork             | Clerk                  | 1,800  |
-| John E. Born             | Electrician                  | 1.10  |
-| Frank E. Boxland             | Highway engineer                  | 2,000  |
-| Mary Lois Boss             | Accounting clerk                  | 1,620  |
-| Alphonse E. Bost             | Draftsman                  | 1,800  |
-| Clifton Maurice Bostick             | Accounting clerk                  | 1,620  |
-| Morris N. Boublin             | Draftsman                  | 1,620  |
-| Nellie E. Bounds             | Clerk stenographer                  | 1,680  |
-| William A. Bourne             | Guard                  | 1,500  |
-| Nicholls White Bowden             | Hydraulic engineer                  | 5,600  |
-| Robert L. Bowden             | Carpenter                  | 1.10  |
-| Edwin Watson Bowe             | Relocation worker                  | 2,300  |
-| Mark M. Bowelle             | Draftsman                  | 2,400  |
-| Harland W. Bowen             | Electrical engineer                  | 3,200  |
-| Bennie B. Bowie             | Mechanic foreman                  | 1.35  |
-| James F. Bowie             | Iron foreman                  | 1.50  |
-| Albert G. Bowles             | Concrete finisher                  | 1.10  |
-| Ernest M. Bowles             | Draftsman                  | 1,620  |
-| Hume S. Bowles             | Mechanic                  | 1.10  |
-| J. Clyde Bowles             | Erosion engineer                  | 2,300  |
-| Virginia Dare Bowles             | Clerk typist                  | 1,500  |
-| W. Jack Bowles             | Cook                  | 1,620  |
-| Leonard A. Bowling             | Dircher operator                  | 1.10  |
-| Sam E. Bowling             | Lineman                  | 1.10  |
-| Daniel Bowman             | Labor foreman                  | 1.10  |
-| David Franklin Bowman             | Guard                  | 1,500  |
-| G. Ralph Bowman             | Draftsman                  | 2,400  |
-| Hoyt C. Bowman             | Plumber                  | 2,000  |
-| Hubert W. Bowman             | Carpenter                  | 2,000  |
-| James S. Bowman             | Project planning engineer   | 7,250  |
-| Wylie A. Bowmaster             | Hydraulic engineer                  | 2,300  |
-| Clyde W. Bowser             | Draftsman                  | 1,800  |
+|-----------------------------|--------------------------------|-------------|
+| Walter E. Blanton            | Steel foreman.                  | $1.10  |
+| William E. Blanton            | Ironworker.                  | 1.25  |
+| Thomas W. Blasingame           | Storekeeper.                  | $1,680  |
+| Sherman D. Blaylock           | Carpenter.                  | 1.10  |
+| Ben F. Bleckley           | do.                  | 1.10  |
+| Bernie May Bledsoe           | Clerk stenographer.                  | 1,620  |
+| C. E. Blee           | Project engineer.                  | 8,000  |
+| Thomas E. Blevins           | Pipe fitter.                  | 1.25  |
+| Alfred Blickensderfer           | Hydraulic engineer.                  | 2,000  |
+| Robert W. Bliss           | Mechanical engineer.                  | 3,200  |
+| Herman Henry Block           | Hydraulic engineer.                  | 4,000  |
+| Keith S. Block           | Draftsman.                  | 1,800  |
+| R. Seymour Blomfield           | Structural engineer.                  | 2,600  |
+| Elbert W. Bloodworth           | Switchboard operator.                  | 2,000  |
+| Mack L. Bloomer           | Carpenter.                  | 1.10  |
+| Walter R. Bloss           | Machinist.                  | 1,800  |
+| Charles J. Boartfield           | Pipe fitter.                  | 1.25  |
+| Robert M. Boarts           | Chemical engineer.                  | 1,900  |
+| Clarence C. Boar           | Carpenter.                  | 1.10  |
+| Charles F. Bobo, Jr.           | Correspondence clerk.                  | 1,680  |
+| Paul C. Bobo           | Electrician.                  | 1.10  |
+| Arthur H. Bock           | Line foreman.                  | 1.35  |
+| Carl A. Bock           | Assistant chief engineer.                  | 9,500  |
+| Henry L. Bostfelt           | Construction inspector.                  | 2,600  |
+| Lloyd W. Boggs           | Machinist.                  | 2,000  |
+| Clarence W. Bohner           | Electrical engineer.                  | 3,800  |
+| Ray M. Boley           | Carpenter.                  | 1.10  |
+| James B. Bolin           | Clerk.                  | 1,800  |
+| Landrum A. Bolling           | Derrick operator.                  | 1.50  |
+| Lewis B. Bolt, Jr.           | Attorney.                  | 3,200  |
+| Colin E. Bolton           | Carpenter.                  | 1.10  |
+| Lloyd T. Bolton           | Steamfitter.                  | 1.25  |
+| Floyd L. Bond           | Engineering aide.                  | 1,500  |
+| J. Max Bond           | Supervisor, Negro training.                  | 3,800  |
+| William J. Bond           | Civil engineer.                  | 2,700  |
+| James N. Bonds           | Carpenter.                  | 1.10  |
+| Genora W. Bonine           | Clerk.                  | 1,620  |
+| William V. Booker           | Line foreman.                  | 1.20  |
+| Capress M. Boone           | Rigzer.                  | 1.25  |
+| Ralph S. Boone           | Carpenter.                  | 1.10  |
+| Raymond W. Boone           | Machinist.                  | 2,000  |
+| Warren C. Boop           | Structural engineer.                  | 3,200  |
+| Bernard Borah           | Research aide.                  | 1,800  |
+| Theodore M. Boring           | Carpenter.                  | 1.10  |
+| Frank J. Bork           | Clerk.                  | 1,800  |
+| John E. Born           | Electrician.                  | 1.10  |
+| Frank E. Boxland           | Highway engineer.                  | 2,000  |
+| Mary Lois Boss           | Accounting clerk.                  | 1,620  |
+| Alphonse E. Bost           | Draftsman.                  | 1,800  |
+| Clifton Maurice Bostick           | Accounting clerk.                  | 1,620  |
+| Morris N. Boublin           | Draftsman.                  | 1,620  |
+| Nellie E. Bounds           | Clerk stenographer.                  | 1,680  |
+| William A. Bourne           | Guard.                  | 1,500  |
+| Nicholls White Bowden           | Hydraulic engineer.                  | 5,600  |
+| Robert L. Bowden           | Carpenter.                  | 1.10  |
+| Edwin Watson Bowe           | Relocation worker.                  | 2,300  |
+| Mark M. Bowelle           | Draftsman.                  | 2,400  |
+| Harland W. Bowen           | Electrical engineer.                  | 3,200  |
+| Bennie B. Bowie           | Mechanic foreman.                  | 1.35  |
+| James F. Bowie           | Iron foreman.                  | 1.50  |
+| Albert G. Bowles           | Concrete finisher.                  | 1.10  |
+| Ernest M. Bowles           | Draftsman.                  | 1,620  |
+| Hume S. Bowles           | Mechanic.                  | 1.10  |
+| J. Clyde Bowles           | Erosion engineer.                  | 2,300  |
+| Virginia Dare Bowles           | Clerk typist.                  | 1,500  |
+| W. Jack Bowles           | Cook.                  | 1,620  |
+| Leonard A. Bowling           | Dircher operator.                  | 1.10  |
+| Sam E. Bowling           | Lineman.                  | 1.10  |
+| Daniel Bowman           | Labor foreman.                  | 1.10  |
+| David Franklin Bowman           | Guard.                  | 1,500  |
+| G. Ralph Bowman           | Draftsman.                  | 2,400  |
+| Hoyt C. Bowman           | Plumber.                  | 2,000  |
+| Hubert W. Bowman           | Carpenter.                  | 2,000  |
+| James S. Bowman           | Project planning engineer.                  | 7,250  |
+| Wylie A. Bowmaster           | Hydraulic engineer.                  | 2,300  |
+| Clyde W. Bowser           | Draftsman.                  | 1,800  |
 
 Page 8
 ================================================================================
@@ -752,81 +752,81 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Name                        | Title                        | Compensation |
 |-----------------------------|------------------------------------------------------------|---------|
 | Claude Lewis Brownell            | Cost engineer                        | $3,600  |
-| Paul E. Brownfield           | Rigzer                        | $1.25  |
-| Paul Barron Bruce           | Supply clerk                        | 2,000  |
-| Gustave S. Bruckner           | Electrical engineer                        | 2,600  |
-| Ross N. Brudenell           | Hydraulic engineer                        | 2,400  |
-| David Joseph Bromley           | do.                         | 2,100  |
-| William E. Brunt           | Mechanic                         | 1.10  |
-| G. Casey Bryan, Jr.           | Accounting clerk                        | 1,800  |
-| Hardin R. Bryan           | Clerk                        | 2,000  |
-| Paul Bryan                 | Technician                        | 2,600  |
-| William H. Bryan           | Carpenter                        | 1.10  |
-| Hugh W. Bryant           | Inspector construction                        | 2,000  |
-| James E. Bryant           | Electrician                        | 1.10  |
-| Mack A. Bryant           | Draftsman                        | 2,000  |
-| Theo. H. Bryant           | Pipe fitter                        | 1.25  |
-| Carl Bryson                 | Painter                        | 1.10  |
-| Hubert E. Bryson           | Machinist                        | 1.10  |
-| Chariene A. Buchanan           | Accounting clerk                        | 1,620  |
-| Eleanor V. Buchanan           | Clerk-stenographer                        | 1,620  |
-| James S. Buchanan           | Lineman                        | 1.10  |
-| John C. Buchanan           | Electrical engineer                        | 2,900  |
-| Sebastain B. Buchanan           | Brickmasch                        | 1.25  |
-| John Elmer Buck           | Draftsman                        | 1,800  |
-| Eleanor L. Buckles           | Clerk-typist                        | 1,500  |
-| Jack L. Buckner           | Labor foreman                        | 1.00  |
-| John L. Buckner           | Archaeologist                        | 2,000  |
-| Bob John Buehler           | Hydraulic engineer                        | 2,300  |
-| Vincent F. Buell           | Draftsman                        | 1,800  |
-| Ernest M. Buettner           | Steam fitter foreman                        | 1.50  |
-| Arthur R. Buffat           | Accounting clerk                        | 2,000  |
-| Sidney A. Buzg           | Carpenter                        | 1.10  |
-| Jean B. Buhler           | Clerk-interviewer                        | 1,620  |
-| John B. Buhler                 | Welder                        | 1.25  |
-| M. Ward Buhrman           | Clerk                        | 1,680  |
-| Ralph L. Buice           | Guard                        | 1,500  |
-| Robert F. Bullard           | Structural engineer                        | 3,300  |
-| Iris N. Bullington           | Welder                        | 1.25  |
-| Carlos Dewitt Bullock           | Structural engineer                        | 2,900  |
-| Eugene Joseph Bundschu           | Draftsman                        | 1,800  |
-| Walter E. Bundy           | Office engineer                        | 3,500  |
-| Wilbur C. Burbage           | Line foreman                        | 1.20  |
-| Delia M. Burch           | Clerk-stenographer                        | 1,800  |
-| Laverne Burchfield           | Editor                        | 3,300  |
-| Avery L. Burdette           | Guard                        | 1,620  |
-| Joe L. Burdette           | Member, board appraisal                        | 5,800  |
-| Theodore F. Burdette           | Line foreman                        | 2,200  |
-| Reginald H. Burdick, Jr. | Engineering aide                        | 1,800  |
-| Harry L. Burger           | General mechanic                        | 1,620  |
-| Samuel A. Burger           | Structural engineer                        | 2,300  |
-| James W. Burcess           | Construction inspector                        | 1,620  |
-| Clyde P. Burgin           | Labor foreman                        | 1.10  |
-| Taylor George Burke           | Electrical engineer                        | 4,600  |
-| Dayton Burkey           | Carpenter                        | 1.10  |
-| Gladys M. Burkhart           | Stenographer                        | 1,680  |
-| William E. Burkhart           | Guard                        | 1,500  |
-| Joseph W. Burke           | do.                         | 1,500  |
-| Rupert T. Burks           | Painter                        | 1.10  |
-| Staats G. Burnet           | Clerk                        | 2,000  |
-| Charles A. Burnett           | Engineering aide                        | 2,600  |
-| E. Laurence Burnett           | Structural engineer                        | 3,200  |
-| Jasper P. Burnett           | Agricultural economist                        | 2,400  |
-| Sam C. Burnett           | Steelworker                        | 1.00  |
-| William A. Burnett           | Rigzer                        | 1.25  |
-| Bonnie A. Burnham           | Carpenter                        | 1.10  |
-| Charles W. Burns           | Mechanic foreman                        | 1.35  |
-| John C. Burns                 | Construction superintendent                        | 4,800  |
-| Samuel E. Burns           | Accounting clerk                        | 1,620  |
-| Virginia Isabelle Burns           | Clerk-stenographer                        | 1,620  |
-| William E. Burns                 | Draftsman                        | 1,980  |
-| Clarence H. Burrage           | Assistant management chief                        | 4,000  |
-| Gene N. Burrell           | Hydraulic engineer                        | 3,800  |
-| George M. Burrell           | Switchboard operator                        | 1,800  |
-| Marshall J. Burris           | Blacksmith                        | 1.10  |
-| Isaac C. Burroughs           | Forestry aide                        | 4,000  |
-| Chester F. Burt           | Electrician                        | 2,000  |
-| Edward L. Burt                 | Painter                        | 1.10  |
+| Paul E. Brownfield            | Rigzer                        | $1.25  |
+| Paul Barron Bruce            | Supply clerk                        | 2,000  |
+| Gustave S. Bruckner            | Electrical engineer                        | 2,600  |
+| Ross N. Brudenell            | Hydraulic engineer                        | 2,400  |
+| David Joseph Bromley            | do.                         | 2,100  |
+| William E. Brunt            | Mechanic                         | 1.10  |
+| G. Casey Bryan, Jr.            | Accounting clerk                        | 1,800  |
+| Hardin R. Bryan            | Clerk                        | 2,000  |
+| Paul Bryan            | Technician                        | 2,600  |
+| William H. Bryan            | Carpenter                        | 1.10  |
+| Hugh W. Bryant            | Inspector construction                        | 2,000  |
+| James E. Bryant            | Electrician                        | 1.10  |
+| Mack A. Bryant            | Draftsman                        | 2,000  |
+| Theo. H. Bryant            | Pipe fitter                        | 1.25  |
+| Carl Bryson            | Painter                        | 1.10  |
+| Hubert E. Bryson            | Machinist                        | 1.10  |
+| Chariene A. Buchanan            | Accounting clerk                        | 1,620  |
+| Eleanor V. Buchanan            | Clerk-stenographer                        | 1,620  |
+| James S. Buchanan            | Linsman                        | 1.10  |
+| John C. Buchanan            | Electrical engineer                        | 2,900  |
+| Sebastain B. Buchanan            | Brickmasch                        | 1.25  |
+| John Elmer Buck            | Draftsman                        | 1,800  |
+| Eleanor L. Buckles            | Clerk-typist                        | 1,500  |
+| Jack L. Buckner            | Labor foreman                        | 1.00  |
+| John L. Buckner            | Archaeologist                        | 2,000  |
+| Bob John Buehler            | Hydraulic engineer                        | 2,300  |
+| Vincent F. Buell            | Draftsman                        | 1,800  |
+| Ernest M. Buettner            | Steam fitter foreman                        | 1.50  |
+| Arthur R. Buffat            | Accounting clerk                        | 2,000  |
+| Sidney A. Buzg            | Carpenter                        | 1.10  |
+| Jean B. Buhler            | Clerk-interviewer                        | 1,620  |
+| John B. Buhler            | Welder                        | 1.25  |
+| M. Ward Buhrman            | Clerk                        | 1,680  |
+| Ralph L. Buice            | Guard                        | 1,500  |
+| Robert F. Bullard            | Structural engineer                        | 3,300  |
+| Iris N. Bullington            | Welder                        | 1.25  |
+| Carlos Dewitt Bullock            | Structural engineer                        | 2,900  |
+| Eugene Joseph Bundschu            | Draftsman                        | 1,800  |
+| Walter E. Bundy            | Office engineer                        | 3,500  |
+| Wilbur C. Burbage            | Line foreman                        | 1.20  |
+| Delia M. Burch            | Clerk-stenographer                        | 1,800  |
+| Laverne Burchfield            | Editor                        | 3,200  |
+| Avery L. Burdette            | Guard                        | 1,620  |
+| Joe L. Burdette            | Member, board appraisal                        | 5,800  |
+| Theodore F. Burdette            | Line foreman                        | 2,200  |
+| Reginald H. Burdick, Jr.            | Engineering aide                        | 1,800  |
+| Harry L. Burger            | General mechanic                        | 1,620  |
+| Samuel A. Burger            | Structural engineer                        | 2,300  |
+| James W. Burcess            | Construction inspector                        | 1,620  |
+| Clyde P. Burgin            | Labor foreman                        | 1.10  |
+| Taylor George Burke            | Electrical engineer                        | 4,600  |
+| Dayton Burkey            | Carpenter                        | 1.10  |
+| Gladys M. Burkhart            | Stenographer                        | 1,680  |
+| William E. Burkhart            | Guard                        | 1,500  |
+| Joseph W. Burke            | do.                         | 1,500  |
+| Rupert T. Burks            | Painter                        | 1.10  |
+| Staats G. Burnet            | Clerk                        | 2,000  |
+| Charles A. Burnett            | Engineering aide                        | 2,600  |
+| E. Laurence Burnett            | Structural engineer                        | 3,200  |
+| Jasper P. Burnett            | Agricultural economist                        | 2,400  |
+| Sam C. Burnett            | Steelworker                        | 1.00  |
+| William A. Burnett            | Rigzer                        | 1.25  |
+| Bonnie A. Burnham            | Carpenter                        | 1.10  |
+| Charles W. Burns            | Mechanic foreman                        | 1.35  |
+| John C. Burns            | Construction superintendent                        | 4,800  |
+| Samuel E. Burns            | Accounting clerk                        | 1,620  |
+| Virginia Isabelle Burns            | Clerk-stenographer                        | 1,620  |
+| William E. Burns            | Draftsman                        | 1,980  |
+| Clarence H. Burrage            | Assistant management chief                        | 4,000  |
+| Gene N. Burrell            | Hydraulic engineer                        | 3,800  |
+| George M. Burrell            | Switchboard operator                        | 1,800  |
+| Marshall J. Burris            | Blacksmith                        | 1.10  |
+| Isaac C. Burroughs            | Forestry aide                        | 4,000  |
+| Chester F. Burt            | Electrician                        | 2,000  |
+| Edward L. Burt            | Painter                        | 1.10  |
 
 Page 11
 ================================================================================
@@ -1604,7 +1604,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | James B. Dillard           | Painter foreman                          | 1.35 |
 | Edmund P. Dillon           | Electrical engineer                          | 3.200 |
 | James R. Dillon           | Draftsman                          | 1.620 |
-| Marvin B. Dussmore           | Construction inspector                          | 2.100 |
+| Marvin B. Dinsmore           | Construction inspector                          | 2.100 |
 | Clyde H. Dinwiddie           | Machinist                          | 1.10 |
 | Russell S. Dittmer           | Engineering aide                          | 2.300 |
 | Walter S. Dix           | Photographer                          | 2.700 |
@@ -1671,7 +1671,7 @@ Page 21
 Names, duties, and compensation of directors, officers, and employees earning compensation at a rate of $1,500 per annum or over, as of June 30, 1937—Con.
 
 | Name                        | Title                        | Compensation |
-|--------------------------------------|----------------------------|-------------|
+|-----------------------------|--------------------------------|-------------|
 | Charles M. Dubois | Electrical engineer | $2,900  |
 | William Robert Dubois | Hoist operator | $1.00 |
 | Edward Duckett | Concrete finisher | 1.10 |
@@ -1709,13 +1709,13 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Joseph W. Dunn | Uneman | 1.10 |
 | William Clyde Dunn | Machinist | 1,800 |
 | William D. Dunn | Carpenter | 1.10 |
-| Aintie Burns Dunnam | Structural worker | 1.25 |
+| Audie Burns Dunnam | Structural worker | 1.25 |
 | William J. Durbin | Placement officer | 2,900 |
 | Beatrice L. Durden | Stenographer | 1,680 |
 | Alfred F. Durham | Painter | 1.10 |
 | Charles H. Durham | Mechanic | 1,800 |
 | James J. Durham | Core-drill foreman | 1.25 |
-| James R. Durie | Derrick operator | 1.50 |
+| James R. Durie | Derrick operator | 1.30 |
 | Lawrence L. Durisch | Technical aide | 4,600 |
 | Vivian L. Dworak | Clerk-typist | 1,620 |
 | William L. Dye | Draftsman | 1,500 |
@@ -1731,7 +1731,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Norman H. Esson | Fertilizer superintendent | 4,000 |
 | Robert E. Esstep | Blacksmith | 2,100 |
 | James G. Eastland | Steel worker | 1.25 |
-| Irvin L. Easton | Crane operator | 1.50 |
+| Irvin L. Easton | Crane operator | 1.30 |
 | Julian V. Eatherly | Mechanic | 1,800 |
 | Frances Eaton | Stenographer | 1,080 |
 | Mack Eaves | Rieger | 1.25 |
@@ -2087,7 +2087,7 @@ Page 26
 Names, duties, and compensation of directors, officers, and employees earning compensation at a rate of $1,500 per annum or over, as of June 50, 1957—Con.
 
 | Name                        | Title                        | Compensation |
-|-----------------------------|--------------------------------|-------------|
+|-----------------------------|--------------------------------|---------------|
 | Joseph C. Gambill             | Medical officer             | $3,200  |
 | Roy W. Gamble             | Structural engineer             | 3,200  |
 | Thomas J. Hamel             | Painter             | $1.10  |
@@ -2578,7 +2578,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Nolan S. Hatcher                   | Structural engineer                          | 2,300  |
 | Tristve P. Hathcote                   | Stenographer                          | 1,000  |
 | Kubel O. Hatmaker                   | Engineering aide                          | 2,100  |
-| Otto J. Haack                   | Fiscal accountants                          | 2,000  |
+| Otto J. Hauck                   | Fiscal accountants                          | 2,000  |
 | Edward H. Hauer                   | Switchboard operator                          | 2,200  |
 
 Page 32
@@ -3560,7 +3560,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | William O. Leonard            | Storekeeper                   | 2,900  |
 | Benjamin H. Leroy            | Timberman                   | 1,100  |
 | Frank Hamilton Leslie            | Power dispatcher                   | 2,600  |
-| Itaea B. Lester            | Clerk-stenographer                   | 1,620  |
+| Itasca B. Lester            | Clerk-stenographer                   | 1,620  |
 | Dorothy B. Levy            | File clerk                   | 1,680  |
 | Stanley E. Levy            | Draftsman                   | 1,800  |
 | Alfred H. Lewis            | Doo                   | 2,400  |
@@ -3655,7 +3655,7 @@ Page 44
 | William B. Longmire           | Inspector, construction... | 2,000  |
 | Frank S. Loomis           | Civil engineer... | 3,200  |
 | Robert E. Looney           | Labor foreman... | 1.10  |
-| William E. Loose           | Draftsman... | 2,000  |
+| William E. Loose           | Uraltoman... | 2,000  |
 | Maxie Loper           | Derrick operator... | 1.50  |
 | Shoun W. Louis           | Carpenter... | 1.10  |
 | James N. Loupe           | Engineering aide... | 2,000  |
@@ -3778,7 +3778,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Tully Levering McCrea                | Administrative assistant                          | 2.600  |
 | James O. McCray                | Lineman                          | 2.000  |
 | Miles E. McCuston                | Carpenter                          | 2.000  |
-| Bon H. McCullough                | Swatchboard operator                          | 2.600  |
+| Bon H. McCullough                | Switclboard operator                          | 2.600  |
 | Paul P. McCullough                | Pay-roll clerk                          | 1.800  |
 | Hyburd H. McCurry                | Junior time clerk                          | 1.500  |
 | Walker W. McCutchen                | Supply clerk                          | 1.620  |
@@ -3797,7 +3797,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | William E. McDonald                | Carpenter                          | 1.800  |
 | Albert E. McDonough                | Lineman                          | 1.10  |
 | Edwin A. McDougle                | Inspector, construction                          | 2.000  |
-| Charles G. McDowell                | Iron worker                          | 1.25  |
+| Charles G. McDowell                | Ironworker                          | 1.25  |
 | Edgar F. McElfresh                | Highway engineer                          | 3.200  |
 | A. Jack McGrath                | Draftsman                          | 1.800  |
 | Hudson D. McElroy                | Carpenter                          | 1.10  |
@@ -3809,7 +3809,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Fred T. McFee                | Administrative assistant                          | 3.200  |
 | Robert A. McFerrin                | Line foreman                          | 2.200  |
 | Arthur R. McGarry                | Supply clerk                          | 1.800  |
-| Cecil B. McGrouck                | Geologist                          | 2.000  |
+| Cecil B. McGrowck                | Geologist                          | 2.000  |
 | Clarence C. McGhee                | Engineering aide                          | 1.300  |
 | James H. McGhison                | Blacksmith                          | 1.10  |
 | William J. McGarlion                | Personnel aide                          | 2.300  |
@@ -4943,19 +4943,19 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Harold N. Richardson                    | Cost estimator                          | $3.80 |
 | Harvey W. Richardson                    | Brickmasch                          | $1.25 |
 | Julian W. Richardson                    | Rieger                          | $1.25 |
-| Robert E. Richardson                    | Welder forman                          | $1.50 |
+| Robert E. Richardson                    | Welder formant                          | $1.50 |
 | Worth B. Richardson                    | Construction superintendent                          | $1.50 |
 | Claud G. Richeson                    | Carpenter                          | $1.10 |
 | Albert F. Richey                    | Painter                          | $1.10 |
-| Audrey W. Richey                    | Clerk-sterographer                          | $1.60 |
+| Audrey W. Richey                    | Clerk stenographer                          | $1.60 |
 | Carl L. Richey                    | General personnel representative                          | $5.20 |
 | Ralph D. Richie                    | Mechanic                          | $1.10 |
-| Earl U. Rickard                    | do                          | $1.10 |
+| Earl U. Rickard                    | Do                          | $1.10 |
 | Luther C. Rickard                    | Steam fitter                          | $1.25 |
 | Will L. Ricketts                    | Labor foreman                          | $1.10 |
 | A. J. Rickles                    | Material foreman                          | $2.30 |
 | Frank J. Robbib                    | Carpenter                          | $1.10 |
-| Charles L. Roblile                    | do                          | $1.10 |
+| Charles L. Roblile                    | Do                          | $1.10 |
 | John S. Riddle                    | Electrician                          | $1.10 |
 | William Layton Ridenhour                   | Draftsman                          | $1.40 |
 | Charles Louis Ridgers                    | Engineering aide                          | $1.80 |
@@ -4976,14 +4976,14 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Ernest C. Riner                    | Carpenter                          | $1.10 |
 | Bernard M. Rinev                    | Accounting clerk                          | $1.620 |
 | Kenneth Eugene Ristau                    | Civil engineer                          | $2.00 |
-| Juanita R. Ritchie                    | Clerk-sterographer                          | $1.60 |
+| Juanita R. Ritchie                    | Clerk stenographer                          | $1.60 |
 | Standard L. Ritter                    | File clerk                          | $1.80 |
 | William N. Ritter                    | Engineering aide                          | $1.80 |
 | James H. Rives                    | Highway engineer                          | $2.00 |
-| M. Corinne Rosch                    | Clerk-sterographer                          | $1.620 |
+| M. Corinne Rosch                    | Clerk stenographer                          | $1.620 |
 | Donald Roark                    | Draftsman                          | $2.00 |
 | Roscoe L. Robbins                    | Forest ranger                          | $1.620 |
-| Katie C. Roberson                    | Administrative assistant                          | $3.20 |
+| Earle C. Roberson                    | Administrative assistant                          | $3.20 |
 | Alex Davenport Roberts                   | Office engineer                          | $2.60 |
 | Benhamin F. Roberts                   | Rieger                          | $1.25 |
 | Clifford A. Roberts                   | Switchboard operator                          | $2.00 |
@@ -5006,7 +5006,7 @@ Names, duties, and compensation of directors, officers, and employees earning co
 | Willie P. Roberts                   | Carpenter                          | $1.10 |
 | Anson J. Robertson                   | Auditor                          | $4.80 |
 | J. Elizabeth Robertson                   | Accounting clerk                          | $2.00 |
-| Roma H. Robertson                   | Clerk-sterographer                          | $1.50 |
+| Roma H. Robertson                   | Clerk stenographer                          | $1.50 |
 | Andrew J. Robinson                   | Carpenter                          | $1.10 |
 | Blicht S. Robinson                   | Engineering aide                          | $2.100 |
 | Dexter Henry Robinson                   | Carpenter                          | $1.10 |

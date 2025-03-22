@@ -995,7 +995,7 @@
   Thomas E. Cox               Carpenter               1.00               
   William H. Cox               Storekeeper               2,300               
   William M. Cox               Supply clerk               1,620               
-  Simson O. Coxs, Jr.               Draftsman               1,900               
+  Simson O. Coxs, Jr.               Dratteman               1,900               
   Clarence L. Crabtree               Highway engineer               3,200               
   Elisabeth Crabtree               Secretary               2,300               
   Henry F. Crabtree               Carpenter               1.00               
@@ -1017,7 +1017,7 @@
   Richard L. Crawford               Draftsman               2,000               
   George I. Croel               Foreman               2,100               
   Homer J. Croel               Engineering aide               1,620               
-  Carlton Crenshaw               Draftsman               2,200               
+  Carlton Crenshaw               Dratteman               2,300               
   Charles H. Crenshaw               Steelworker               1,124               
   James M. Criddle               Auto mechanic               1,620               
   Clocher D. Crim               Blacksmith               1.00               
@@ -1728,7 +1728,7 @@
   Chesley H. Glass               Structural engineer               2.300               
   R. H. Giseves               Associate engineer               3.000               
   Robert M. Glendinning               Geologist               3.200               
-  Billy M. Glenn               Photographer               1.600               
+  Billy M. Glenn               Photographer               1.620               
   Eugene Byron Glenn               Medical officer               3.200               
   Hugh W. Glenn               Draftsman               2.000               
   John W. Glenn               Cement finisher               1.00               
@@ -1748,18 +1748,18 @@
   Verne Gungwer               Project engineer               7.200               
   James W. Gooch               Rigger               1.00               
   Percy I. Gooch               Carpenter               1.00               
-  Willie T. Gooch               Guarddress               1.600               
+  Willie T. Gooch               Guarddress               1.620               
   George W. Good               Painter foreman               1.25               
   Wade Good               Machinist foreman               1.25               
-  Dewey D. Goode               Steam fitter               1.125               
+  Dewey D. Goode               Steam fitter               1.12               
   Joe F. Goode               Painter               1.00               
   Howard W. Goodhite               Hydraulic engineer               3.200               
   George W. Goodman               Labor foreman               1.00               
   Florentine D. Goodrich               Treasurer               4.500               
-  Jody L. Goodwin               Ironworker               1.125               
+  Jody L. Goodwin               Ironworker               1.12               
   Leon Goodwin               Dragline operator               1.25               
   Ray Goodwin               Highway engineer               2.600               
-  S. A. Goodwin               Ironworker               1.125               
+  S. A. Goodwin               Ironworker               1.12               
   Clarence T. Gordon               Hydraulic engineer               2.900               
   Frank R. Gordon               Electrician               1.00               
   John F. Gordon               Mechanical superintendent               3.600               
@@ -1767,7 +1767,7 @@
   Hugh E. Gority               Inspector materials               2.600               
   Willie C. Gorthy               Mechanical engineer               2.300               
   Robert L. Goss               Draftsman               2.300               
-  Alex L. Gossett               Supply clerk               1.600               
+  Alex L. Gossett               Supply clerk               1.620               
   James D. Gossett               Carpenter               1.00               
   Jones E. Goudelock               Storekeeper               1.800               
   C. L. Gouffon               Erosion engineer               2.300               
@@ -1784,8 +1784,8 @@
   E. W. Graham               Blacksmith               1.00               
   H. A. Graham               Concrete finisher               1.00               
   Isaac M. Graham               Carpenter               1.00               
-  John Graham               Electrician               1.600               
-  John R. Graham               Painter               1.800               
+  John Graham               Electrician               1.620               
+  John R. Graham               Painter               1.600               
   W. H. Graham               Marine engineer               1.00               
   W. S. Graham               Linsman               1.00               
   Edgar C. Granling               Carpenter               1.00               
@@ -1794,7 +1794,7 @@
   Louis Grandgent               Architectural engineer               3.600               
   Rodney L. Grandy               Accountant               2.600               
   Robert N. Grant               Carpenter foreman               1.25               
-  Roy Grant               Steelworker               1.125               
+  Roy Grant               Steelworker               1.12               
   Garrett Graves               Labor foreman               1.00               
   Hersie B. Graves               Carpenter saw filer               1.00               
   Osborne H. Graves               Architect               3.200               
@@ -2114,8 +2114,8 @@
   Andy T. Hendrix               Agriculture engineer               1,000               
   Frank Henkle               Blacksmith               1,000               
   Maurice Henle               Information assistant               4,000               
-  William P. Henritse               Line foreman               2,000               
-  Edward B. Henry               Electrical engineer               2,000               
+  William P. Henritse               Line foreman               2,250               
+  Edward B. Henry               Electrical engineer               2,900               
   Grace Henry               Accounting clerk               1,800               
   Hugh B. Henry               Draftsman               1,800               
   James E. Henry               Carpenter               1,000               
@@ -2145,7 +2145,7 @@
   William F. Hickman               Carpenter               1,000               
   George H. Hickox               Hydraulic engineer               3,000               
   Frederick E. Hicks, Jr.               Chief time clerk               2,200               
-  Dr. Gilliam Swink Hicks               Medical officer               2,000               
+  Dr. Gilliam Swink Hicks               Medical officer               2,900               
   Harry H. Hicks               Receiving clerk               1,620               
   James K. Hicks               Carpenter               1,000               
   James R. Hicks               Steel worker               1,000               
@@ -2843,7 +2843,7 @@
   George E. Lewis               Engineering aide               1,800               
   Hazel Lewis               Supervisor               1,800               
   Helen K. Lewis               Secretary               2,300               
-  Herschel R. Lewis               Carpenter               1.00               
+  Herschel B. Lewis               Carpenter               1.00               
   James S. Lewis               Switchboard operator               2,100               
   James S. Lewis Jr               Superintendent               4,500               
   Jesse M. Lewis               Carpenter               1.00               
@@ -2898,7 +2898,7 @@
   James R. Longmire               Accounting clerk               1.50               
   Frank S. Loomis               Civil engineer               3.20               
   Robert E. Looney               Labor foreman               1.00               
-  William E. Loose               Draftsman               1.50               
+  William E. Loose               Draftsman               1.00               
   James N. Loupe               Engineering aide               2.00               
   Boyce W. Love               Carpenter               1.00               
   M. T. Love               Electrician               1.00               
@@ -3417,26 +3417,26 @@
   Charles G. Mynatt               Accountant clerk               2,000               
   H. L. Mynatt               Title examiner               3,000               
   W. F. Mynatt               Carpenter               1,800               
-  William A. Nabors               Do.               1.00               
+  William A. Nabors               do               1.00               
   W. Stanton Nail               Public safety aide               1,800               
   George W. Nail               General eers drill foreman               3,600               
   Clara Olive Nais               Training supervisor               3,300               
-  Henry C. Nais               Brickmasch.               1.12               
-  Boyd B. Nail               Coresdrill foreman               1.25               
+  Henry C. Nais               Brickmason               1.12               
+  Boyd B. Nail               Cores drill foreman               1.25               
   C. H. Nanos               Mechanic               1.00               
   Boyd Nankivelis               Storekeeper               1,800               
   Lawrence B. Nanney               Carpenter               1.00               
-  Cleveland W. Narmors               Do.               1.00               
+  Cleveland W. Narmors               do               1.00               
   Henry Narmors               Crane operator               1.50               
   John W. Narmors               Rigger               1.00               
-  Leonard N. Narmors               Coresdrill operator               1.00               
+  Leonard N. Narmors               Cores drill operator               1.00               
   Elizabeth Etobe Nash               Stenographer               1,620               
   Rupert Nash               Concrete finisher               1.00               
   Earl C. Nave               Pay roll clerk               1,620               
   Horace Oresley Nave               Engineering aide               1,800               
-  J. O. Neal               Do.               1,620               
-  John Malbon Neal               Do.               2,000               
-  John N. Neal               Do.               2,300               
+  J. O. Neal               do               1,620               
+  John Malbon Neal               do               2,000               
+  John N. Neal               do               2,300               
   Luther T. Neal               Carpenter               1.00               
   Fred E. Neely               Shop machinist               1.00               
   John L. Neely, Jr.               Manager Muscle Shoals               5,200               
@@ -3458,7 +3458,7 @@
   Lloyd F. Nelson               Electrician               1.00               
   Everett E. Neiskom               Photographer               2,300               
   Donald W. Neville               Engineering aide               1,800               
-  James A. Neville               Steel foreman               1,37               
+  James A. Neville               Steel foreman               1.37               
   Albert New               Engineering aide               1,620               
   William R. New               Relocation worker               1,800               
   Frank E. Newbern               Carpenter               1.00               
@@ -3467,8 +3467,8 @@
   Carl B. Newman               Electrician               1.00               
   Cory Newman               Carpenter               1.00               
   Ernest M. Newman               Draftsman               1,800               
-  Ervin Francis Newman               Do.               1,800               
-  James H. Newman               Walder               1.00               
+  Ervin Francis Newman               do               1,800               
+  James H. Newman               Welder               1.00               
   James W. Newman               Engineering aide               1,800               
   John W. Newman               Administrative officer               4,400               
   Malcolm J. Newman               Structural engineer               2,000               
@@ -4155,7 +4155,7 @@
   Ernst J. Schreiner               Forestry specialist               3,200  
   Earnest M. Schultz               Carpenter               1.00               
   A. J. Schuppert               Brickmason               1.12               
-  Karl Schuster               Forsster               2.00               
+  Karl Schuster               Forsster               2.000               
   Delcy Schwartzman               Supply clerk               1.620               
   Arthur Schweier               Hydroxilic engineer               4.500               
   George Schweppe               Information representative, Muscle Shoals               3.600               
@@ -4206,7 +4206,7 @@
   Clarence F. Shallbo               Civil engineer               2.900               
   Henry B. Shannon               Member appraisal committee               4.500               
   Jasper Berry Shannon               Administrative aide               3.200               
-  William A. Shapard, Jr.               Hydraulic engineer               3.200               
+  William A. Shapard, Jr.               Hydroxilic engineer               3.200               
   Earl L. Sharp               Forestry aide               2.600               
   Hillery A. Sharp               Carpenter               1.00               
   J. Othis Sharp               Abstractor               2.000               
@@ -5184,7 +5184,7 @@
   Roscoe Word               Title attorney               3,800               
   Josiah Work               Raw materials supervisor               2,600               
   Charles H. Worley               Carpenter               1.00               
-  Sidney A. Worley               Masonry foreman               1.57               
+  Sidney A. Worley               Masonry foreman               1.37               
   Alva L. Worsham               Derrick operator               1.50               
   Carl L. Worsham               Electrian               1.00               
   Harry G. Worsham               Accountant               2,600               
