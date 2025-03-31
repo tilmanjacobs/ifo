@@ -23,6 +23,31 @@ for filename in text_files:
         processed_lines = []
         
         for line in infile:
+            # Remove any comma that's adjacent to a number before any other processing
+            line = re.sub(r'(?:\d,|,\d)', lambda m: m.group().replace(',', ''), line)
+            
+            # Replace 1.1215 with 1.12
+            line = re.sub(r'1\.1215\b', '1.12', line)
+            
+            # Delete periods that are preceded by any single digit and followed by three numbers
+            line = re.sub(r'(\d)\.(\d{3})', r'\1\2', line)
+            
+            # Check if line contains required elements
+            has_letter = bool(re.search(r'[a-zA-Z]', line))
+            has_number = bool(re.search(r'\d', line))
+            has_period_or_comma = bool(re.search(r'[.,]', line))
+            
+            # Skip lines that don't meet all criteria
+            if not (has_letter and has_number and has_period_or_comma):
+                continue
+            
+            # Find all numbers in the line (including those with periods/commas)
+            numbers = re.findall(r'\d+(?:[,.]\d+)*', line)
+            
+            # Skip lines with multiple numbers
+            if len(numbers) > 1:
+                continue
+            
             # Check if current line contains "Total" or "total"
             if re.search(r'total', line, re.IGNORECASE):
                 found_total = True
@@ -52,20 +77,6 @@ for filename in text_files:
                 # Replace any string of three or more spaces with 15 spaces
                 cleaned_text = re.sub(r' {3,}', ' ' * 15, cleaned_text)
                 
-                # Only keep everything up to the first string of numbers, commas, and periods
-                match = re.search(r'([a-zA-Z]+[,.]?[ ]*[0-9,.]+)', cleaned_text)
-                if match:
-                    cleaned_text = match.group(1) + '\n'
-                
-                # Only write lines that contain numbers, letters, and either a comma or period
-                has_numbers = re.search(r'[0-9]', cleaned_text)
-                has_letters = re.search(r'[a-zA-Z]', cleaned_text)
-                has_comma_or_period = re.search(r'[,.]', cleaned_text)
-                
-                # Skip lines that don't meet all criteria
-                if not (has_numbers and has_letters and has_comma_or_period):
-                    continue
-                
                 # Store the cleaned line for later filtering
                 processed_lines.append((cleaned_text, line.strip()))
             else:
@@ -75,7 +86,6 @@ for filename in text_files:
         # If "Total" was never found, process all lines normally
         if not found_total:
             for line in buffer_lines:
-                # Apply all the same cleaning steps
                 cleaned_text = re.sub(r'[^a-zA-Z0-9,.\s]', ' ', line)
                 cleaned_text = re.sub(r'\.+', '.', cleaned_text)
                 cleaned_text = re.sub(r' {3,}', ' ' * 15, cleaned_text)
@@ -97,20 +107,14 @@ for filename in text_files:
                 # Replace any string of three or more spaces with 15 spaces
                 cleaned_text = re.sub(r' {3,}', ' ' * 15, cleaned_text)
                 
-                # Only write lines that contain numbers, letters, and either a comma or period
-                has_numbers = re.search(r'[0-9]', cleaned_text)
-                has_letters = re.search(r'[a-zA-Z]', cleaned_text)
-                has_comma_or_period = re.search(r'[,.]', cleaned_text)
-                
-                # Skip lines that don't meet all criteria
-                if not (has_numbers and has_letters and has_comma_or_period):
-                    continue
-                
                 # Store the cleaned line for later filtering
                 processed_lines.append((cleaned_text, line.strip()))
         
         # Now filter out lines with multiple numbers after all other cleaning is done
         for cleaned_text, original_line in processed_lines:
+            # Replace period in pattern like "1.23." with "0"
+            cleaned_text = re.sub(r'(\d)\.(\d{2})\.' , r'\g<1>0\g<2>.', cleaned_text)
+            
             # Check if line contains multiple numbers
             # This regex finds numbers that must contain a digit and may include commas and periods
             numbers = re.findall(r'[0-9]+(?:[,.][0-9]+)*', cleaned_text)

@@ -3,16 +3,10 @@ import os
 
 def get_headers():
     """
-    Return the headers for the CSV file.
-    
-    Returns:
-        str: Comma-separated headers
+    Return the simplified headers for the CSV file.
     """
     headers = [
-        "First Name",
-        "Middle Name 1",
-        "Middle Name 2",
-        "Middle Name 3",
+        "Given Names",
         "Last Name",
         "Job Title",
         "Annual Salary",
@@ -20,59 +14,55 @@ def get_headers():
     ]
     return ','.join(headers)
 
-#def split_name(name):
+def split_name(name):
     """
-    Split a name into first, middle names, and last name.
-    Handles 'Mrs.' prefix as first name.
+    Split a name into given names and last name, handling both formats:
+    - "First Middle Last" format
+    - "Last, First Middle" format
     
     Args:
         name (str): Full name string
         
     Returns:
-        str: Name components joined by commas
+        tuple: (given_names, last_name)
     """
     # Clean the name first
-    name = re.sub(r'[\s\.\-,]+$', '', name.strip())
+    name = name.strip()
     
-    # Check for Mrs. prefix
-    if name.lower().startswith('mrs'):
-        # Remove any dots after Mrs and split
-        name = re.sub(r'^mrs\.?\s*', 'Mrs,', name, flags=re.IGNORECASE)
-        parts = name.split(',')[1].strip().split()
+    # Check if name contains a comma (Last, First Middle format)
+    if ',' in name:
+        # Split on comma and reverse the order
+        parts = name.split(',', 1)
+        last_name = parts[0].strip()
+        given_names = parts[1].strip() if len(parts) > 1 else ''
     else:
+        # First Middle Last format
         parts = name.split()
+        if len(parts) < 2:
+            return name, ''  # Handle single name case
+            
+        last_name = parts[-1]
+        given_names = ' '.join(parts[:-1])
     
-    # Handle the rest of the name parts
-    if name.lower().startswith('mrs'):
-        first_name = 'Mrs'
-        remaining_parts = parts  # Keep all parts after Mrs
-    else:
-        first_name = parts[0]
-        remaining_parts = parts[1:]  # Keep all remaining parts as middle/last names
-        
-        # Only split first name if it contains periods (initials)
-        if '.' in first_name:
-            initials = [p.strip() for p in first_name.split('.') if p.strip()]
-            first_name = initials[0]
-            # Add any additional initials to the beginning of remaining_parts
-            remaining_parts = initials[1:] + remaining_parts
+    # Clean up any remaining punctuation in given names
+    given_names = re.sub(r'[\.\-,]+', ' ', given_names)
     
-    # Initialize middle names and last name
-    middle_name1 = remaining_parts[0] if len(remaining_parts) > 1 else ''
-    middle_name2 = remaining_parts[1] if len(remaining_parts) > 2 else ''
-    middle_name3 = remaining_parts[2] if len(remaining_parts) > 3 else ''
-    last_name = remaining_parts[-1] if remaining_parts else ''
+    # Handle Jr., Sr., etc. in last name
+    if re.search(r'\b(Jr\.?|Sr\.?|III|IV|V)\b', last_name, re.IGNORECASE):
+        # Move the suffix to given names
+        suffix = re.search(r'\b(Jr\.?|Sr\.?|III|IV|V)\b', last_name, re.IGNORECASE).group()
+        last_name = re.sub(r'\s*\b(Jr\.?|Sr\.?|III|IV|V)\b', '', last_name, flags=re.IGNORECASE)
+        given_names = f"{given_names} {suffix}"
     
-    # If there's only one remaining part after Mrs., it's the last name
-    if name.lower().startswith('mrs') and len(remaining_parts) == 1:
-        middle_name1 = middle_name2 = middle_name3 = ''
-        last_name = remaining_parts[0]
-    # If there's only two parts total (not counting Mrs.), no middle names
-    elif len(remaining_parts) == 2:
-        middle_name1 = middle_name2 = middle_name3 = ''
-        last_name = remaining_parts[1]
+    # Handle Mrs. prefix in given names
+    if given_names.lower().startswith('mrs'):
+        given_names = re.sub(r'^mrs\.?\s*', 'Mrs ', given_names, flags=re.IGNORECASE)
     
-    return f"{first_name},{middle_name1},{middle_name2},{middle_name3},{last_name}"
+    # Clean up any extra spaces
+    given_names = ' '.join(given_names.split())
+    last_name = ' '.join(last_name.split())
+    
+    return given_names, last_name
 
 def clean_column(text, preserve_spaces=False):
     """
@@ -134,21 +124,14 @@ def assign_salary(value):
 def read_txt_file(file_path):
     """
     Read content from a text file and convert to CSV format.
-    Splits the first column into name components.
-    Preserves spaces in second column.
-    Assigns salary to appropriate column based on value.
-    Saves output to csv directory at same level as txt folder.
-    
-    Args:
-        file_path (str): Path to the text file
     """
     try:
         # Read the input file
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
             
-        # First remove all commas and dollar signs from the entire content
-        content = content.replace(',', '').replace('$', '')
+        # First remove all commas (except those in names) and dollar signs
+        content = content.replace('$', '')
         
         # Split into lines and process
         lines = content.splitlines()
@@ -158,17 +141,19 @@ def read_txt_file(file_path):
         # Add headers as first line
         processed_lines.append(get_headers())
         
-        previous_job_title = ""  # Store previous job title
+        previous_job_title = ""
         
         for line in lines:
-            # Replace 2 or more spaces with a single comma
-            processed_line = re.sub(r'\s{2,}', ',', line.strip())
+            # Skip empty lines
+            if not line.strip():
+                continue
+                
+            # Split the line into columns using multiple spaces as delimiter
+            columns = re.split(r'\s{2,}', line.strip())
             
-            # Split the line into columns
-            columns = processed_line.split(',')
             if len(columns) >= 3:
                 # Split the name into components
-                name_columns = split_name(columns[0])
+                given_names, last_name = split_name(columns[0])
                 
                 # Clean job title and handle 'do' replacement
                 job_title = clean_column(columns[1], preserve_spaces=True)
@@ -182,9 +167,8 @@ def read_txt_file(file_path):
                 annual, hourly = assign_salary(salary_value)
                 
                 # Combine all columns
-                processed_line = f"{name_columns},{job_title},{annual},{hourly}"
-                
-            processed_lines.append(processed_line)
+                processed_line = f"{given_names},{last_name},{job_title},{annual},{hourly}"
+                processed_lines.append(processed_line)
             
         # Get parent directory of txt folder and create csv directory there
         txt_dir = os.path.dirname(file_path)
@@ -220,7 +204,7 @@ def read_txt_file(file_path):
 
 def main():
     # Get all txt files in the txt directory
-    txt_dir = 'txt'
+    txt_dir = 'cleaned_text'
     for filename in os.listdir(txt_dir):
         if filename.endswith('.txt'):
             file_path = os.path.join(txt_dir, filename)

@@ -1,12 +1,2 @@
 # Ignore contents of data folders but keep folders themselves
-#pdf/*
-pdf_no_ocr/*
-txt/*
-pdf_ocr/*
-
-
-# Don't ignore .gitkeep files (to maintain folder structure)
-!pdf/.gitkeep
-!pdf_no_ocr/.gitkeep
-!txt/.gitkeep 
-!pdf_ocr/.gitkeep   
+OCT_TVA_API_key.rtf
