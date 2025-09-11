@@ -9,7 +9,7 @@ This repository contains code and data for a number of projects listed below. To
   |add new task here|-------------|------|---------|----------------|----------|
  
 * ## TVA
-  Code for scraping and OCR processing of Tennessee Valley Authority (TVA) salary data using Mistral AI API
+  Code for scraping and OCR processing of Tennessee Valley Authority salary data using Mistral AI API
   | Task            | Description | Date | Urgency | Date completed | Comments |
   |-----------------|-------------|------|---------|----------------|----------|
   |add new task here|-------------|------|---------|----------------|----------|
@@ -25,3 +25,5 @@ This repository contains code and data for a number of projects listed below. To
     | Task            | Description | Date | Urgency | Date completed | Comments |
     |-----------------|-------------|------|---------|----------------|----------|
     |add new task here|-------------|------|---------|----------------|----------|
+
+  
