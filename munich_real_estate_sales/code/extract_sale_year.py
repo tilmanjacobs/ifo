@@ -1,3 +1,18 @@
+"""Utilities to extract sale years from shapefile text fields.
+
+This script reads one or more ESRI Shapefiles, identifies a free-text
+description column, extracts a four-digit year using a configurable
+heuristic, and writes the result into a new attribute column. Output is
+persisted as a new shapefile (or overwrites an existing "*_with_year.shp").
+
+Key features:
+- Encoding-aware reading with .cpg support and fallbacks
+- Heuristics to locate a likely description column
+- Robust year extraction with optional handling for lines beginning with
+  "Quelle:" and tie-breaking for multiple years
+- Output path logic designed to avoid duplicate files on repeated runs
+"""
+
 import argparse
 import re
 from pathlib import Path
@@ -6,18 +21,38 @@ import geopandas as gpd
 from pyogrio import read_dataframe as ogr_read_dataframe
 
 
+
+
+
 def extract_year_from_text(
     text: object,
     year_regex: re.Pattern,
     prefer_last: bool,
     include_quelle: bool,
 ) -> int | None:
-    """Return a four-digit year found in text or None if no year is present.
+    """Extract a sale year from a free-text string.
 
-    If multiple years are present, return last/first depending on prefer_last.
+    Parameters
+    ---------
+    text:
+        Arbitrary value expected to be a string. Non-strings are ignored.
+    year_regex:
+        Compiled regular expression used to locate four-digit years.
+    prefer_last:
+        If multiple years are found, return the last one when True;
+        otherwise return the first match.
+    include_quelle:
+        When False, lines beginning with "Quelle:" are removed before
+        searching to avoid matching source/document dates instead of sale dates.
+
+    Returns
+    -------
+    int | None
+        The detected year as an integer, or None if not found or unparseable.
     """
     if not isinstance(text, str):
         return None
+  
     # Remove lines that start with "Quelle:" (source info), case-insensitive
     if not include_quelle:
         text = re.sub(r"(?mi)^\s*Quelle:.*$", "", text)
@@ -32,14 +67,31 @@ def extract_year_from_text(
 
 
 def build_output_path(input_path: Path, output_path: Path | None) -> Path:
+    """Compute the output shapefile path for a given input.
+
+    If an explicit output path is provided, use it as-is. Otherwise, append
+    "_with_year" to the input stem. If the input already ends with
+    "_with_year.shp", return the input path to overwrite in place. This avoids
+    creating duplicated names on multiple runs.
+    """
     if output_path is not None:
         return output_path
     if input_path.suffix.lower() == ".shp":
+        # If input already looks like an output, overwrite it in place
+        if input_path.stem.endswith("_with_year"):
+            return input_path
         return input_path.with_name(input_path.stem + "_with_year.shp")
     return input_path.parent / (input_path.name + "_with_year.shp")
 
 
 def find_description_column(columns: list[str], preferred: str) -> str | None:
+    """Choose a likely description column from a list of field names.
+
+    Preference order:
+    1) The explicitly requested name if present
+    2) Common English/German variants via regex patterns
+    Returns the original cased column name or None when no match is found.
+    """
     # If preferred exists, use it
     if preferred in columns:
         return preferred
@@ -62,6 +114,12 @@ def find_description_column(columns: list[str], preferred: str) -> str | None:
 
 
 def main() -> None:
+    """Command-line interface entry point.
+
+    Parses CLI arguments, gathers input shapefiles, extracts a year from
+    a selected text field into a new attribute, and writes the result to
+    disk, taking care to avoid duplicate output files.
+    """
     parser = argparse.ArgumentParser(
         description="Extract a sale year from a text field and write to a new shapefile field."
     )
@@ -120,6 +178,7 @@ def main() -> None:
         default="cp1252,latin-1,iso-8859-1",
         help="Comma-separated fallback encodings to try on decode error",
     )
+    
     args = parser.parse_args()
 
     # Resolve which shapefiles to process
@@ -127,7 +186,10 @@ def main() -> None:
     if args.input is None:
         default_dir = Path("data")
         if default_dir.exists() and default_dir.is_dir():
-            inputs = sorted(default_dir.glob("*.shp"))
+            # Exclude previously generated outputs to avoid *_with_year_with_year.shp
+            inputs = sorted(
+                p for p in default_dir.glob("*.shp") if not p.stem.endswith("_with_year")
+            )
             if not inputs:
                 raise FileNotFoundError("No .shp files found in ./data. Provide an input path.")
             print(f"No input provided. Processing {len(inputs)} shapefile(s) in 'data/'.")
@@ -136,7 +198,10 @@ def main() -> None:
     else:
         input_path: Path = args.input
         if input_path.is_dir():
-            inputs = sorted(input_path.glob("*.shp"))
+            # Exclude previously generated outputs to avoid *_with_year_with_year.shp
+            inputs = sorted(
+                p for p in input_path.glob("*.shp") if not p.stem.endswith("_with_year")
+            )
             if not inputs:
                 raise FileNotFoundError(f"No .shp files found in directory: {input_path}")
         else:
@@ -144,14 +209,23 @@ def main() -> None:
                 raise FileNotFoundError(f"Input file not found: {input_path}")
             inputs = [input_path]
 
+    # Choose tie-breaker policy for multiple years in a single text field
     prefer_last: bool = True if not args.prefer_first else False
     year_field: str = args.year_field
     if len(year_field) > 10:
         raise ValueError("Shapefile field names must be <= 10 characters")
 
+    # Match 1900–2099; adjust here if broader ranges are needed
     year_regex = re.compile(r"\b(19\d{2}|20\d{2})\b")
 
     def read_with_encoding(path: Path) -> gpd.GeoDataFrame:
+        """Read a shapefile honoring explicit and discovered encodings.
+
+        Resolution order:
+        1) Use --encoding when provided
+        2) Use encoding specified in the sibling .cpg file when present
+        3) Defer to the default driver behavior
+        """
         # 1) Respect explicit --encoding
         if args.encoding:
             return ogr_read_dataframe(path, encoding=args.encoding)
@@ -170,6 +244,7 @@ def main() -> None:
         return gpd.read_file(path)
 
     for input_path in inputs:
+        # Read dataset with best-effort encoding detection
         print(f"Reading: {input_path}")
         try:
             gdf = read_with_encoding(input_path)
@@ -187,6 +262,7 @@ def main() -> None:
             else:
                 raise
 
+        # Identify the free-text description column
         desc_col = find_description_column(list(gdf.columns), args.description_field)
         if not desc_col:
             available = ", ".join(map(str, gdf.columns))
@@ -196,6 +272,7 @@ def main() -> None:
         if desc_col != args.description_field:
             print(f"  Using '{desc_col}' as description field (auto-detected).")
 
+        # Compute year values from the description field
         gdf[year_field] = gdf[desc_col].apply(
             lambda value: extract_year_from_text(
                 value,
@@ -205,11 +282,12 @@ def main() -> None:
             )
         )
 
+        # Build destination path and write output
         output_path = build_output_path(input_path, args.output)
 
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
-        gdf.to_file(output_path, driver="ESRI Shapefile")
+        gdf.to_file(output_path, driver="ESRI Shapefile", encoding="UTF-8")
         print(f"Wrote: {output_path}")
 
 
